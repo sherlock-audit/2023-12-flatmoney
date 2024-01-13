@@ -1,0 +1,340 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="871pt" height="732pt" viewBox="0.00 0.00 871.30 732.00">
+<g id="graph0" class="graph" transform="translate(4,728) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-728 867.3,-728 867.3,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="clusterOracleModule">
+
+<path fill="#445773" stroke="#445773" d="M20,-178C20,-178 786.99,-178 786.99,-178 792.99,-178 798.99,-184 798.99,-190 798.99,-190 798.99,-567 798.99,-567 798.99,-573 792.99,-579 786.99,-579 786.99,-579 20,-579 20,-579 14,-579 8,-573 8,-567 8,-567 8,-190 8,-190 8,-184 14,-178 20,-178" style=""/>
+<text text-anchor="middle" x="403.5" y="-562.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">OracleModule</text>
+</g>
+<g id="clust2" class="cluster" data-name="clusterIChainlinkAggregatorV3">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M679.59,-93C679.59,-93 822.39,-93 822.39,-93 828.39,-93 834.39,-99 834.39,-105 834.39,-105 834.39,-158 834.39,-158 834.39,-164 828.39,-170 822.39,-170 822.39,-170 679.59,-170 679.59,-170 673.59,-170 667.59,-164 667.59,-158 667.59,-158 667.59,-105 667.59,-105 667.59,-99 673.59,-93 679.59,-93" style=""/>
+<text text-anchor="middle" x="750.99" y="-153.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IChainlinkAggregatorV3</text>
+</g>
+<g id="clust3" class="cluster" data-name="clusterIPyth">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M658.69,-8C658.69,-8 843.3,-8 843.3,-8 849.3,-8 855.3,-14 855.3,-20 855.3,-20 855.3,-73 855.3,-73 855.3,-79 849.3,-85 843.3,-85 843.3,-85 658.69,-85 658.69,-85 652.69,-85 646.69,-79 646.69,-73 646.69,-73 646.69,-20 646.69,-20 646.69,-14 652.69,-8 658.69,-8" style=""/>
+<text text-anchor="middle" x="750.99" y="-68.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IPyth</text>
+</g>
+<g id="clust4" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="17.33,-587 17.33,-716 320.17,-716 320.17,-587 17.33,-587" style=""/>
+<text text-anchor="middle" x="168.75" y="-699.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- OracleModule.&lt;Constructor&gt; -->
+<g id="node1" class="node" pointer-events="visible" data-name="OracleModule.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="90.33" cy="-501" rx="67.55" ry="18" style=""/>
+<text text-anchor="middle" x="90.33" y="-496.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- OracleModule._disableInitializers -->
+<g id="node14" class="node" pointer-events="visible" data-name="OracleModule._disableInitializers">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="285.17" cy="-501" rx="84.52" ry="18" style=""/>
+<text text-anchor="middle" x="285.17" y="-496.8" font-family="Times,serif" font-size="14.00" style="">_disableInitializers</text>
+</g>
+<!-- OracleModule.&lt;Constructor&gt;&#45;&gt;OracleModule._disableInitializers -->
+<g id="edge1" class="edge" data-name="OracleModule.&lt;Constructor&gt;-&gt;OracleModule._disableInitializers">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M159.32,-501C168.09,-501 177.2,-501 186.34,-501" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="186.2,-504.5 196.2,-501 186.2,-497.5 186.2,-504.5" style=""/>
+</g>
+<!-- OracleModule.initialize -->
+<g id="node2" class="node" pointer-events="visible" data-name="OracleModule.initialize">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="285.17" cy="-420" rx="44.64" ry="18" style=""/>
+<text text-anchor="middle" x="285.17" y="-415.8" font-family="Times,serif" font-size="14.00" style="">initialize</text>
+</g>
+<!-- OracleModule._setAsset -->
+<g id="node11" class="node" pointer-events="visible" data-name="OracleModule._setAsset">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="512.18" cy="-312" rx="48.1" ry="18" style=""/>
+<text text-anchor="middle" x="512.18" y="-307.8" font-family="Times,serif" font-size="14.00" style="">_setAsset</text>
+</g>
+<!-- OracleModule.initialize&#45;&gt;OracleModule._setAsset -->
+<g id="edge4" class="edge" data-name="OracleModule.initialize-&gt;OracleModule._setAsset">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M327.44,-412.5C341.82,-408.45 357.41,-402.29 369.68,-393 392.68,-375.6 382.15,-355.68 405.68,-339 419.13,-329.47 435.66,-323.29 451.6,-319.3" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="452.22,-322.75 461.24,-317.19 450.72,-315.91 452.22,-322.75" style=""/>
+</g>
+<!-- OracleModule._setOnchainOracle -->
+<g id="node12" class="node" pointer-events="visible" data-name="OracleModule._setOnchainOracle">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="512.18" cy="-366" rx="85.08" ry="18" style=""/>
+<text text-anchor="middle" x="512.18" y="-361.8" font-family="Times,serif" font-size="14.00" style="">_setOnchainOracle</text>
+</g>
+<!-- OracleModule.initialize&#45;&gt;OracleModule._setOnchainOracle -->
+<g id="edge5" class="edge" data-name="OracleModule.initialize-&gt;OracleModule._setOnchainOracle">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M325.36,-410.59C356.93,-403.02 402.12,-392.17 440.04,-383.07" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="440.74,-386.51 449.64,-380.77 439.1,-379.7 440.74,-386.51" style=""/>
+</g>
+<!-- OracleModule._setOffchainOracle -->
+<g id="node13" class="node" pointer-events="visible" data-name="OracleModule._setOffchainOracle">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="512.18" cy="-420" rx="86.78" ry="18" style=""/>
+<text text-anchor="middle" x="512.18" y="-415.8" font-family="Times,serif" font-size="14.00" style="">_setOffchainOracle</text>
+</g>
+<!-- OracleModule.initialize&#45;&gt;OracleModule._setOffchainOracle -->
+<g id="edge6" class="edge" data-name="OracleModule.initialize-&gt;OracleModule._setOffchainOracle">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M331.16,-420C354.19,-420 383.19,-420 411.16,-420" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="410.88,-423.5 420.88,-420 410.88,-416.5 410.88,-423.5" style=""/>
+</g>
+<!-- OracleModule.__Ownable_init -->
+<g id="node15" class="node" pointer-events="visible" data-name="OracleModule.__Ownable_init">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="512.18" cy="-528" rx="73.02" ry="18" style=""/>
+<text text-anchor="middle" x="512.18" y="-523.8" font-family="Times,serif" font-size="14.00" style="">__Ownable_init</text>
+</g>
+<!-- OracleModule.initialize&#45;&gt;OracleModule.__Ownable_init -->
+<g id="edge2" class="edge" data-name="OracleModule.initialize-&gt;OracleModule.__Ownable_init">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M311.69,-435.85C328.38,-446.38 350.56,-460.67 369.68,-474 386.09,-485.44 387.65,-492.35 405.68,-501 416.07,-505.98 427.5,-510.12 438.87,-513.54" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="437.66,-516.83 448.23,-516.15 439.54,-510.09 437.66,-516.83" style=""/>
+</g>
+<!-- OracleModule.__ReentrancyGuard_init -->
+<g id="node16" class="node" pointer-events="visible" data-name="OracleModule.__ReentrancyGuard_init">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="512.18" cy="-474" rx="106.51" ry="18" style=""/>
+<text text-anchor="middle" x="512.18" y="-469.8" font-family="Times,serif" font-size="14.00" style="">__ReentrancyGuard_init</text>
+</g>
+<!-- OracleModule.initialize&#45;&gt;OracleModule.__ReentrancyGuard_init -->
+<g id="edge3" class="edge" data-name="OracleModule.initialize-&gt;OracleModule.__ReentrancyGuard_init">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M325.36,-429.41C355.46,-436.63 397.94,-446.82 434.69,-455.64" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="433.43,-458.94 443.97,-457.87 435.06,-452.13 433.43,-458.94" style=""/>
+</g>
+<!-- OracleModule.updatePythPrice -->
+<g id="node3" class="node" pointer-events="visible" data-name="OracleModule.updatePythPrice">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="90.33" cy="-420" rx="74.16" ry="18" style=""/>
+<text text-anchor="middle" x="90.33" y="-415.8" font-family="Times,serif" font-size="14.00" style="">updatePythPrice</text>
+</g>
+<!-- OracleModule.getPrice -->
+<g id="node4" class="node" pointer-events="visible" data-name="OracleModule.getPrice">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="90.33" cy="-258" rx="42.85" ry="18" style=""/>
+<text text-anchor="middle" x="90.33" y="-253.8" font-family="Times,serif" font-size="14.00" style="">getPrice</text>
+</g>
+<!-- OracleModule._getPrice -->
+<g id="node8" class="node" pointer-events="visible" data-name="OracleModule._getPrice">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="285.17" cy="-258" rx="47.51" ry="18" style=""/>
+<text text-anchor="middle" x="285.17" y="-253.8" font-family="Times,serif" font-size="14.00" style="">_getPrice</text>
+</g>
+<!-- OracleModule.getPrice&#45;&gt;OracleModule._getPrice -->
+<g id="edge7" class="edge" data-name="OracleModule.getPrice-&gt;OracleModule._getPrice">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M132.7,-252.34C159.79,-251.13 195.6,-250.93 225.6,-251.74" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="225.35,-255.23 235.46,-252.06 225.58,-248.23 225.35,-255.23" style=""/>
+</g>
+<!-- OracleModule.getPrice&#45;&gt;OracleModule._getPrice -->
+<g id="edge8" class="edge" data-name="OracleModule.getPrice-&gt;OracleModule._getPrice">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M132.7,-263.66C159.79,-264.87 195.6,-265.07 225.6,-264.26" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="225.58,-267.77 235.46,-263.94 225.35,-260.77 225.58,-267.77" style=""/>
+</g>
+<!-- OracleModule.getBuyPrice -->
+<g id="node5" class="node" pointer-events="visible" data-name="OracleModule.getBuyPrice">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="90.33" cy="-204" rx="58.55" ry="18" style=""/>
+<text text-anchor="middle" x="90.33" y="-199.8" font-family="Times,serif" font-size="14.00" style="">getBuyPrice</text>
+</g>
+<!-- OracleModule.getBuyPrice&#45;&gt;OracleModule._getPrice -->
+<g id="edge9" class="edge" data-name="OracleModule.getBuyPrice-&gt;OracleModule._getPrice">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M144.02,-212.66C174.04,-220.1 211.23,-230.61 239.76,-239.77" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="238.33,-242.99 248.92,-242.79 240.52,-236.34 238.33,-242.99" style=""/>
+</g>
+<!-- OracleModule.getBuyPrice&#45;&gt;OracleModule._getPrice -->
+<g id="edge10" class="edge" data-name="OracleModule.getBuyPrice-&gt;OracleModule._getPrice">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M126.7,-219.27C154.73,-228.61 194.45,-240.02 226.99,-248.21" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="226.03,-251.58 236.58,-250.57 227.71,-244.79 226.03,-251.58" style=""/>
+</g>
+<!-- OracleModule.getSellPrice -->
+<g id="node6" class="node" pointer-events="visible" data-name="OracleModule.getSellPrice">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="90.33" cy="-312" rx="57.9" ry="18" style=""/>
+<text text-anchor="middle" x="90.33" y="-307.8" font-family="Times,serif" font-size="14.00" style="">getSellPrice</text>
+</g>
+<!-- OracleModule.getSellPrice&#45;&gt;OracleModule._getPrice -->
+<g id="edge11" class="edge" data-name="OracleModule.getSellPrice-&gt;OracleModule._getPrice">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M126.7,-296.73C154.73,-287.39 194.45,-275.98 226.99,-267.79" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="227.71,-271.21 236.58,-265.43 226.03,-264.42 227.71,-271.21" style=""/>
+</g>
+<!-- OracleModule.getSellPrice&#45;&gt;OracleModule._getPrice -->
+<g id="edge12" class="edge" data-name="OracleModule.getSellPrice-&gt;OracleModule._getPrice">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M143.52,-303.46C173.64,-296.01 211.11,-285.43 239.8,-276.21" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="240.63,-279.62 249.04,-273.17 238.44,-272.97 240.63,-279.62" style=""/>
+</g>
+<!-- OracleModule.setOracle -->
+<g id="node7" class="node" pointer-events="visible" data-name="OracleModule.setOracle">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="285.17" cy="-366" rx="47.49" ry="18" style=""/>
+<text text-anchor="middle" x="285.17" y="-361.8" font-family="Times,serif" font-size="14.00" style="">setOracle</text>
+</g>
+<!-- OracleModule.setOracle&#45;&gt;OracleModule._setAsset -->
+<g id="edge13" class="edge" data-name="OracleModule.setOracle-&gt;OracleModule._setAsset">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M327.18,-356.16C363.67,-347.4 417.29,-334.53 457.24,-324.95" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="457.84,-328.4 466.75,-322.66 456.21,-321.59 457.84,-328.4" style=""/>
+</g>
+<!-- OracleModule.setOracle&#45;&gt;OracleModule._setOnchainOracle -->
+<g id="edge14" class="edge" data-name="OracleModule.setOracle-&gt;OracleModule._setOnchainOracle">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M333.89,-366C356.94,-366 385.5,-366 412.91,-366" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="412.8,-369.5 422.8,-366 412.8,-362.5 412.8,-369.5" style=""/>
+</g>
+<!-- OracleModule.setOracle&#45;&gt;OracleModule._setOffchainOracle -->
+<g id="edge15" class="edge" data-name="OracleModule.setOracle-&gt;OracleModule._setOffchainOracle">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M327.18,-375.84C358.61,-383.39 402.76,-393.98 439.93,-402.9" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="438.76,-406.22 449.3,-405.15 440.39,-399.41 438.76,-406.22" style=""/>
+</g>
+<!-- OracleModule._getOnchainPrice -->
+<g id="node9" class="node" pointer-events="visible" data-name="OracleModule._getOnchainPrice">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="512.18" cy="-258" rx="80.44" ry="18" style=""/>
+<text text-anchor="middle" x="512.18" y="-253.8" font-family="Times,serif" font-size="14.00" style="">_getOnchainPrice</text>
+</g>
+<!-- OracleModule._getPrice&#45;&gt;OracleModule._getOnchainPrice -->
+<g id="edge16" class="edge" data-name="OracleModule._getPrice-&gt;OracleModule._getOnchainPrice">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M334.17,-258C358.56,-258 389.07,-258 417.86,-258" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="417.47,-261.5 427.47,-258 417.47,-254.5 417.47,-261.5" style=""/>
+</g>
+<!-- OracleModule._getOffchainPrice -->
+<g id="node10" class="node" pointer-events="visible" data-name="OracleModule._getOffchainPrice">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="512.18" cy="-204" rx="81.65" ry="18" style=""/>
+<text text-anchor="middle" x="512.18" y="-199.8" font-family="Times,serif" font-size="14.00" style="">_getOffchainPrice</text>
+</g>
+<!-- OracleModule._getPrice&#45;&gt;OracleModule._getOffchainPrice -->
+<g id="edge17" class="edge" data-name="OracleModule._getPrice-&gt;OracleModule._getOffchainPrice">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M327.18,-248.16C359.07,-240.51 404.04,-229.71 441.54,-220.71" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="442.09,-224.18 451,-218.44 440.46,-217.37 442.09,-224.18" style=""/>
+</g>
+<!-- OracleModule.address -->
+<g id="node17" class="node" pointer-events="visible" data-name="OracleModule.address">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.99" cy="-312" rx="40" ry="18" style=""/>
+<text text-anchor="middle" x="750.99" y="-307.8" font-family="Times,serif" font-size="14.00" style="">address</text>
+</g>
+<!-- OracleModule._getOnchainPrice&#45;&gt;OracleModule.address -->
+<g id="edge18" class="edge" data-name="OracleModule._getOnchainPrice-&gt;OracleModule.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M582.95,-267.69C622.76,-275.85 671.43,-287.22 705.95,-296.57" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="704.94,-299.92 715.52,-299.23 706.82,-293.18 704.94,-299.92" style=""/>
+</g>
+<!-- OracleModule._getOnchainPrice&#45;&gt;OracleModule.address -->
+<g id="edge19" class="edge" data-name="OracleModule._getOnchainPrice-&gt;OracleModule.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M559.12,-273.95C598.9,-284.64 656.4,-297.83 697.88,-305.82" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="697.02,-309.22 707.49,-307.62 698.31,-302.34 697.02,-309.22" style=""/>
+</g>
+<!-- IChainlinkAggregatorV3.latestRoundData -->
+<g id="node18" class="node" pointer-events="visible" data-name="IChainlinkAggregatorV3.latestRoundData">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.99" cy="-119" rx="75.3" ry="18" style=""/>
+<text text-anchor="middle" x="750.99" y="-114.8" font-family="Times,serif" font-size="14.00" style="">latestRoundData</text>
+</g>
+<!-- OracleModule._getOnchainPrice&#45;&gt;IChainlinkAggregatorV3.latestRoundData -->
+<g id="edge20" class="edge" data-name="OracleModule._getOnchainPrice-&gt;IChainlinkAggregatorV3.latestRoundData">
+
+<path fill="none" stroke="white" stroke-width="2" d="M584.17,-248.82C596.59,-244.81 608.71,-239.11 618.69,-231 640.59,-213.2 627.06,-194.28 646.69,-174 660.18,-160.06 677.97,-148.87 694.99,-140.32" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="696.31,-143.56 703.84,-136.11 693.31,-137.24 696.31,-143.56" style=""/>
+</g>
+<!-- OracleModule._getOffchainPrice&#45;&gt;OracleModule.address -->
+<g id="edge21" class="edge" data-name="OracleModule._getOffchainPrice-&gt;OracleModule.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M588.75,-211.45C598.97,-214.44 609.2,-217.97 618.69,-222 657.73,-238.58 698.72,-265.65 724.31,-286.01" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="722.01,-288.66 731.95,-292.35 726.48,-283.27 722.01,-288.66" style=""/>
+</g>
+<!-- OracleModule._getOffchainPrice&#45;&gt;OracleModule.address -->
+<g id="edge22" class="edge" data-name="OracleModule._getOffchainPrice-&gt;OracleModule.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M557.02,-220.34C576.36,-225.46 599.11,-231.69 618.69,-240 651.5,-253.94 685.69,-275.28 710.96,-291.3" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="709.02,-294.21 719.34,-296.61 712.77,-288.3 709.02,-294.21" style=""/>
+</g>
+<!-- IPyth.getPriceNoOlderThan -->
+<g id="node19" class="node" pointer-events="visible" data-name="IPyth.getPriceNoOlderThan">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.99" cy="-34" rx="96.12" ry="18" style=""/>
+<text text-anchor="middle" x="750.99" y="-29.8" font-family="Times,serif" font-size="14.00" style="">getPriceNoOlderThan</text>
+</g>
+<!-- OracleModule._getOffchainPrice&#45;&gt;IPyth.getPriceNoOlderThan -->
+<g id="edge23" class="edge" data-name="OracleModule._getOffchainPrice-&gt;IPyth.getPriceNoOlderThan">
+
+<path fill="none" stroke="white" stroke-width="2" d="M531.98,-185.41C556.87,-161.39 602.76,-119.06 646.69,-89 663.52,-77.48 683.05,-66.53 700.56,-57.48" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="701.98,-60.69 709.32,-53.05 698.81,-54.44 701.98,-60.69" style=""/>
+</g>
+<!-- OracleModule._setAsset&#45;&gt;OracleModule.address -->
+<g id="edge24" class="edge" data-name="OracleModule._setAsset-&gt;OracleModule.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M561.68,-312C601.03,-312 656.44,-312 696.96,-312" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="696.8,-315.5 706.8,-312 696.8,-308.5 696.8,-315.5" style=""/>
+</g>
+<!-- OracleModule._setOnchainOracle&#45;&gt;OracleModule.address -->
+<g id="edge25" class="edge" data-name="OracleModule._setOnchainOracle-&gt;OracleModule.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M559.97,-349.83C599.62,-339.2 656.44,-326.17 697.6,-318.23" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="698.22,-321.68 707.4,-316.4 696.93,-314.8 698.22,-321.68" style=""/>
+</g>
+<!-- OracleModule._setOnchainOracle&#45;&gt;OracleModule.address -->
+<g id="edge26" class="edge" data-name="OracleModule._setOnchainOracle-&gt;OracleModule.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M585.52,-355.78C624.96,-347.64 672.48,-336.51 706.28,-327.35" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="706.9,-330.8 715.6,-324.75 705.02,-324.06 706.9,-330.8" style=""/>
+</g>
+<!-- OracleModule._setOffchainOracle&#45;&gt;OracleModule.address -->
+<g id="edge27" class="edge" data-name="OracleModule._setOffchainOracle-&gt;OracleModule.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M558.05,-403.39C577.17,-398.31 599.46,-392.17 618.69,-384 651.5,-370.06 685.69,-348.72 710.96,-332.7" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="712.77,-335.7 719.34,-327.39 709.02,-329.79 712.77,-335.7" style=""/>
+</g>
+<!-- OracleModule._setOffchainOracle&#45;&gt;OracleModule.address -->
+<g id="edge28" class="edge" data-name="OracleModule._setOffchainOracle-&gt;OracleModule.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M591.84,-411.63C601.03,-408.85 610.16,-405.62 618.69,-402 657.73,-385.42 698.72,-358.35 724.31,-337.99" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="726.48,-340.73 731.95,-331.65 722.01,-335.34 726.48,-340.73" style=""/>
+</g>
+<!-- key -->
+<g id="node20" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="155.33,-683 25.33,-683 25.33,-595 155.33,-595 155.33,-683" style=""/>
+<text text-anchor="start" x="74.97" y="-664.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="71.08" y="-644.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="48.53" y="-624.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="34.93" y="-604.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node21" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="312.17,-683 258.17,-683 258.17,-595 312.17,-595 312.17,-683" style=""/>
+<text text-anchor="start" x="275.17" y="-664.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="275.17" y="-644.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="none" points="273.17,-619 273.17,-639 298.17,-639 298.17,-619 273.17,-619" style=""/>
+<text text-anchor="start" x="275.17" y="-624.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="275.17,-601 275.17,-617 296.17,-617 296.17,-601 275.17,-601" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge29" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M148.33,-669C198.86,-669 214.6,-669 259.41,-669" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="259.14,-672.5 269.14,-669 259.14,-665.5 259.14,-672.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge30" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M148.33,-649C198.86,-649 214.6,-649 259.41,-649" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="259.14,-652.5 269.14,-649 259.14,-645.5 259.14,-652.5" style=""/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,363 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="563pt" height="1342pt" viewBox="0.00 0.00 563.17 1342.00">
+<g id="graph0" class="graph" transform="translate(53.08285948905515,1215.2222639866748) scale(0.8201112889414236)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-1338 559.17,-1338 559.17,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="clusterFlatcoinVault">
+
+<path fill="#445773" stroke="#445773" d="M20,-348C20,-348 535.17,-348 535.17,-348 541.17,-348 547.17,-354 547.17,-360 547.17,-360 547.17,-1177 547.17,-1177 547.17,-1183 541.17,-1189 535.17,-1189 535.17,-1189 20,-1189 20,-1189 14,-1189 8,-1183 8,-1177 8,-1177 8,-360 8,-360 8,-354 14,-348 20,-348" style=""/>
+<text text-anchor="middle" x="277.58" y="-1172.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">FlatcoinVault</text>
+</g>
+<g id="clust2" class="cluster" data-name="clusterIERC20Upgradeable">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M377.38,-263C377.38,-263 487.95,-263 487.95,-263 493.95,-263 499.95,-269 499.95,-275 499.95,-275 499.95,-328 499.95,-328 499.95,-334 493.95,-340 487.95,-340 487.95,-340 377.38,-340 377.38,-340 371.38,-340 365.38,-334 365.38,-328 365.38,-328 365.38,-275 365.38,-275 365.38,-269 371.38,-263 377.38,-263" style=""/>
+<text text-anchor="middle" x="432.67" y="-323.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IERC20Upgradeable</text>
+</g>
+<g id="clust3" class="cluster" data-name="clusterILeverageModule">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M352.13,-178C352.13,-178 513.2,-178 513.2,-178 519.2,-178 525.2,-184 525.2,-190 525.2,-190 525.2,-243 525.2,-243 525.2,-249 519.2,-255 513.2,-255 513.2,-255 352.13,-255 352.13,-255 346.13,-255 340.13,-249 340.13,-243 340.13,-243 340.13,-190 340.13,-190 340.13,-184 346.13,-178 352.13,-178" style=""/>
+<text text-anchor="middle" x="432.67" y="-238.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ILeverageModule</text>
+</g>
+<g id="clust4" class="cluster" data-name="clusterPerpMath">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M343.56,-93C343.56,-93 521.77,-93 521.77,-93 527.77,-93 533.77,-99 533.77,-105 533.77,-105 533.77,-158 533.77,-158 533.77,-164 527.77,-170 521.77,-170 521.77,-170 343.56,-170 343.56,-170 337.56,-170 331.56,-164 331.56,-158 331.56,-158 331.56,-105 331.56,-105 331.56,-99 337.56,-93 343.56,-93" style=""/>
+<text text-anchor="middle" x="432.67" y="-153.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">PerpMath</text>
+</g>
+<g id="clust5" class="cluster" data-name="clusterIStableModule">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M344.65,-8C344.65,-8 520.68,-8 520.68,-8 526.68,-8 532.68,-14 532.68,-20 532.68,-20 532.68,-73 532.68,-73 532.68,-79 526.68,-85 520.68,-85 520.68,-85 344.65,-85 344.65,-85 338.65,-85 332.65,-79 332.65,-73 332.65,-73 332.65,-20 332.65,-20 332.65,-14 338.65,-8 344.65,-8" style=""/>
+<text text-anchor="middle" x="432.67" y="-68.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IStableModule</text>
+</g>
+<g id="clust6" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="80.08,-1197 80.08,-1326 467.67,-1326 467.67,-1197 80.08,-1197" style=""/>
+<text text-anchor="middle" x="273.87" y="-1309.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- FlatcoinVault.&lt;Constructor&gt; -->
+<g id="node1" class="node" pointer-events="visible" data-name="FlatcoinVault.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="153.08" cy="-1138" rx="67.55" ry="18" style=""/>
+<text text-anchor="middle" x="153.08" y="-1133.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- FlatcoinVault._disableInitializers -->
+<g id="node16" class="node" pointer-events="visible" data-name="FlatcoinVault._disableInitializers">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="432.67" cy="-1138" rx="84.52" ry="18" style=""/>
+<text text-anchor="middle" x="432.67" y="-1133.8" font-family="Times,serif" font-size="14.00" style="">_disableInitializers</text>
+</g>
+<!-- FlatcoinVault.&lt;Constructor&gt;&#45;&gt;FlatcoinVault._disableInitializers -->
+<g id="edge1" class="edge" data-name="FlatcoinVault.&lt;Constructor&gt;-&gt;FlatcoinVault._disableInitializers">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M221.99,-1138C255.65,-1138 296.93,-1138 333.93,-1138" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="333.79,-1141.5 343.79,-1138 333.79,-1134.5 333.79,-1141.5" style=""/>
+</g>
+<!-- FlatcoinVault.initialize -->
+<g id="node2" class="node" pointer-events="visible" data-name="FlatcoinVault.initialize">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="153.08" cy="-1084" rx="44.64" ry="18" style=""/>
+<text text-anchor="middle" x="153.08" y="-1079.8" font-family="Times,serif" font-size="14.00" style="">initialize</text>
+</g>
+<!-- FlatcoinVault.address -->
+<g id="node17" class="node" pointer-events="visible" data-name="FlatcoinVault.address">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="432.67" cy="-976" rx="40" ry="18" style=""/>
+<text text-anchor="middle" x="432.67" y="-971.8" font-family="Times,serif" font-size="14.00" style="">address</text>
+</g>
+<!-- FlatcoinVault.initialize&#45;&gt;FlatcoinVault.address -->
+<g id="edge2" class="edge" data-name="FlatcoinVault.initialize-&gt;FlatcoinVault.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M157.28,-1064.85C173.18,-1022.12 244.81,-1024.32 290.16,-994 314.14,-977.97 302.63,-956.68 326.16,-940 357.55,-917.75 405.7,-913.81 424.13,-944.78" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="420.86,-946.02 427.99,-953.85 427.3,-943.28 420.86,-946.02" style=""/>
+</g>
+<!-- FlatcoinVault.initialize&#45;&gt;FlatcoinVault.address -->
+<g id="edge3" class="edge" data-name="FlatcoinVault.initialize-&gt;FlatcoinVault.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M161,-1064.95C182.25,-1040.27 247.71,-1040.38 290.16,-1012 314.14,-995.97 302.63,-974.68 326.16,-958 354.27,-938.08 395.81,-932.84 417.43,-947.7" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="414.9,-950.12 424.4,-954.82 419.9,-945.22 414.9,-950.12" style=""/>
+</g>
+<!-- FlatcoinVault.initialize&#45;&gt;FlatcoinVault.address -->
+<g id="edge4" class="edge" data-name="FlatcoinVault.initialize-&gt;FlatcoinVault.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M174.36,-1066.72C202.65,-1057.57 254.52,-1053.83 290.16,-1030 314.14,-1013.97 302.63,-992.68 326.16,-976 348.75,-959.99 380.02,-953.46 402.64,-955.86" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="401.69,-959.24 412.18,-957.8 403.08,-952.38 401.69,-959.24" style=""/>
+</g>
+<!-- FlatcoinVault.initialize&#45;&gt;FlatcoinVault.address -->
+<g id="edge5" class="edge" data-name="FlatcoinVault.initialize-&gt;FlatcoinVault.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M195.32,-1076.41C224.06,-1073.06 262.13,-1066.74 290.16,-1048 314.14,-1031.97 302.63,-1010.68 326.16,-994 341.74,-982.96 361.44,-976.43 379.6,-973.12" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="380.07,-976.59 389.46,-971.69 379.07,-969.66 380.07,-976.59" style=""/>
+</g>
+<!-- FlatcoinVault.initialize&#45;&gt;FlatcoinVault.address -->
+<g id="edge6" class="edge" data-name="FlatcoinVault.initialize-&gt;FlatcoinVault.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M195.62,-1091.46C224.33,-1091.01 262.23,-1084.67 290.16,-1066 314.14,-1049.97 302.63,-1028.68 326.16,-1012 343.29,-999.86 365.4,-993.17 384.96,-988.76" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="385.65,-992.19 394.72,-986.71 384.21,-985.34 385.65,-992.19" style=""/>
+</g>
+<!-- FlatcoinVault.initialize&#45;&gt;FlatcoinVault.address -->
+<g id="edge7" class="edge" data-name="FlatcoinVault.initialize-&gt;FlatcoinVault.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M172.03,-1101.78C199.73,-1111.77 253.52,-1108.5 290.16,-1084 314.14,-1067.97 302.63,-1046.68 326.16,-1030 349.61,-1013.38 382.41,-1006.98 405.19,-998.87" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="406.31,-1002.19 414.2,-995.12 403.62,-995.73 406.31,-1002.19" style=""/>
+</g>
+<!-- FlatcoinVault.initialize&#45;&gt;FlatcoinVault.address -->
+<g id="edge8" class="edge" data-name="FlatcoinVault.initialize-&gt;FlatcoinVault.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M160.41,-1103.08C181.01,-1130.27 247.31,-1130.65 290.16,-1102 314.14,-1085.97 302.63,-1064.68 326.16,-1048 354.52,-1027.89 396.57,-1022.74 418.02,-1004.76" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="420.51,-1007.22 424.51,-997.41 415.27,-1002.58 420.51,-1007.22" style=""/>
+</g>
+<!-- FlatcoinVault.initialize&#45;&gt;FlatcoinVault.address -->
+<g id="edge9" class="edge" data-name="FlatcoinVault.initialize-&gt;FlatcoinVault.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M157.17,-1103.29C172.87,-1148.11 244.71,-1150.39 290.16,-1120 314.14,-1103.97 302.63,-1082.68 326.16,-1066 357.69,-1043.65 406.12,-1039.78 424.37,-1007.07" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="427.46,-1008.75 428.03,-998.17 420.99,-1006.09 427.46,-1008.75" style=""/>
+</g>
+<!-- FlatcoinVault.__Ownable_init -->
+<g id="node18" class="node" pointer-events="visible" data-name="FlatcoinVault.__Ownable_init">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="432.67" cy="-1030" rx="73.02" ry="18" style=""/>
+<text text-anchor="middle" x="432.67" y="-1025.8" font-family="Times,serif" font-size="14.00" style="">__Ownable_init</text>
+</g>
+<!-- FlatcoinVault.initialize&#45;&gt;FlatcoinVault.__Ownable_init -->
+<g id="edge10" class="edge" data-name="FlatcoinVault.initialize-&gt;FlatcoinVault.__Ownable_init">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M195.04,-1076.03C238.37,-1067.6 307.58,-1054.14 359.98,-1043.94" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="360.46,-1047.42 369.61,-1042.07 359.12,-1040.55 360.46,-1047.42" style=""/>
+</g>
+<!-- FlatcoinVault.__ReentrancyGuard_init -->
+<g id="node19" class="node" pointer-events="visible" data-name="FlatcoinVault.__ReentrancyGuard_init">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="432.67" cy="-1084" rx="106.51" ry="18" style=""/>
+<text text-anchor="middle" x="432.67" y="-1079.8" font-family="Times,serif" font-size="14.00" style="">__ReentrancyGuard_init</text>
+</g>
+<!-- FlatcoinVault.initialize&#45;&gt;FlatcoinVault.__ReentrancyGuard_init -->
+<g id="edge11" class="edge" data-name="FlatcoinVault.initialize-&gt;FlatcoinVault.__ReentrancyGuard_init">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M198.99,-1084C229.66,-1084 271.84,-1084 311.87,-1084" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="311.75,-1087.5 321.75,-1084 311.75,-1080.5 311.75,-1087.5" style=""/>
+</g>
+<!-- FlatcoinVault.onlyFlatcoinContracts -->
+<g id="node3" class="node" pointer-events="visible" data-name="FlatcoinVault.onlyFlatcoinContracts">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="257.78,-1018.54 257.78,-1033.46 196.45,-1044 109.71,-1044 48.38,-1033.46 48.38,-1018.54 109.71,-1008 196.45,-1008 257.78,-1018.54" style=""/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="261.77,-1015.17 261.77,-1036.83 196.79,-1048 109.37,-1048 44.39,-1036.83 44.39,-1015.17 109.37,-1004 196.79,-1004 261.77,-1015.17" style=""/>
+<text text-anchor="middle" x="153.08" y="-1021.8" font-family="Times,serif" font-size="14.00" style="">onlyFlatcoinContracts</text>
+</g>
+<!-- FlatcoinVault.onlyFlatcoinContracts&#45;&gt;FlatcoinVault.address -->
+<g id="edge12" class="edge" data-name="FlatcoinVault.onlyFlatcoinContracts-&gt;FlatcoinVault.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M209.92,-1004.87C259.23,-992.68 330.6,-979.9 378.95,-974.64" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="379.01,-978.15 388.62,-973.68 378.32,-971.18 379.01,-978.15" style=""/>
+</g>
+<!-- FlatcoinVault.onlyFlatcoinContracts&#45;&gt;FlatcoinVault.address -->
+<g id="edge13" class="edge" data-name="FlatcoinVault.onlyFlatcoinContracts-&gt;FlatcoinVault.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M241.53,-1010.25C287.55,-1001.96 342.33,-992.09 381.24,-985.08" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="381.85,-988.53 391.07,-983.31 380.61,-981.64 381.85,-988.53" style=""/>
+</g>
+<!-- FlatcoinVault.onlyFlatcoinContracts&#45;&gt;FlatcoinVault.address -->
+<g id="edge14" class="edge" data-name="FlatcoinVault.onlyFlatcoinContracts-&gt;FlatcoinVault.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M262.99,-1019.6C307.91,-1012.37 357.22,-1002.38 390.85,-993.25" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="391.81,-996.62 400.46,-990.5 389.88,-989.89 391.81,-996.62" style=""/>
+</g>
+<!-- FlatcoinVault.sendCollateral -->
+<g id="node4" class="node" pointer-events="visible" data-name="FlatcoinVault.sendCollateral">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="153.08" cy="-482" rx="66.63" ry="18" style=""/>
+<text text-anchor="middle" x="153.08" y="-477.8" font-family="Times,serif" font-size="14.00" style="">sendCollateral</text>
+</g>
+<!-- IERC20Upgradeable.safeTransfer -->
+<g id="node20" class="node" pointer-events="visible" data-name="IERC20Upgradeable.safeTransfer">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="432.67" cy="-289" rx="59.08" ry="18" style=""/>
+<text text-anchor="middle" x="432.67" y="-284.8" font-family="Times,serif" font-size="14.00" style="">safeTransfer</text>
+</g>
+<!-- FlatcoinVault.sendCollateral&#45;&gt;IERC20Upgradeable.safeTransfer -->
+<g id="edge15" class="edge" data-name="FlatcoinVault.sendCollateral-&gt;IERC20Upgradeable.safeTransfer">
+
+<path fill="none" stroke="white" stroke-width="2" d="M220.88,-482.39C245.22,-479.29 271.35,-471.72 290.16,-455 328.93,-420.55 292.67,-383.6 326.16,-344 339.62,-328.09 358.86,-316.17 377.23,-307.58" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="378.56,-310.81 386.33,-303.61 375.77,-304.4 378.56,-310.81" style=""/>
+</g>
+<!-- FlatcoinVault.pushToFundingSequence -->
+<g id="node5" class="node" pointer-events="visible" data-name="FlatcoinVault.pushToFundingSequence">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="153.08" cy="-914" rx="109.41" ry="18" style=""/>
+<text text-anchor="middle" x="153.08" y="-909.8" font-family="Times,serif" font-size="14.00" style="">pushToFundingSequence</text>
+</g>
+<!-- FlatcoinVault.updateFundingRate -->
+<g id="node6" class="node" pointer-events="visible" data-name="FlatcoinVault.updateFundingRate">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="153.08" cy="-860" rx="86.84" ry="18" style=""/>
+<text text-anchor="middle" x="153.08" y="-855.8" font-family="Times,serif" font-size="14.00" style="">updateFundingRate</text>
+</g>
+<!-- FlatcoinVault.updateFundingLastRecomputed -->
+<g id="node7" class="node" pointer-events="visible" data-name="FlatcoinVault.updateFundingLastRecomputed">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="153.08" cy="-806" rx="134.32" ry="18" style=""/>
+<text text-anchor="middle" x="153.08" y="-801.8" font-family="Times,serif" font-size="14.00" style="">updateFundingLastRecomputed</text>
+</g>
+<!-- FlatcoinVault.getCurrentFundingRate -->
+<g id="node8" class="node" pointer-events="visible" data-name="FlatcoinVault.getCurrentFundingRate">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="153.08" cy="-428" rx="102.45" ry="18" style=""/>
+<text text-anchor="middle" x="153.08" y="-423.8" font-family="Times,serif" font-size="14.00" style="">getCurrentFundingRate</text>
+</g>
+<!-- ILeverageModule.getGlobalPositions -->
+<g id="node21" class="node" pointer-events="visible" data-name="ILeverageModule.getGlobalPositions">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="432.67" cy="-204" rx="84.58" ry="18" style=""/>
+<text text-anchor="middle" x="432.67" y="-199.8" font-family="Times,serif" font-size="14.00" style="">getGlobalPositions</text>
+</g>
+<!-- FlatcoinVault.getCurrentFundingRate&#45;&gt;ILeverageModule.getGlobalPositions -->
+<g id="edge16" class="edge" data-name="FlatcoinVault.getCurrentFundingRate-&gt;ILeverageModule.getGlobalPositions">
+
+<path fill="none" stroke="white" stroke-width="2" d="M252.46,-422.36C266.42,-417.83 279.59,-411.03 290.16,-401 337.39,-356.18 285.77,-310.06 326.16,-259 337.72,-244.39 354.23,-233.25 370.77,-224.94" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="371.82,-228.31 379.41,-220.92 368.87,-221.96 371.82,-228.31" style=""/>
+</g>
+<!-- PerpMath._currentFundingRate -->
+<g id="node22" class="node" pointer-events="visible" data-name="PerpMath._currentFundingRate">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="432.67" cy="-119" rx="93.2" ry="18" style=""/>
+<text text-anchor="middle" x="432.67" y="-114.8" font-family="Times,serif" font-size="14.00" style="">_currentFundingRate</text>
+</g>
+<!-- FlatcoinVault.getCurrentFundingRate&#45;&gt;PerpMath._currentFundingRate -->
+<g id="edge17" class="edge" data-name="FlatcoinVault.getCurrentFundingRate-&gt;PerpMath._currentFundingRate">
+
+<path fill="none" stroke="white" stroke-width="2" d="M253.62,-423.07C267.34,-418.43 280.14,-411.41 290.16,-401 360.99,-327.39 266.5,-256.91 326.16,-174 336.55,-159.56 351.89,-148.62 367.66,-140.45" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="368.91,-143.73 376.43,-136.27 365.9,-137.41 368.91,-143.73" style=""/>
+</g>
+<!-- IStableModule.stableCollateralTotal -->
+<g id="node23" class="node" pointer-events="visible" data-name="IStableModule.stableCollateralTotal">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="432.67" cy="-34" rx="92.03" ry="18" style=""/>
+<text text-anchor="middle" x="432.67" y="-29.8" font-family="Times,serif" font-size="14.00" style="">stableCollateralTotal</text>
+</g>
+<!-- FlatcoinVault.getCurrentFundingRate&#45;&gt;IStableModule.stableCollateralTotal -->
+<g id="edge18" class="edge" data-name="FlatcoinVault.getCurrentFundingRate-&gt;IStableModule.stableCollateralTotal">
+
+<path fill="none" stroke="white" stroke-width="2" d="M254.01,-423.44C267.69,-418.75 280.37,-411.62 290.16,-401 384.79,-298.38 247.05,-204 326.16,-89 336.2,-74.42 351.33,-63.43 367.04,-55.27" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="368.24,-58.58 375.77,-51.12 365.24,-52.25 368.24,-58.58" style=""/>
+</g>
+<!-- FlatcoinVault.getLatestFundingIndex -->
+<g id="node9" class="node" pointer-events="visible" data-name="FlatcoinVault.getLatestFundingIndex">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="153.08" cy="-698" rx="100.73" ry="18" style=""/>
+<text text-anchor="middle" x="153.08" y="-693.8" font-family="Times,serif" font-size="14.00" style="">getLatestFundingIndex</text>
+</g>
+<!-- FlatcoinVault.getLatestFundingSequenceEntry -->
+<g id="node10" class="node" pointer-events="visible" data-name="FlatcoinVault.getLatestFundingSequenceEntry">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="153.08" cy="-644" rx="137.16" ry="18" style=""/>
+<text text-anchor="middle" x="153.08" y="-639.8" font-family="Times,serif" font-size="14.00" style="">getLatestFundingSequenceEntry</text>
+</g>
+<!-- FlatcoinVault.setStableModule -->
+<g id="node11" class="node" pointer-events="visible" data-name="FlatcoinVault.setStableModule">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="153.08" cy="-968" rx="75.89" ry="18" style=""/>
+<text text-anchor="middle" x="153.08" y="-963.8" font-family="Times,serif" font-size="14.00" style="">setStableModule</text>
+</g>
+<!-- FlatcoinVault.setStableModule&#45;&gt;FlatcoinVault.address -->
+<g id="edge19" class="edge" data-name="FlatcoinVault.setStableModule-&gt;FlatcoinVault.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M228.83,-964.09C276.9,-964.37 338.09,-966.37 380.63,-969.16" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="380.23,-972.64 390.45,-969.86 380.72,-965.66 380.23,-972.64" style=""/>
+</g>
+<!-- FlatcoinVault.setStableModule&#45;&gt;FlatcoinVault.address -->
+<g id="edge20" class="edge" data-name="FlatcoinVault.setStableModule-&gt;FlatcoinVault.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M223.41,-975.93C271.83,-978.57 335.45,-980.23 379.57,-979.91" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="379.33,-983.41 389.29,-979.78 379.24,-976.41 379.33,-983.41" style=""/>
+</g>
+<!-- FlatcoinVault.setLeverageModule -->
+<g id="node12" class="node" pointer-events="visible" data-name="FlatcoinVault.setLeverageModule">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="153.08" cy="-752" rx="87.94" ry="18" style=""/>
+<text text-anchor="middle" x="153.08" y="-747.8" font-family="Times,serif" font-size="14.00" style="">setLeverageModule</text>
+</g>
+<!-- FlatcoinVault.setLeverageModule&#45;&gt;FlatcoinVault.address -->
+<g id="edge21" class="edge" data-name="FlatcoinVault.setLeverageModule-&gt;FlatcoinVault.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M242.04,-750.61C258.91,-754.55 275.78,-760.74 290.16,-770 356.51,-812.71 401.54,-898.44 420.92,-944.86" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="417.62,-946.04 424.58,-954.03 424.12,-943.45 417.62,-946.04" style=""/>
+</g>
+<!-- FlatcoinVault.setLeverageModule&#45;&gt;FlatcoinVault.address -->
+<g id="edge22" class="edge" data-name="FlatcoinVault.setLeverageModule-&gt;FlatcoinVault.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M222.92,-764.06C245.72,-768.27 270.31,-775.23 290.16,-788 351.4,-827.41 394.47,-903.47 415.98,-945.91" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="412.77,-947.32 420.36,-954.71 419.04,-944.2 412.77,-947.32" style=""/>
+</g>
+<!-- FlatcoinVault.setOracleModule -->
+<g id="node13" class="node" pointer-events="visible" data-name="FlatcoinVault.setOracleModule">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="153.08" cy="-590" rx="77.57" ry="18" style=""/>
+<text text-anchor="middle" x="153.08" y="-585.8" font-family="Times,serif" font-size="14.00" style="">setOracleModule</text>
+</g>
+<!-- FlatcoinVault.setOracleModule&#45;&gt;FlatcoinVault.address -->
+<g id="edge23" class="edge" data-name="FlatcoinVault.setOracleModule-&gt;FlatcoinVault.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M225.95,-582.52C248.59,-585.6 272.32,-593.1 290.16,-608 395.25,-695.72 422.73,-872.12 429.54,-944.33" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="426.02,-944.26 430.36,-953.92 433,-943.66 426.02,-944.26" style=""/>
+</g>
+<!-- FlatcoinVault.setOracleModule&#45;&gt;FlatcoinVault.address -->
+<g id="edge24" class="edge" data-name="FlatcoinVault.setOracleModule-&gt;FlatcoinVault.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M222.79,-599.01C246.37,-602.92 271.49,-610.41 290.16,-626 390.69,-709.92 420.2,-874.99 428.53,-944.35" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="425.01,-944.33 429.6,-953.88 431.97,-943.56 425.01,-944.33" style=""/>
+</g>
+<!-- FlatcoinVault.setDelayedOrder -->
+<g id="node14" class="node" pointer-events="visible" data-name="FlatcoinVault.setDelayedOrder">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="153.08" cy="-536" rx="76.41" ry="18" style=""/>
+<text text-anchor="middle" x="153.08" y="-531.8" font-family="Times,serif" font-size="14.00" style="">setDelayedOrder</text>
+</g>
+<!-- FlatcoinVault.setDelayedOrder&#45;&gt;FlatcoinVault.address -->
+<g id="edge25" class="edge" data-name="FlatcoinVault.setDelayedOrder-&gt;FlatcoinVault.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M223.54,-527.7C247.05,-530.49 271.94,-538.07 290.16,-554 408.33,-657.28 427.91,-863.69 431.08,-943.58" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="427.58,-943.65 431.4,-953.53 434.58,-943.43 427.58,-943.65" style=""/>
+</g>
+<!-- FlatcoinVault.setDelayedOrder&#45;&gt;FlatcoinVault.address -->
+<g id="edge26" class="edge" data-name="FlatcoinVault.setDelayedOrder-&gt;FlatcoinVault.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M222.84,-544.49C246.55,-548.34 271.76,-555.91 290.16,-572 404.06,-671.55 426.37,-866.89 430.67,-943.9" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="427.17,-944.01 431.14,-953.83 434.16,-943.67 427.17,-944.01" style=""/>
+</g>
+<!-- FlatcoinVault.setMaxFundingVelocity -->
+<g id="node15" class="node" pointer-events="visible" data-name="FlatcoinVault.setMaxFundingVelocity">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="153.08" cy="-374" rx="104.83" ry="18" style=""/>
+<text text-anchor="middle" x="153.08" y="-369.8" font-family="Times,serif" font-size="14.00" style="">setMaxFundingVelocity</text>
+</g>
+<!-- key -->
+<g id="node24" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="218.08,-1293 88.08,-1293 88.08,-1205 218.08,-1205 218.08,-1293" style=""/>
+<text text-anchor="start" x="137.72" y="-1274.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="133.83" y="-1254.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="111.28" y="-1234.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="97.68" y="-1214.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node25" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="459.67,-1293 405.67,-1293 405.67,-1205 459.67,-1205 459.67,-1293" style=""/>
+<text text-anchor="start" x="422.67" y="-1274.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="422.67" y="-1254.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="none" points="420.67,-1229 420.67,-1249 445.67,-1249 445.67,-1229 420.67,-1229" style=""/>
+<text text-anchor="start" x="422.67" y="-1234.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="422.67,-1211 422.67,-1227 443.67,-1227 443.67,-1211 422.67,-1211" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge27" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M211.08,-1279C299.35,-1279 324.58,-1279 406.82,-1279" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="406.64,-1282.5 416.64,-1279 406.64,-1275.5 406.64,-1282.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge28" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M211.08,-1259C299.35,-1259 324.58,-1259 406.82,-1259" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="406.64,-1262.5 416.64,-1259 406.64,-1255.5 406.64,-1262.5" style=""/>
+</g>
+</g>
+</svg>

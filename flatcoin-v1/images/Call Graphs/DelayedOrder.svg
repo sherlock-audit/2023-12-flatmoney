@@ -1,0 +1,765 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="780pt" height="1568pt" viewBox="0.00 0.00 779.96 1568.00">
+<g id="graph0" class="graph" transform="translate(4,1564) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-1564 775.96,-1564 775.96,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="clusterDelayedOrder">
+
+<path fill="#445773" stroke="#445773" d="M20,-394C20,-394 751.96,-394 751.96,-394 757.96,-394 763.96,-400 763.96,-406 763.96,-406 763.96,-1403 763.96,-1403 763.96,-1409 757.96,-1415 751.96,-1415 751.96,-1415 20,-1415 20,-1415 14,-1415 8,-1409 8,-1403 8,-1403 8,-406 8,-406 8,-400 14,-394 20,-394" style=""/>
+<text text-anchor="middle" x="385.98" y="-1398.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">DelayedOrder</text>
+</g>
+<g id="clust2" class="cluster" data-name="clusterIKeeperFee">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M331.23,-309C331.23,-309 452.54,-309 452.54,-309 458.54,-309 464.54,-315 464.54,-321 464.54,-321 464.54,-374 464.54,-374 464.54,-380 458.54,-386 452.54,-386 452.54,-386 331.23,-386 331.23,-386 325.23,-386 319.23,-380 319.23,-374 319.23,-374 319.23,-321 319.23,-321 319.23,-315 325.23,-309 331.23,-309" style=""/>
+<text text-anchor="middle" x="391.88" y="-369.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IKeeperFee</text>
+</g>
+<g id="clust3" class="cluster" data-name="clusterIFlatcoinVault">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M581.29,-8C581.29,-8 720.85,-8 720.85,-8 726.85,-8 732.85,-14 732.85,-20 732.85,-20 732.85,-289 732.85,-289 732.85,-295 726.85,-301 720.85,-301 720.85,-301 581.29,-301 581.29,-301 575.29,-301 569.29,-295 569.29,-289 569.29,-289 569.29,-20 569.29,-20 569.29,-14 575.29,-8 581.29,-8" style=""/>
+<text text-anchor="middle" x="651.07" y="-284.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IFlatcoinVault</text>
+</g>
+<g id="clust4" class="cluster" data-name="clusternetSize">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M628.07,-309C628.07,-309 674.07,-309 674.07,-309 680.07,-309 686.07,-315 686.07,-321 686.07,-321 686.07,-374 686.07,-374 686.07,-380 680.07,-386 674.07,-386 674.07,-386 628.07,-386 628.07,-386 622.07,-386 616.07,-380 616.07,-374 616.07,-374 616.07,-321 616.07,-321 616.07,-315 622.07,-309 628.07,-309" style=""/>
+<text text-anchor="middle" x="651.07" y="-369.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">netSize</text>
+</g>
+<g id="clust5" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="53.79,-1423 53.79,-1552 426.88,-1552 426.88,-1423 53.79,-1423" style=""/>
+<text text-anchor="middle" x="240.34" y="-1535.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- DelayedOrder.&lt;Constructor&gt; -->
+<g id="node1" class="node" pointer-events="visible" data-name="DelayedOrder.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="126.79" cy="-1364" rx="67.55" ry="18" style=""/>
+<text text-anchor="middle" x="126.79" y="-1359.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- DelayedOrder._disableInitializers -->
+<g id="node21" class="node" pointer-events="visible" data-name="DelayedOrder._disableInitializers">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="391.88" cy="-1364" rx="84.52" ry="18" style=""/>
+<text text-anchor="middle" x="391.88" y="-1359.8" font-family="Times,serif" font-size="14.00" style="">_disableInitializers</text>
+</g>
+<!-- DelayedOrder.&lt;Constructor&gt;&#45;&gt;DelayedOrder._disableInitializers -->
+<g id="edge1" class="edge" data-name="DelayedOrder.&lt;Constructor&gt;-&gt;DelayedOrder._disableInitializers">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M195.54,-1364C225.25,-1364 260.68,-1364 293.16,-1364" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="292.89,-1367.5 302.89,-1364 292.89,-1360.5 292.89,-1367.5" style=""/>
+</g>
+<!-- DelayedOrder.initialize -->
+<g id="node2" class="node" pointer-events="visible" data-name="DelayedOrder.initialize">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="391.88" cy="-1310" rx="44.64" ry="18" style=""/>
+<text text-anchor="middle" x="391.88" y="-1305.8" font-family="Times,serif" font-size="14.00" style="">initialize</text>
+</g>
+<!-- DelayedOrder.__Ownable_init -->
+<g id="node22" class="node" pointer-events="visible" data-name="DelayedOrder.__Ownable_init">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="651.07" cy="-1283" rx="73.02" ry="18" style=""/>
+<text text-anchor="middle" x="651.07" y="-1278.8" font-family="Times,serif" font-size="14.00" style="">__Ownable_init</text>
+</g>
+<!-- DelayedOrder.initialize&#45;&gt;DelayedOrder.__Ownable_init -->
+<g id="edge2" class="edge" data-name="DelayedOrder.initialize-&gt;DelayedOrder.__Ownable_init">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M436.51,-1305.42C472.77,-1301.61 525.35,-1296.09 569.26,-1291.48" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="569.4,-1294.99 578.98,-1290.46 568.67,-1288.03 569.4,-1294.99" style=""/>
+</g>
+<!-- DelayedOrder.__Pausable_init -->
+<g id="node23" class="node" pointer-events="visible" data-name="DelayedOrder.__Pausable_init">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="651.07" cy="-1337" rx="72.95" ry="18" style=""/>
+<text text-anchor="middle" x="651.07" y="-1332.8" font-family="Times,serif" font-size="14.00" style="">__Pausable_init</text>
+</g>
+<!-- DelayedOrder.initialize&#45;&gt;DelayedOrder.__Pausable_init -->
+<g id="edge3" class="edge" data-name="DelayedOrder.initialize-&gt;DelayedOrder.__Pausable_init">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M436.51,-1314.58C472.77,-1318.39 525.35,-1323.91 569.26,-1328.52" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="568.67,-1331.97 578.98,-1329.54 569.4,-1325.01 568.67,-1331.97" style=""/>
+</g>
+<!-- DelayedOrder.address -->
+<g id="node24" class="node" pointer-events="visible" data-name="DelayedOrder.address">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="651.07" cy="-963" rx="40" ry="18" style=""/>
+<text text-anchor="middle" x="651.07" y="-958.8" font-family="Times,serif" font-size="14.00" style="">address</text>
+</g>
+<!-- DelayedOrder.initialize&#45;&gt;DelayedOrder.address -->
+<g id="edge4" class="edge" data-name="DelayedOrder.initialize-&gt;DelayedOrder.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M434.14,-1302.46C458.99,-1299.2 489.7,-1292.62 510.19,-1274 547.63,-1239.97 527.01,-1212.82 546.19,-1166 572.23,-1102.41 608.72,-1031.18 630.8,-992.12" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="633.69,-994.11 635.65,-983.7 627.63,-990.62 633.69,-994.11" style=""/>
+</g>
+<!-- DelayedOrder.initialize&#45;&gt;DelayedOrder.address -->
+<g id="edge5" class="edge" data-name="DelayedOrder.initialize-&gt;DelayedOrder.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M433.85,-1317.97C458.76,-1317.25 489.62,-1310.69 510.19,-1292 547.63,-1257.97 527.01,-1230.82 546.19,-1184 574.67,-1114.44 615.66,-1035.74 636.62,-993.39" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="639.63,-995.19 640.88,-984.67 633.34,-992.12 639.63,-995.19" style=""/>
+</g>
+<!-- DelayedOrder.announceStableDeposit -->
+<g id="node3" class="node" pointer-events="visible" data-name="DelayedOrder.announceStableDeposit">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="126.79" cy="-825" rx="102.43" ry="18" style=""/>
+<text text-anchor="middle" x="126.79" y="-820.8" font-family="Times,serif" font-size="14.00" style="">announceStableDeposit</text>
+</g>
+<!-- DelayedOrder.cancelExistingOrder -->
+<g id="node7" class="node" pointer-events="visible" data-name="DelayedOrder.cancelExistingOrder">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="391.88" cy="-744" rx="90.31" ry="18" style=""/>
+<text text-anchor="middle" x="391.88" y="-739.8" font-family="Times,serif" font-size="14.00" style="">cancelExistingOrder</text>
+</g>
+<!-- DelayedOrder.announceStableDeposit&#45;&gt;DelayedOrder.cancelExistingOrder -->
+<g id="edge7" class="edge" data-name="DelayedOrder.announceStableDeposit-&gt;DelayedOrder.cancelExistingOrder">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M200.97,-811.38C213.49,-807.82 226.14,-803.42 237.58,-798 255.65,-789.44 255.44,-779.43 273.58,-771 283.88,-766.22 295.09,-762.25 306.36,-758.96" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="306.92,-762.44 315.66,-756.45 305.09,-755.68 306.92,-762.44" style=""/>
+</g>
+<!-- DelayedOrder.stableDepositQuote -->
+<g id="node13" class="node" pointer-events="visible" data-name="DelayedOrder.stableDepositQuote">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="391.88" cy="-582" rx="87.41" ry="18" style=""/>
+<text text-anchor="middle" x="391.88" y="-577.8" font-family="Times,serif" font-size="14.00" style="">stableDepositQuote</text>
+</g>
+<!-- DelayedOrder.announceStableDeposit&#45;&gt;DelayedOrder.stableDepositQuote -->
+<g id="edge9" class="edge" data-name="DelayedOrder.announceStableDeposit-&gt;DelayedOrder.stableDepositQuote">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M213.8,-814.4C222.69,-810.38 230.89,-805.05 237.58,-798 296.42,-735.96 214.27,-670.6 273.58,-609 280.05,-602.27 287.84,-597.07 296.29,-593.07" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="297.36,-596.41 305.35,-589.44 294.76,-589.91 297.36,-596.41" style=""/>
+</g>
+<!-- DelayedOrder.announceStableDeposit&#45;&gt;DelayedOrder.address -->
+<g id="edge11" class="edge" data-name="DelayedOrder.announceStableDeposit-&gt;DelayedOrder.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M129.48,-844.19C135.77,-902.63 163.53,-1078.75 273.58,-1150 317.71,-1178.58 463.17,-1173.54 510.19,-1150 575.52,-1117.28 618.19,-1037.96 637.73,-993.86" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="640.94,-995.27 641.65,-984.7 634.5,-992.51 640.94,-995.27" style=""/>
+</g>
+<!-- DelayedOrder.AnnouncedStableDeposit -->
+<g id="node25" class="node" pointer-events="visible" data-name="DelayedOrder.AnnouncedStableDeposit">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="391.88" cy="-1256" rx="109.97" ry="18" style=""/>
+<text text-anchor="middle" x="391.88" y="-1251.8" font-family="Times,serif" font-size="14.00" style="">AnnouncedStableDeposit</text>
+</g>
+<!-- DelayedOrder.announceStableDeposit&#45;&gt;DelayedOrder.AnnouncedStableDeposit -->
+<g id="edge8" class="edge" data-name="DelayedOrder.announceStableDeposit-&gt;DelayedOrder.AnnouncedStableDeposit">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M128.55,-844.13C132.22,-908.99 153.34,-1122.4 273.58,-1229 278.17,-1233.07 283.26,-1236.57 288.66,-1239.56" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="286.88,-1242.59 297.42,-1243.73 289.89,-1236.27 286.88,-1242.59" style=""/>
+</g>
+<!-- DelayedOrder.AnnouncedOrder -->
+<g id="node26" class="node" pointer-events="visible" data-name="DelayedOrder.AnnouncedOrder">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="391.88" cy="-1000" rx="78.15" ry="18" style=""/>
+<text text-anchor="middle" x="391.88" y="-995.8" font-family="Times,serif" font-size="14.00" style="">AnnouncedOrder</text>
+</g>
+<!-- DelayedOrder.announceStableDeposit&#45;&gt;DelayedOrder.AnnouncedOrder -->
+<g id="edge12" class="edge" data-name="DelayedOrder.announceStableDeposit-&gt;DelayedOrder.AnnouncedOrder">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M141.7,-843.87C165.34,-874.56 216.38,-935.17 273.58,-968 286.18,-975.23 300.49,-980.89 314.67,-985.3" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="313.57,-988.62 324.15,-988.02 315.5,-981.89 313.57,-988.62" style=""/>
+</g>
+<!-- IKeeperFee.getKeeperFee -->
+<g id="node33" class="node" pointer-events="visible" data-name="IKeeperFee.getKeeperFee">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="391.88" cy="-335" rx="64.81" ry="18" style=""/>
+<text text-anchor="middle" x="391.88" y="-330.8" font-family="Times,serif" font-size="14.00" style="">getKeeperFee</text>
+</g>
+<!-- DelayedOrder.announceStableDeposit&#45;&gt;IKeeperFee.getKeeperFee -->
+<g id="edge6" class="edge" data-name="DelayedOrder.announceStableDeposit-&gt;IKeeperFee.getKeeperFee">
+
+<path fill="none" stroke="white" stroke-width="2" d="M215.04,-814.78C223.59,-810.68 231.38,-805.23 237.58,-798 296.83,-728.91 221.42,-464.59 273.58,-390 286.29,-371.83 306.6,-359.49 326.79,-351.2" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="327.96,-354.5 336.1,-347.71 325.5,-347.94 327.96,-354.5" style=""/>
+</g>
+<!-- IFlatcoinVault.collateral -->
+<g id="node34" class="node" pointer-events="visible" data-name="IFlatcoinVault.collateral">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="651.07" cy="-196" rx="46.92" ry="18" style=""/>
+<text text-anchor="middle" x="651.07" y="-191.8" font-family="Times,serif" font-size="14.00" style="">collateral</text>
+</g>
+<!-- DelayedOrder.announceStableDeposit&#45;&gt;IFlatcoinVault.collateral -->
+<g id="edge10" class="edge" data-name="DelayedOrder.announceStableDeposit-&gt;IFlatcoinVault.collateral">
+
+<path fill="none" stroke="white" stroke-width="2" d="M215.14,-814.88C223.68,-810.76 231.44,-805.27 237.58,-798 308.45,-714.07 199.66,-386.26 273.58,-305 345.34,-226.1 417.36,-317.51 510.19,-265 531.59,-252.89 525.33,-236.02 546.19,-223 560.03,-214.35 576.56,-208.46 592.32,-204.46" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="592.81,-207.94 601.78,-202.3 591.25,-201.11 592.81,-207.94" style=""/>
+</g>
+<!-- DelayedOrder.announceStableWithdraw -->
+<g id="node4" class="node" pointer-events="visible" data-name="DelayedOrder.announceStableWithdraw">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="126.79" cy="-771" rx="110.58" ry="18" style=""/>
+<text text-anchor="middle" x="126.79" y="-766.8" font-family="Times,serif" font-size="14.00" style="">announceStableWithdraw</text>
+</g>
+<!-- DelayedOrder.announceStableWithdraw&#45;&gt;DelayedOrder.cancelExistingOrder -->
+<g id="edge14" class="edge" data-name="DelayedOrder.announceStableWithdraw-&gt;DelayedOrder.cancelExistingOrder">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M223.52,-761.18C247.19,-758.75 272.55,-756.14 296.18,-753.72" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="296.5,-757.2 306.09,-752.7 295.79,-750.24 296.5,-757.2" style=""/>
+</g>
+<!-- DelayedOrder.stableWithdrawQuote -->
+<g id="node14" class="node" pointer-events="visible" data-name="DelayedOrder.stableWithdrawQuote">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="391.88" cy="-528" rx="95.55" ry="18" style=""/>
+<text text-anchor="middle" x="391.88" y="-523.8" font-family="Times,serif" font-size="14.00" style="">stableWithdrawQuote</text>
+</g>
+<!-- DelayedOrder.announceStableWithdraw&#45;&gt;DelayedOrder.stableWithdrawQuote -->
+<g id="edge16" class="edge" data-name="DelayedOrder.announceStableWithdraw-&gt;DelayedOrder.stableWithdrawQuote">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M216.21,-759.27C224.17,-755.4 231.5,-750.41 237.58,-744 296.42,-681.96 214.27,-616.6 273.58,-555 278.92,-549.45 285.15,-544.95 291.9,-541.29" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="293.3,-544.5 300.95,-537.17 290.4,-538.13 293.3,-544.5" style=""/>
+</g>
+<!-- DelayedOrder.announceStableWithdraw&#45;&gt;DelayedOrder.address -->
+<g id="edge19" class="edge" data-name="DelayedOrder.announceStableWithdraw-&gt;DelayedOrder.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M217.27,-782.5C224.92,-786.43 231.9,-791.5 237.58,-798 287.13,-854.72 217.56,-1084.65 273.58,-1135 293.13,-1152.57 486.45,-1146.29 510.19,-1135 571.77,-1105.71 615.11,-1034.58 635.97,-993.55" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="639.11,-995.1 640.38,-984.58 632.82,-992.01 639.11,-995.1" style=""/>
+</g>
+<!-- DelayedOrder.announceStableWithdraw&#45;&gt;DelayedOrder.AnnouncedOrder -->
+<g id="edge20" class="edge" data-name="DelayedOrder.announceStableWithdraw-&gt;DelayedOrder.AnnouncedOrder">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M215.81,-782.73C223.89,-786.59 231.37,-791.58 237.58,-798 291.29,-853.49 220.56,-911.84 273.58,-968 282.38,-977.33 293.61,-984.03 305.62,-988.82" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="304.37,-992.1 314.97,-992.03 306.65,-985.48 304.37,-992.1" style=""/>
+</g>
+<!-- DelayedOrder.AnnouncedStableWithdraw -->
+<g id="node27" class="node" pointer-events="visible" data-name="DelayedOrder.AnnouncedStableWithdraw">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="391.88" cy="-1054" rx="118.11" ry="18" style=""/>
+<text text-anchor="middle" x="391.88" y="-1049.8" font-family="Times,serif" font-size="14.00" style="">AnnouncedStableWithdraw</text>
+</g>
+<!-- DelayedOrder.announceStableWithdraw&#45;&gt;DelayedOrder.AnnouncedStableWithdraw -->
+<g id="edge15" class="edge" data-name="DelayedOrder.announceStableWithdraw-&gt;DelayedOrder.AnnouncedStableWithdraw">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M216.42,-782.53C224.34,-786.44 231.6,-791.49 237.58,-798 307.26,-873.89 203.33,-951.63 273.58,-1027 276.74,-1030.39 280.23,-1033.39 283.97,-1036.06" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="282.13,-1039.03 292.52,-1041.13 285.71,-1033.02 282.13,-1039.03" style=""/>
+</g>
+<!-- DelayedOrder.IERC20Upgradeable -->
+<g id="node28" class="node" pointer-events="visible" data-name="DelayedOrder.IERC20Upgradeable">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="391.88" cy="-1108" rx="92.04" ry="18" style=""/>
+<text text-anchor="middle" x="391.88" y="-1103.8" font-family="Times,serif" font-size="14.00" style="">IERC20Upgradeable</text>
+</g>
+<!-- DelayedOrder.announceStableWithdraw&#45;&gt;DelayedOrder.IERC20Upgradeable -->
+<g id="edge17" class="edge" data-name="DelayedOrder.announceStableWithdraw-&gt;DelayedOrder.IERC20Upgradeable">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M216.88,-782.49C224.66,-786.41 231.77,-791.48 237.58,-798 321.95,-892.64 188.5,-986.99 273.58,-1081 279.1,-1087.1 285.7,-1091.96 292.91,-1095.83" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="291.36,-1098.97 301.92,-1099.87 294.23,-1092.58 291.36,-1098.97" style=""/>
+</g>
+<!-- DelayedOrder.announceStableWithdraw&#45;&gt;IKeeperFee.getKeeperFee -->
+<g id="edge13" class="edge" data-name="DelayedOrder.announceStableWithdraw-&gt;IKeeperFee.getKeeperFee">
+
+<path fill="none" stroke="white" stroke-width="2" d="M217.31,-759.53C224.95,-755.59 231.91,-750.52 237.58,-744 289.45,-684.32 227.84,-454.5 273.58,-390 286.41,-371.91 306.75,-359.6 326.92,-351.29" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="328.09,-354.59 336.22,-347.8 325.63,-348.04 328.09,-354.59" style=""/>
+</g>
+<!-- IFlatcoinVault.stableModule -->
+<g id="node35" class="node" pointer-events="visible" data-name="IFlatcoinVault.stableModule">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="651.07" cy="-88" rx="63.71" ry="18" style=""/>
+<text text-anchor="middle" x="651.07" y="-83.8" font-family="Times,serif" font-size="14.00" style="">stableModule</text>
+</g>
+<!-- DelayedOrder.announceStableWithdraw&#45;&gt;IFlatcoinVault.stableModule -->
+<g id="edge18" class="edge" data-name="DelayedOrder.announceStableWithdraw-&gt;IFlatcoinVault.stableModule">
+
+<path fill="none" stroke="white" stroke-width="2" d="M217.48,-759.68C225.09,-755.72 232,-750.59 237.58,-744 306.53,-662.52 211.61,-351.91 273.58,-265 340.06,-171.76 420.23,-233.86 510.19,-163 531.14,-146.5 524.04,-129.85 546.19,-115 556.18,-108.3 567.74,-103.26 579.44,-99.47" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="580.08,-102.93 588.72,-96.8 578.14,-96.2 580.08,-102.93" style=""/>
+</g>
+<!-- DelayedOrder.announceLeverageOpen -->
+<g id="node5" class="node" pointer-events="visible" data-name="DelayedOrder.announceLeverageOpen">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="126.79" cy="-717" rx="104.74" ry="18" style=""/>
+<text text-anchor="middle" x="126.79" y="-712.8" font-family="Times,serif" font-size="14.00" style="">announceLeverageOpen</text>
+</g>
+<!-- DelayedOrder.announceLeverageOpen&#45;&gt;DelayedOrder.cancelExistingOrder -->
+<g id="edge22" class="edge" data-name="DelayedOrder.announceLeverageOpen-&gt;DelayedOrder.cancelExistingOrder">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M219.44,-726.41C244.32,-728.96 271.3,-731.73 296.33,-734.3" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="295.91,-737.77 306.21,-735.31 296.62,-730.81 295.91,-737.77" style=""/>
+</g>
+<!-- DelayedOrder.leverageModifyFillPrice -->
+<g id="node15" class="node" pointer-events="visible" data-name="DelayedOrder.leverageModifyFillPrice">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="391.88" cy="-906" rx="105.94" ry="18" style=""/>
+<text text-anchor="middle" x="391.88" y="-901.8" font-family="Times,serif" font-size="14.00" style="">leverageModifyFillPrice</text>
+</g>
+<!-- DelayedOrder.announceLeverageOpen&#45;&gt;DelayedOrder.leverageModifyFillPrice -->
+<g id="edge23" class="edge" data-name="DelayedOrder.announceLeverageOpen-&gt;DelayedOrder.leverageModifyFillPrice">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M213.58,-728.2C222.45,-732.12 230.71,-737.27 237.58,-744 281.91,-787.48 228.92,-835.85 273.58,-879 278.08,-883.35 283.14,-887.06 288.57,-890.21" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="286.91,-893.29 297.43,-894.57 290.01,-887.01 286.91,-893.29" style=""/>
+</g>
+<!-- DelayedOrder.announceLeverageOpen&#45;&gt;DelayedOrder.address -->
+<g id="edge25" class="edge" data-name="DelayedOrder.announceLeverageOpen-&gt;DelayedOrder.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M214.7,-727.88C223.26,-731.87 231.14,-737.12 237.58,-744 300.48,-811.23 204.24,-887.43 273.58,-948 297.33,-968.75 499.03,-966.75 597.03,-964.5" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="596.93,-968 606.84,-964.26 596.76,-961 596.93,-968" style=""/>
+</g>
+<!-- DelayedOrder.announceLeverageOpen&#45;&gt;DelayedOrder.AnnouncedOrder -->
+<g id="edge27" class="edge" data-name="DelayedOrder.announceLeverageOpen-&gt;DelayedOrder.AnnouncedOrder">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M214.8,-727.79C223.34,-731.79 231.19,-737.07 237.58,-744 305.9,-818.16 206.19,-892.99 273.58,-968 282.09,-977.48 293.12,-984.27 304.99,-989.11" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="303.64,-992.34 314.23,-992.33 305.94,-985.73 303.64,-992.34" style=""/>
+</g>
+<!-- DelayedOrder.AnnouncedLeverageOpen -->
+<g id="node29" class="node" pointer-events="visible" data-name="DelayedOrder.AnnouncedLeverageOpen">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="391.88" cy="-474" rx="112.27" ry="18" style=""/>
+<text text-anchor="middle" x="391.88" y="-469.8" font-family="Times,serif" font-size="14.00" style="">AnnouncedLeverageOpen</text>
+</g>
+<!-- DelayedOrder.announceLeverageOpen&#45;&gt;DelayedOrder.AnnouncedLeverageOpen -->
+<g id="edge26" class="edge" data-name="DelayedOrder.announceLeverageOpen-&gt;DelayedOrder.AnnouncedLeverageOpen">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M184.07,-700.62C203.64,-692.3 224.06,-680.2 237.58,-663 283.16,-605.01 221.62,-553.35 273.58,-501 277.43,-497.12 281.72,-493.75 286.31,-490.83" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="287.72,-494.05 294.87,-486.23 284.4,-487.88 287.72,-494.05" style=""/>
+</g>
+<!-- DelayedOrder.announceLeverageOpen&#45;&gt;IKeeperFee.getKeeperFee -->
+<g id="edge21" class="edge" data-name="DelayedOrder.announceLeverageOpen-&gt;IKeeperFee.getKeeperFee">
+
+<path fill="none" stroke="white" stroke-width="2" d="M185.75,-700.88C205.15,-692.63 225.01,-680.52 237.58,-663 308.93,-563.57 201.3,-488.76 273.58,-390 286.73,-372.03 307.26,-359.73 327.48,-351.41" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="328.67,-354.7 336.8,-347.9 326.21,-348.15 328.67,-354.7" style=""/>
+</g>
+<!-- DelayedOrder.announceLeverageOpen&#45;&gt;IFlatcoinVault.collateral -->
+<g id="edge24" class="edge" data-name="DelayedOrder.announceLeverageOpen-&gt;IFlatcoinVault.collateral">
+
+<path fill="none" stroke="white" stroke-width="2" d="M186.41,-701.02C205.75,-692.8 225.41,-680.67 237.58,-663 286.69,-591.68 215.95,-339.63 273.58,-275 314.97,-228.58 495.4,-207.89 590.66,-200.06" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="590.8,-203.56 600.49,-199.28 590.25,-196.58 590.8,-203.56" style=""/>
+</g>
+<!-- DelayedOrder.announceLeverageClose -->
+<g id="node6" class="node" pointer-events="visible" data-name="DelayedOrder.announceLeverageClose">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="126.79" cy="-636" rx="105.9" ry="18" style=""/>
+<text text-anchor="middle" x="126.79" y="-631.8" font-family="Times,serif" font-size="14.00" style="">announceLeverageClose</text>
+</g>
+<!-- DelayedOrder.announceLeverageClose&#45;&gt;DelayedOrder.cancelExistingOrder -->
+<g id="edge29" class="edge" data-name="DelayedOrder.announceLeverageClose-&gt;DelayedOrder.cancelExistingOrder">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M168.64,-653.88C189.73,-663.65 215.58,-676.5 237.58,-690 254.62,-700.46 255.44,-708.57 273.58,-717 283.88,-721.78 295.09,-725.75 306.36,-729.04" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="305.09,-732.32 315.66,-731.55 306.92,-725.56 305.09,-732.32" style=""/>
+</g>
+<!-- DelayedOrder.announceLeverageClose&#45;&gt;DelayedOrder.leverageModifyFillPrice -->
+<g id="edge31" class="edge" data-name="DelayedOrder.announceLeverageClose-&gt;DelayedOrder.leverageModifyFillPrice">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M184.64,-652.28C204.16,-660.57 224.38,-672.68 237.58,-690 289.39,-758.02 214.27,-817.4 273.58,-879 277.88,-883.47 282.76,-887.27 288.03,-890.48" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="286.15,-893.45 296.64,-894.92 289.36,-887.23 286.15,-893.45" style=""/>
+</g>
+<!-- DelayedOrder.announceLeverageClose&#45;&gt;DelayedOrder.address -->
+<g id="edge35" class="edge" data-name="DelayedOrder.announceLeverageClose-&gt;DelayedOrder.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M185.6,-652.23C204.98,-660.49 224.87,-672.58 237.58,-690 301.93,-778.19 193.21,-859.1 273.58,-933 292.97,-950.83 483.94,-945.76 510.19,-948 539.33,-950.49 571.83,-953.93 598.15,-956.89" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="597.58,-960.35 607.92,-958 598.38,-953.39 597.58,-960.35" style=""/>
+</g>
+<!-- DelayedOrder.announceLeverageClose&#45;&gt;DelayedOrder.AnnouncedOrder -->
+<g id="edge36" class="edge" data-name="DelayedOrder.announceLeverageClose-&gt;DelayedOrder.AnnouncedOrder">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M185.68,-652.18C205.07,-660.42 224.94,-672.53 237.58,-690 305.43,-783.81 203.87,-855.56 273.58,-948 285.35,-963.61 302.84,-974.63 320.74,-982.37" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="319.41,-985.61 330,-986 321.97,-979.09 319.41,-985.61" style=""/>
+</g>
+<!-- DelayedOrder.AnnouncedLeverageClose -->
+<g id="node30" class="node" pointer-events="visible" data-name="DelayedOrder.AnnouncedLeverageClose">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="391.88" cy="-420" rx="113.43" ry="18" style=""/>
+<text text-anchor="middle" x="391.88" y="-415.8" font-family="Times,serif" font-size="14.00" style="">AnnouncedLeverageClose</text>
+</g>
+<!-- DelayedOrder.announceLeverageClose&#45;&gt;DelayedOrder.AnnouncedLeverageClose -->
+<g id="edge32" class="edge" data-name="DelayedOrder.announceLeverageClose-&gt;DelayedOrder.AnnouncedLeverageClose">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M214.4,-624.83C223.01,-620.9 230.99,-615.74 237.58,-609 289.14,-556.26 221.62,-499.35 273.58,-447 277.39,-443.16 281.62,-439.82 286.16,-436.92" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="287.46,-440.2 294.59,-432.36 284.13,-434.05 287.46,-440.2" style=""/>
+</g>
+<!-- DelayedOrder.announceLeverageClose&#45;&gt;IKeeperFee.getKeeperFee -->
+<g id="edge28" class="edge" data-name="DelayedOrder.announceLeverageClose-&gt;IKeeperFee.getKeeperFee">
+
+<path fill="none" stroke="white" stroke-width="2" d="M215.04,-625.07C223.49,-621.08 231.25,-615.85 237.58,-609 304.55,-536.58 214.07,-468.67 273.58,-390 287.01,-372.24 307.6,-359.99 327.8,-351.64" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="328.98,-354.94 337.1,-348.13 326.51,-348.39 328.98,-354.94" style=""/>
+</g>
+<!-- IFlatcoinVault.leverageModule -->
+<g id="node36" class="node" pointer-events="visible" data-name="IFlatcoinVault.leverageModule">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="651.07" cy="-34" rx="73.56" ry="18" style=""/>
+<text text-anchor="middle" x="651.07" y="-29.8" font-family="Times,serif" font-size="14.00" style="">leverageModule</text>
+</g>
+<!-- DelayedOrder.announceLeverageClose&#45;&gt;IFlatcoinVault.leverageModule -->
+<g id="edge30" class="edge" data-name="DelayedOrder.announceLeverageClose-&gt;IFlatcoinVault.leverageModule">
+
+<path fill="none" stroke="white" stroke-width="2" d="M180.18,-619.15C201.07,-614.74 223.45,-607.46 237.58,-591 296.42,-522.43 223.44,-261.17 273.58,-186 338.72,-88.33 474.5,-46.06 563.94,-32.98" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="564.34,-36.46 573.79,-31.66 563.41,-29.52 564.34,-36.46" style=""/>
+</g>
+<!-- DelayedOrder.announceLeverageClose&#45;&gt;IFlatcoinVault.leverageModule -->
+<g id="edge33" class="edge" data-name="DelayedOrder.announceLeverageClose-&gt;IFlatcoinVault.leverageModule">
+
+<path fill="none" stroke="white" stroke-width="2" d="M216.09,-625.27C224.23,-621.23 231.63,-615.93 237.58,-609 296.42,-540.43 223.44,-279.17 273.58,-204 340.52,-103.63 482.06,-61.76 571.25,-44.85" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="571.82,-48.3 581.04,-43.07 570.57,-41.42 571.82,-48.3" style=""/>
+</g>
+<!-- DelayedOrder.announceLeverageClose&#45;&gt;IFlatcoinVault.leverageModule -->
+<g id="edge34" class="edge" data-name="DelayedOrder.announceLeverageClose-&gt;IFlatcoinVault.leverageModule">
+
+<path fill="none" stroke="white" stroke-width="2" d="M232.27,-632.43C234.14,-630.75 235.92,-628.94 237.58,-627 296.42,-558.43 223.44,-297.17 273.58,-222 346.25,-113.03 506.84,-73.02 592.92,-52.5" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="593.71,-55.91 602.63,-50.19 592.09,-49.1 593.71,-55.91" style=""/>
+</g>
+<!-- DelayedOrder.hasOrderExpired -->
+<g id="node17" class="node" pointer-events="visible" data-name="DelayedOrder.hasOrderExpired">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="651.07" cy="-717" rx="77" ry="18" style=""/>
+<text text-anchor="middle" x="651.07" y="-712.8" font-family="Times,serif" font-size="14.00" style="">hasOrderExpired</text>
+</g>
+<!-- DelayedOrder.cancelExistingOrder&#45;&gt;DelayedOrder.hasOrderExpired -->
+<g id="edge37" class="edge" data-name="DelayedOrder.cancelExistingOrder-&gt;DelayedOrder.hasOrderExpired">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M474.26,-735.46C503.49,-732.39 536.5,-728.92 565.95,-725.83" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="566.18,-729.33 575.76,-724.8 565.45,-722.36 566.18,-729.33" style=""/>
+</g>
+<!-- DelayedOrder.cancelExistingOrder&#45;&gt;DelayedOrder.address -->
+<g id="edge42" class="edge" data-name="DelayedOrder.cancelExistingOrder-&gt;DelayedOrder.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M471.18,-753.8C484.9,-757.76 498.5,-763.28 510.19,-771 571.89,-811.75 615.78,-889.61 636.54,-932.6" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="633.31,-933.94 640.72,-941.5 639.64,-930.96 633.31,-933.94" style=""/>
+</g>
+<!-- DelayedOrder.CancelAnnouncedOrder -->
+<g id="node31" class="node" pointer-events="visible" data-name="DelayedOrder.CancelAnnouncedOrder">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="651.07" cy="-771" rx="104.77" ry="18" style=""/>
+<text text-anchor="middle" x="651.07" y="-766.8" font-family="Times,serif" font-size="14.00" style="">CancelAnnouncedOrder</text>
+</g>
+<!-- DelayedOrder.cancelExistingOrder&#45;&gt;DelayedOrder.CancelAnnouncedOrder -->
+<g id="edge43" class="edge" data-name="DelayedOrder.cancelExistingOrder-&gt;DelayedOrder.CancelAnnouncedOrder">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M474.26,-752.54C497.09,-754.94 522.22,-757.58 546.17,-760.09" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="545.62,-763.55 555.93,-761.12 546.35,-756.59 545.62,-763.55" style=""/>
+</g>
+<!-- DelayedOrder.cancelExistingOrder&#45;&gt;IFlatcoinVault.collateral -->
+<g id="edge38" class="edge" data-name="DelayedOrder.cancelExistingOrder-&gt;IFlatcoinVault.collateral">
+
+<path fill="none" stroke="white" stroke-width="2" d="M466.64,-732.78C483.19,-728.37 499.1,-720.93 510.19,-708 581.82,-624.43 475.73,-298.56 546.19,-214 557.99,-199.83 576.2,-192.58 594.09,-189.54" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="594.44,-193.02 603.96,-188.38 593.62,-186.07 594.44,-193.02" style=""/>
+</g>
+<!-- DelayedOrder.cancelExistingOrder&#45;&gt;IFlatcoinVault.collateral -->
+<g id="edge40" class="edge" data-name="DelayedOrder.cancelExistingOrder-&gt;IFlatcoinVault.collateral">
+
+<path fill="none" stroke="white" stroke-width="2" d="M483.59,-744.78C493.73,-740.49 502.98,-734.41 510.19,-726 581.82,-642.43 475.73,-316.56 546.19,-232 558.05,-217.76 576.38,-210.51 594.35,-206.44" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="594.83,-209.91 603.99,-204.6 593.52,-203.04 594.83,-209.91" style=""/>
+</g>
+<!-- DelayedOrder.cancelExistingOrder&#45;&gt;IFlatcoinVault.stableModule -->
+<g id="edge39" class="edge" data-name="DelayedOrder.cancelExistingOrder-&gt;IFlatcoinVault.stableModule">
+
+<path fill="none" stroke="white" stroke-width="2" d="M478.76,-737.92C490.8,-733.47 501.89,-726.81 510.19,-717 596.74,-614.68 461.07,-218.52 546.19,-115 553.66,-105.91 563.77,-99.66 574.76,-95.4" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="575.59,-98.81 584.06,-92.45 573.47,-92.14 575.59,-98.81" style=""/>
+</g>
+<!-- DelayedOrder.cancelExistingOrder&#45;&gt;IFlatcoinVault.leverageModule -->
+<g id="edge41" class="edge" data-name="DelayedOrder.cancelExistingOrder-&gt;IFlatcoinVault.leverageModule">
+
+<path fill="none" stroke="white" stroke-width="2" d="M478.8,-737.95C490.84,-733.5 501.91,-726.83 510.19,-717 604.21,-605.31 453.74,-174 546.19,-61 551.96,-53.94 559.32,-48.6 567.46,-44.56" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="568.64,-47.86 576.58,-40.84 566,-41.38 568.64,-47.86" style=""/>
+</g>
+<!-- DelayedOrder.executeStableDeposit -->
+<g id="node8" class="node" pointer-events="visible" data-name="DelayedOrder.executeStableDeposit">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="391.88" cy="-852" rx="94.9" ry="18" style=""/>
+<text text-anchor="middle" x="391.88" y="-847.8" font-family="Times,serif" font-size="14.00" style="">executeStableDeposit</text>
+</g>
+<!-- DelayedOrder.executeStableDeposit&#45;&gt;DelayedOrder.hasOrderExpired -->
+<g id="edge44" class="edge" data-name="DelayedOrder.executeStableDeposit-&gt;DelayedOrder.hasOrderExpired">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M476.56,-842.88C488.74,-838.79 500.43,-833.04 510.19,-825 540.59,-799.94 516.14,-769.48 546.19,-744 552.95,-738.27 560.79,-733.73 569.06,-730.14" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="570.02,-733.52 578.16,-726.75 567.57,-726.97 570.02,-733.52" style=""/>
+</g>
+<!-- DelayedOrder.executeStableDeposit&#45;&gt;DelayedOrder.address -->
+<g id="edge49" class="edge" data-name="DelayedOrder.executeStableDeposit-&gt;DelayedOrder.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M464.7,-864.76C479.99,-868.52 495.85,-873.21 510.19,-879 549.44,-894.84 590.52,-920.8 617.93,-939.68" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="615.76,-942.43 625.96,-945.3 619.77,-936.69 615.76,-942.43" style=""/>
+</g>
+<!-- DelayedOrder.executeStableDeposit&#45;&gt;IFlatcoinVault.collateral -->
+<g id="edge47" class="edge" data-name="DelayedOrder.executeStableDeposit-&gt;IFlatcoinVault.collateral">
+
+<path fill="none" stroke="white" stroke-width="2" d="M468.88,-840.3C484.66,-835.81 499.66,-828.44 510.19,-816 596.74,-713.68 461.07,-317.52 546.19,-214 557.95,-199.7 576.23,-192.43 594.21,-189.42" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="594.59,-192.89 604.13,-188.28 593.8,-185.94 594.59,-192.89" style=""/>
+</g>
+<!-- DelayedOrder.executeStableDeposit&#45;&gt;IFlatcoinVault.collateral -->
+<g id="edge48" class="edge" data-name="DelayedOrder.executeStableDeposit-&gt;IFlatcoinVault.collateral">
+
+<path fill="none" stroke="white" stroke-width="2" d="M487.93,-850.93C496.38,-846.79 504.05,-841.26 510.19,-834 596.74,-731.68 461.07,-335.52 546.19,-232 557.96,-217.68 576.26,-210.42 594.25,-206.35" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="594.73,-209.82 603.9,-204.52 593.42,-202.95 594.73,-209.82" style=""/>
+</g>
+<!-- DelayedOrder.executeStableDeposit&#45;&gt;IFlatcoinVault.stableModule -->
+<g id="edge46" class="edge" data-name="DelayedOrder.executeStableDeposit-&gt;IFlatcoinVault.stableModule">
+
+<path fill="none" stroke="white" stroke-width="2" d="M481.46,-844.97C492.48,-840.53 502.54,-834.13 510.19,-825 611.67,-703.93 446.41,-237.48 546.19,-115 553.66,-105.82 563.83,-99.54 574.88,-95.27" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="575.78,-98.66 584.26,-92.31 573.67,-91.99 575.78,-98.66" style=""/>
+</g>
+<!-- IFlatcoinVault.oracleModule -->
+<g id="node37" class="node" pointer-events="visible" data-name="IFlatcoinVault.oracleModule">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="651.07" cy="-250" rx="64.83" ry="18" style=""/>
+<text text-anchor="middle" x="651.07" y="-245.8" font-family="Times,serif" font-size="14.00" style="">oracleModule</text>
+</g>
+<!-- DelayedOrder.executeStableDeposit&#45;&gt;IFlatcoinVault.oracleModule -->
+<g id="edge45" class="edge" data-name="DelayedOrder.executeStableDeposit-&gt;IFlatcoinVault.oracleModule">
+
+<path fill="none" stroke="white" stroke-width="2" d="M481.31,-844.84C492.35,-840.42 502.45,-834.06 510.19,-825 585.41,-736.92 483.05,-402.11 546.19,-305 556.76,-288.74 573.81,-276.97 591.06,-268.6" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="592.46,-271.8 600.19,-264.56 589.63,-265.4 592.46,-271.8" style=""/>
+</g>
+<!-- DelayedOrder.executeStableWithdraw -->
+<g id="node9" class="node" pointer-events="visible" data-name="DelayedOrder.executeStableWithdraw">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="391.88" cy="-690" rx="103.05" ry="18" style=""/>
+<text text-anchor="middle" x="391.88" y="-685.8" font-family="Times,serif" font-size="14.00" style="">executeStableWithdraw</text>
+</g>
+<!-- DelayedOrder.executeStableWithdraw&#45;&gt;DelayedOrder.hasOrderExpired -->
+<g id="edge50" class="edge" data-name="DelayedOrder.executeStableWithdraw-&gt;DelayedOrder.hasOrderExpired">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M483.2,-699.48C510.19,-702.31 539.66,-705.41 566.21,-708.2" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="565.67,-711.66 575.99,-709.22 566.41,-704.7 565.67,-711.66" style=""/>
+</g>
+<!-- DelayedOrder.executeStableWithdraw&#45;&gt;DelayedOrder.address -->
+<g id="edge52" class="edge" data-name="DelayedOrder.executeStableWithdraw-&gt;DelayedOrder.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M480.17,-700.39C491.04,-704.37 501.4,-709.76 510.19,-717 540.59,-742.06 527.64,-763.24 546.19,-798 572.55,-847.43 608.24,-901.9 630.19,-934.24" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="627.1,-935.93 635.63,-942.21 632.88,-931.98 627.1,-935.93" style=""/>
+</g>
+<!-- DelayedOrder.executeStableWithdraw&#45;&gt;IFlatcoinVault.stableModule -->
+<g id="edge51" class="edge" data-name="DelayedOrder.executeStableWithdraw-&gt;IFlatcoinVault.stableModule">
+
+<path fill="none" stroke="white" stroke-width="2" d="M471.55,-677.45C486.32,-672.9 500.23,-665.7 510.19,-654 589.28,-561.06 468.4,-200.04 546.19,-106 554.03,-96.51 564.75,-90.13 576.32,-86.02" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="577.04,-89.46 585.71,-83.37 575.13,-82.72 577.04,-89.46" style=""/>
+</g>
+<!-- DelayedOrder.executeStableWithdraw&#45;&gt;IFlatcoinVault.stableModule -->
+<g id="edge54" class="edge" data-name="DelayedOrder.executeStableWithdraw-&gt;IFlatcoinVault.stableModule">
+
+<path fill="none" stroke="white" stroke-width="2" d="M493.61,-685.81C499.81,-682.12 505.45,-677.57 510.19,-672 589.28,-579.06 468.4,-218.04 546.19,-124 555.51,-112.73 568.89,-105.83 582.95,-101.42" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="583.7,-104.85 592.48,-98.92 581.91,-98.08 583.7,-104.85" style=""/>
+</g>
+<!-- DelayedOrder.executeStableWithdraw&#45;&gt;IFlatcoinVault.oracleModule -->
+<g id="edge53" class="edge" data-name="DelayedOrder.executeStableWithdraw-&gt;IFlatcoinVault.oracleModule">
+
+<path fill="none" stroke="white" stroke-width="2" d="M484.52,-681.17C494.25,-676.88 503.14,-671 510.19,-663 563.05,-603.01 501.57,-371.35 546.19,-305 557.16,-288.68 574.6,-276.85 592.08,-268.45" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="593,-271.87 600.73,-264.63 590.17,-265.46 593,-271.87" style=""/>
+</g>
+<!-- IFlatcoinVault.sendCollateral -->
+<g id="node38" class="node" pointer-events="visible" data-name="IFlatcoinVault.sendCollateral">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="651.07" cy="-142" rx="66.63" ry="18" style=""/>
+<text text-anchor="middle" x="651.07" y="-137.8" font-family="Times,serif" font-size="14.00" style="">sendCollateral</text>
+</g>
+<!-- DelayedOrder.executeStableWithdraw&#45;&gt;IFlatcoinVault.sendCollateral -->
+<g id="edge55" class="edge" data-name="DelayedOrder.executeStableWithdraw-&gt;IFlatcoinVault.sendCollateral">
+
+<path fill="none" stroke="white" stroke-width="2" d="M471.49,-677.39C486.27,-672.85 500.19,-665.66 510.19,-654 581.82,-570.43 475.73,-244.56 546.19,-160 553.22,-151.56 562.52,-145.58 572.67,-141.48" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="573.59,-144.86 582.01,-138.43 571.42,-138.2 573.59,-144.86" style=""/>
+</g>
+<!-- DelayedOrder.executeStableWithdraw&#45;&gt;IFlatcoinVault.sendCollateral -->
+<g id="edge56" class="edge" data-name="DelayedOrder.executeStableWithdraw-&gt;IFlatcoinVault.sendCollateral">
+
+<path fill="none" stroke="white" stroke-width="2" d="M493.57,-685.77C499.78,-682.09 505.43,-677.55 510.19,-672 581.82,-588.43 475.73,-262.56 546.19,-178 555.18,-167.2 567.89,-160.42 581.35,-156" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="582.21,-159.4 590.92,-153.36 580.34,-152.65 582.21,-159.4" style=""/>
+</g>
+<!-- DelayedOrder.executeLeverageOpen -->
+<g id="node10" class="node" pointer-events="visible" data-name="DelayedOrder.executeLeverageOpen">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="391.88" cy="-798" rx="97.21" ry="18" style=""/>
+<text text-anchor="middle" x="391.88" y="-793.8" font-family="Times,serif" font-size="14.00" style="">executeLeverageOpen</text>
+</g>
+<!-- DelayedOrder.executeLeverageOpen&#45;&gt;DelayedOrder.hasOrderExpired -->
+<g id="edge57" class="edge" data-name="DelayedOrder.executeLeverageOpen-&gt;DelayedOrder.hasOrderExpired">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M467.97,-785.63C482.35,-781.91 497.02,-777.12 510.19,-771 528.33,-762.57 528.17,-752.68 546.19,-744 555.72,-739.41 566.14,-735.53 576.57,-732.26" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="577.25,-735.71 585.87,-729.56 575.3,-728.99 577.25,-735.71" style=""/>
+</g>
+<!-- DelayedOrder.executeLeverageOpen&#45;&gt;DelayedOrder.address -->
+<g id="edge62" class="edge" data-name="DelayedOrder.executeLeverageOpen-&gt;DelayedOrder.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M470.84,-809.57C484.45,-813.35 498.1,-818.36 510.19,-825 560.42,-852.6 604.97,-903.41 629.66,-935.08" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="626.56,-936.79 635.41,-942.62 632.13,-932.54 626.56,-936.79" style=""/>
+</g>
+<!-- DelayedOrder.executeLeverageOpen&#45;&gt;IFlatcoinVault.collateral -->
+<g id="edge60" class="edge" data-name="DelayedOrder.executeLeverageOpen-&gt;IFlatcoinVault.collateral">
+
+<path fill="none" stroke="white" stroke-width="2" d="M469.44,-786.08C484.99,-781.58 499.76,-774.25 510.19,-762 589.28,-669.06 468.4,-308.04 546.19,-214 557.99,-199.73 576.29,-192.47 594.25,-189.45" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="594.64,-192.93 604.17,-188.32 593.84,-185.98 594.64,-192.93" style=""/>
+</g>
+<!-- DelayedOrder.executeLeverageOpen&#45;&gt;IFlatcoinVault.collateral -->
+<g id="edge61" class="edge" data-name="DelayedOrder.executeLeverageOpen-&gt;IFlatcoinVault.collateral">
+
+<path fill="none" stroke="white" stroke-width="2" d="M489.83,-795.91C497.52,-791.9 504.5,-786.68 510.19,-780 589.28,-687.06 468.4,-326.04 546.19,-232 558,-217.72 576.31,-210.46 594.29,-206.39" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="594.77,-209.86 603.94,-204.56 593.47,-202.99 594.77,-209.86" style=""/>
+</g>
+<!-- DelayedOrder.executeLeverageOpen&#45;&gt;IFlatcoinVault.leverageModule -->
+<g id="edge59" class="edge" data-name="DelayedOrder.executeLeverageOpen-&gt;IFlatcoinVault.leverageModule">
+
+<path fill="none" stroke="white" stroke-width="2" d="M482.62,-790.49C493.18,-786.08 502.8,-779.81 510.19,-771 611.67,-649.93 446.41,-183.48 546.19,-61 551.95,-53.93 559.3,-48.58 567.43,-44.54" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="568.61,-47.84 576.55,-40.82 565.97,-41.36 568.61,-47.84" style=""/>
+</g>
+<!-- DelayedOrder.executeLeverageOpen&#45;&gt;IFlatcoinVault.oracleModule -->
+<g id="edge58" class="edge" data-name="DelayedOrder.executeLeverageOpen-&gt;IFlatcoinVault.oracleModule">
+
+<path fill="none" stroke="white" stroke-width="2" d="M482.4,-790.31C493,-785.92 502.69,-779.71 510.19,-771 577.96,-692.29 489.22,-391.85 546.19,-305 556.83,-288.78 573.89,-277.02 591.14,-268.65" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="592.54,-271.85 600.26,-264.6 589.7,-265.45 592.54,-271.85" style=""/>
+</g>
+<!-- DelayedOrder.executeLeverageClose -->
+<g id="node11" class="node" pointer-events="visible" data-name="DelayedOrder.executeLeverageClose">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="391.88" cy="-636" rx="98.37" ry="18" style=""/>
+<text text-anchor="middle" x="391.88" y="-631.8" font-family="Times,serif" font-size="14.00" style="">executeLeverageClose</text>
+</g>
+<!-- DelayedOrder.executeLeverageClose&#45;&gt;DelayedOrder.hasOrderExpired -->
+<g id="edge63" class="edge" data-name="DelayedOrder.executeLeverageClose-&gt;DelayedOrder.hasOrderExpired">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M461.24,-650.01C477.41,-653.8 494.5,-658.19 510.19,-663 540.16,-672.18 572.89,-684.68 599.15,-695.33" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="597.72,-698.53 608.3,-699.09 600.38,-692.06 597.72,-698.53" style=""/>
+</g>
+<!-- DelayedOrder.executeLeverageClose&#45;&gt;IFlatcoinVault.leverageModule -->
+<g id="edge65" class="edge" data-name="DelayedOrder.executeLeverageClose-&gt;IFlatcoinVault.leverageModule">
+
+<path fill="none" stroke="white" stroke-width="2" d="M483.07,-628.15C493.43,-623.76 502.87,-617.59 510.19,-609 589.28,-516.06 468.4,-155.04 546.19,-61 552,-53.97 559.39,-48.65 567.53,-44.63" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="568.72,-47.92 576.67,-40.91 566.08,-41.44 568.72,-47.92" style=""/>
+</g>
+<!-- DelayedOrder.executeLeverageClose&#45;&gt;IFlatcoinVault.oracleModule -->
+<g id="edge64" class="edge" data-name="DelayedOrder.executeLeverageClose-&gt;IFlatcoinVault.oracleModule">
+
+<path fill="none" stroke="white" stroke-width="2" d="M482.37,-627.91C492.9,-623.57 502.58,-617.48 510.19,-609 601.04,-507.73 469.27,-417.22 546.19,-305 557.31,-288.78 574.78,-276.97 592.25,-268.56" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="593.16,-271.98 600.89,-264.73 590.33,-265.58 593.16,-271.98" style=""/>
+</g>
+<!-- DelayedOrder.executeLeverageClose&#45;&gt;IFlatcoinVault.sendCollateral -->
+<g id="edge66" class="edge" data-name="DelayedOrder.executeLeverageClose-&gt;IFlatcoinVault.sendCollateral">
+
+<path fill="none" stroke="white" stroke-width="2" d="M469.6,-623.87C485.05,-619.37 499.73,-612.09 510.19,-600 574.37,-525.8 483.06,-235.09 546.19,-160 553.21,-151.64 562.46,-145.7 572.55,-141.61" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="573.41,-145.01 581.82,-138.56 571.22,-138.36 573.41,-145.01" style=""/>
+</g>
+<!-- DelayedOrder.executeLeverageClose&#45;&gt;IFlatcoinVault.sendCollateral -->
+<g id="edge67" class="edge" data-name="DelayedOrder.executeLeverageClose-&gt;IFlatcoinVault.sendCollateral">
+
+<path fill="none" stroke="white" stroke-width="2" d="M490.54,-633.39C497.93,-629.45 504.65,-624.4 510.19,-618 574.37,-543.8 483.06,-253.09 546.19,-178 555.28,-167.19 568.09,-160.41 581.63,-156" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="582.54,-159.38 591.26,-153.36 580.69,-152.62 582.54,-159.38" style=""/>
+</g>
+<!-- DelayedOrder.onERC721Received -->
+<g id="node12" class="node" pointer-events="visible" data-name="DelayedOrder.onERC721Received">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="126.79" cy="-582" rx="89.77" ry="18" style=""/>
+<text text-anchor="middle" x="126.79" y="-577.8" font-family="Times,serif" font-size="14.00" style="">onERC721Received</text>
+</g>
+<!-- DelayedOrder.stableDepositQuote&#45;&gt;IFlatcoinVault.stableModule -->
+<g id="edge68" class="edge" data-name="DelayedOrder.stableDepositQuote-&gt;IFlatcoinVault.stableModule">
+
+<path fill="none" stroke="white" stroke-width="2" d="M465.34,-571.03C482.32,-566.66 498.77,-559.2 510.19,-546 574.37,-471.8 483.06,-181.09 546.19,-106 554.06,-96.63 564.74,-90.29 576.25,-86.2" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="576.91,-89.65 585.57,-83.54 574.99,-82.92 576.91,-89.65" style=""/>
+</g>
+<!-- DelayedOrder.stableDepositQuote&#45;&gt;IFlatcoinVault.stableModule -->
+<g id="edge69" class="edge" data-name="DelayedOrder.stableDepositQuote-&gt;IFlatcoinVault.stableModule">
+
+<path fill="none" stroke="white" stroke-width="2" d="M480.04,-584.1C491.54,-579.79 502.12,-573.33 510.19,-564 574.37,-489.8 483.06,-199.09 546.19,-124 555.65,-112.75 569.14,-105.87 583.29,-101.47" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="584.08,-104.88 592.87,-98.96 582.31,-98.1 584.08,-104.88" style=""/>
+</g>
+<!-- DelayedOrder.stableWithdrawQuote&#45;&gt;IFlatcoinVault.stableModule -->
+<g id="edge70" class="edge" data-name="DelayedOrder.stableWithdrawQuote-&gt;IFlatcoinVault.stableModule">
+
+<path fill="none" stroke="white" stroke-width="2" d="M468.28,-516.13C484.18,-511.66 499.39,-504.35 510.19,-492 566.91,-427.16 490.38,-171.63 546.19,-106 554.07,-96.73 564.7,-90.43 576.15,-86.34" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="576.75,-89.81 585.39,-83.68 574.81,-83.08 576.75,-89.81" style=""/>
+</g>
+<!-- DelayedOrder.stableWithdrawQuote&#45;&gt;IFlatcoinVault.stableModule -->
+<g id="edge71" class="edge" data-name="DelayedOrder.stableWithdrawQuote-&gt;IFlatcoinVault.stableModule">
+
+<path fill="none" stroke="white" stroke-width="2" d="M488.53,-526.31C496.69,-522.26 504.13,-516.92 510.19,-510 566.91,-445.16 490.38,-189.63 546.19,-124 555.71,-112.8 569.23,-105.94 583.38,-101.54" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="584.17,-104.95 592.96,-99.04 582.4,-98.18 584.17,-104.95" style=""/>
+</g>
+<!-- DelayedOrder.leverageModifyFillPrice&#45;&gt;IFlatcoinVault.oracleModule -->
+<g id="edge72" class="edge" data-name="DelayedOrder.leverageModifyFillPrice-&gt;IFlatcoinVault.oracleModule">
+
+<path fill="none" stroke="white" stroke-width="2" d="M472.48,-893.19C486.92,-888.63 500.45,-881.47 510.19,-870 592.87,-772.55 476.87,-403.37 546.19,-296 554.71,-282.81 567.49,-272.57 581.2,-264.96" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="582.76,-268.1 590.16,-260.52 579.65,-261.83 582.76,-268.1" style=""/>
+</g>
+<!-- DelayedOrder.leverageModifyFillPrice&#45;&gt;IFlatcoinVault.oracleModule -->
+<g id="edge74" class="edge" data-name="DelayedOrder.leverageModifyFillPrice-&gt;IFlatcoinVault.oracleModule">
+
+<path fill="none" stroke="white" stroke-width="2" d="M495.21,-900.85C500.78,-897.35 505.86,-893.1 510.19,-888 592.87,-790.55 476.87,-421.37 546.19,-314 559.25,-293.77 582.34,-280.5 603.44,-271.2" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="604.54,-274.53 612.42,-267.45 601.84,-268.07 604.54,-274.53" style=""/>
+</g>
+<!-- netSize.abs -->
+<g id="node39" class="node" pointer-events="visible" data-name="netSize.abs">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="651.07" cy="-335" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="651.07" y="-330.8" font-family="Times,serif" font-size="14.00" style="">abs</text>
+</g>
+<!-- DelayedOrder.leverageModifyFillPrice&#45;&gt;netSize.abs -->
+<g id="edge73" class="edge" data-name="DelayedOrder.leverageModifyFillPrice-&gt;netSize.abs">
+
+<path fill="none" stroke="white" stroke-width="2" d="M472.39,-893.11C486.83,-888.55 500.39,-881.42 510.19,-870 581.13,-787.3 486.59,-472.22 546.19,-381 560.81,-358.62 587.68,-344.74 610.42,-337.73" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="611.16,-341.15 619.94,-335.23 609.38,-334.38 611.16,-341.15" style=""/>
+</g>
+<!-- DelayedOrder.leverageModifyFillPrice&#45;&gt;netSize.abs -->
+<g id="edge75" class="edge" data-name="DelayedOrder.leverageModifyFillPrice-&gt;netSize.abs">
+
+<path fill="none" stroke="white" stroke-width="2" d="M495.15,-900.8C500.73,-897.3 505.83,-893.08 510.19,-888 581.13,-805.3 486.59,-490.22 546.19,-399 562.08,-374.67 592.44,-360.39 616.25,-350.96" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="617.43,-354.25 625.51,-347.4 614.92,-347.72 617.43,-354.25" style=""/>
+</g>
+<!-- DelayedOrder.getKeeperFee -->
+<g id="node16" class="node" pointer-events="visible" data-name="DelayedOrder.getKeeperFee">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="126.79" cy="-528" rx="64.81" ry="18" style=""/>
+<text text-anchor="middle" x="126.79" y="-523.8" font-family="Times,serif" font-size="14.00" style="">getKeeperFee</text>
+</g>
+<!-- DelayedOrder.getKeeperFee&#45;&gt;IKeeperFee.getKeeperFee -->
+<g id="edge76" class="edge" data-name="DelayedOrder.getKeeperFee-&gt;IKeeperFee.getKeeperFee">
+
+<path fill="none" stroke="white" stroke-width="2" d="M191.24,-523.58C208,-519.63 224.93,-512.76 237.58,-501 275.55,-465.68 239.26,-428.89 273.58,-390 288.5,-373.09 309.72,-360.99 330.03,-352.52" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="331.27,-355.8 339.33,-348.93 328.74,-349.27 331.27,-355.8" style=""/>
+</g>
+<!-- DelayedOrder.setVault -->
+<g id="node18" class="node" pointer-events="visible" data-name="DelayedOrder.setVault">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="391.88" cy="-1202" rx="43.44" ry="18" style=""/>
+<text text-anchor="middle" x="391.88" y="-1197.8" font-family="Times,serif" font-size="14.00" style="">setVault</text>
+</g>
+<!-- DelayedOrder.setVault&#45;&gt;DelayedOrder.address -->
+<g id="edge77" class="edge" data-name="DelayedOrder.setVault-&gt;DelayedOrder.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M435.62,-1197.7C459.35,-1193.61 488.39,-1185.61 510.19,-1170 574.17,-1124.18 617.73,-1039.33 637.67,-993.79" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="640.78,-995.41 641.48,-984.84 634.34,-992.67 640.78,-995.41" style=""/>
+</g>
+<!-- DelayedOrder.IFlatcoinVault -->
+<g id="node32" class="node" pointer-events="visible" data-name="DelayedOrder.IFlatcoinVault">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="651.07" cy="-1202" rx="67.21" ry="18" style=""/>
+<text text-anchor="middle" x="651.07" y="-1197.8" font-family="Times,serif" font-size="14.00" style="">IFlatcoinVault</text>
+</g>
+<!-- DelayedOrder.setVault&#45;&gt;DelayedOrder.IFlatcoinVault -->
+<g id="edge78" class="edge" data-name="DelayedOrder.setVault-&gt;DelayedOrder.IFlatcoinVault">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M436.8,-1202C473.16,-1202 525.76,-1202 569.63,-1202" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="569.61,-1205.5 579.61,-1202 569.61,-1198.5 569.61,-1205.5" style=""/>
+</g>
+<!-- DelayedOrder.setMinExecutabilityAge -->
+<g id="node19" class="node" pointer-events="visible" data-name="DelayedOrder.setMinExecutabilityAge">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="126.79" cy="-474" rx="105.37" ry="18" style=""/>
+<text text-anchor="middle" x="126.79" y="-469.8" font-family="Times,serif" font-size="14.00" style="">setMinExecutabilityAge</text>
+</g>
+<!-- DelayedOrder.setMaxExecutabilityAge -->
+<g id="node20" class="node" pointer-events="visible" data-name="DelayedOrder.setMaxExecutabilityAge">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="126.79" cy="-420" rx="107.08" ry="18" style=""/>
+<text text-anchor="middle" x="126.79" y="-415.8" font-family="Times,serif" font-size="14.00" style="">setMaxExecutabilityAge</text>
+</g>
+<!-- key -->
+<g id="node40" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="191.79,-1519 61.79,-1519 61.79,-1431 191.79,-1431 191.79,-1519" style=""/>
+<text text-anchor="start" x="111.43" y="-1500.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="107.54" y="-1480.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="84.99" y="-1460.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="71.39" y="-1440.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node41" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="418.88,-1519 364.88,-1519 364.88,-1431 418.88,-1431 418.88,-1519" style=""/>
+<text text-anchor="start" x="381.88" y="-1500.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="381.88" y="-1480.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="none" points="379.88,-1455 379.88,-1475 404.88,-1475 404.88,-1455 379.88,-1455" style=""/>
+<text text-anchor="start" x="381.88" y="-1460.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="381.88,-1437 381.88,-1453 402.88,-1453 402.88,-1437 381.88,-1437" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge79" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M184.79,-1505C266.67,-1505 290.26,-1505 366.22,-1505" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="365.86,-1508.5 375.86,-1505 365.86,-1501.5 365.86,-1508.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge80" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M184.79,-1485C266.67,-1485 290.26,-1485 366.22,-1485" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="365.86,-1488.5 375.86,-1485 365.86,-1481.5 365.86,-1488.5" style=""/>
+</g>
+</g>
+</svg>

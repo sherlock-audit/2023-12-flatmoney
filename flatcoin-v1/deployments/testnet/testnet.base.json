@@ -1,0 +1,54 @@
+{
+    "admin": {
+      "address": "0x6cEc65303C5c0497Cd41809DA248749c039c27a7",
+      "txHash": "0x2eba28c00df218a267afdea44c2e403620049c73ebeecdde4637137838d10cea"
+    },
+    "proxies": [
+      {
+        "name": "FlatcoinVault",
+        "address": "0x1c46c9110c22d9e693c0eE6E3c76F7244EA99d0a",
+        "txHash": "0xfdd2535cb74a871cd83eebd36873046c2a999404b0186edd615a780a82f7d72e",
+        "kind": "transparent" 
+      },
+      {
+        "name": "StableModule",
+        "address": "0x8f5BeBd59cB85A0E1f52442E7e034a2555190F2a",
+        "txHash": "0x10ebdd811d7ebc5dba3c9b0fef9f077afc45114303d3b50e32e537a37613c670",
+        "kind": "transparent"
+      },
+      {
+        "name": "LeverageModule",
+        "address": "0x7C4B6d80713d9a7B74E2f6C6827d61cd51Db0F98",
+        "txHash": "0x1fb23bc7e74651a090f7db2f2d4243760b09d4e65e1e82332400afc30be7120a",
+        "kind": "transparent"
+      },
+      {
+        "name": "OracleModule",
+        "address": "0xA627F7FEb4aFD2112Dbbb0b3906F0A9D7f42bcf3",
+        "txHash": "0x97e491a0d6f01826fb78531112e27125e4bf2551ce8ae4e81f9dd9bbb383691e",
+        "kind": "transparent"
+      },
+      {
+        "name": "LiquidationModule",
+        "address": "0x0E0A86eF5101a341aEAd903a54c959F93E85AF77",
+        "txHash": "0xfae99155eef8e79b6da1b26de7d0ab2755ab7cf35d996c559fa4e97d5badc127",
+        "kind": "transparent"
+      },
+      {
+        "name": "DelayedOrder",
+        "address": "0x9563ea8913dc4C4d1d4521BcA0aaAC07865831cf",
+        "txHash": "0x4a91d4b7155b3ef886d88d9a0080e8e93d8e565b7f54c73adca57038f5554166",
+        "kind": "transparent"
+      }
+    ],
+    "impls": {
+      "FlatcoinVault": "0xe2A276B64424C2Df5f986D7D135B37db525155CD",
+      "StableModule": "0x89783d7CF5894d5fC3560450C07A9506B0f2095C",
+      "LeverageModule": "0x5E658727d3bc0FFe0D3e44B623d801E0c393A28B",
+      "OracleModule": "0xc7A327981E9707B7823E5BfD55F2ba1e03b5Df54",
+      "LiquidationModule": "0x1258198f9A55Ac1e3A47459904274Efe1F08D1c5",
+      "DelayedOrder": "0x411627A78eCA62cC6660b76F1A036AA0822C1cae",
+      "Viewer": "0x9a29a3F11C4319EEbD3c97F86C298Da896A6841A",
+      "KeeperFee": "0x6d45f9A01443553c2d67a942CD5CBA6C302eD918"
+    }
+}

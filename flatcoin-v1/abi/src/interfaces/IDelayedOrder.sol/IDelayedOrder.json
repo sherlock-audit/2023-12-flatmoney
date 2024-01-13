@@ -1,0 +1,251 @@
+[
+  {
+    "inputs": [],
+    "name": "MODULE_KEY",
+    "outputs": [
+      {
+        "internalType": "bytes32",
+        "name": "moduleKey",
+        "type": "bytes32"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "uint256",
+        "name": "tokenId",
+        "type": "uint256"
+      },
+      {
+        "internalType": "int256",
+        "name": "marginAdjustment",
+        "type": "int256"
+      },
+      {
+        "internalType": "int256",
+        "name": "additionalSizeAdjustment",
+        "type": "int256"
+      },
+      {
+        "internalType": "uint256",
+        "name": "fillPrice",
+        "type": "uint256"
+      },
+      {
+        "internalType": "uint256",
+        "name": "keeperFee",
+        "type": "uint256"
+      }
+    ],
+    "name": "announceLeverageAdjust",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "uint256",
+        "name": "tokenId",
+        "type": "uint256"
+      },
+      {
+        "internalType": "uint256",
+        "name": "minFillPrice",
+        "type": "uint256"
+      },
+      {
+        "internalType": "uint256",
+        "name": "keeperFee",
+        "type": "uint256"
+      }
+    ],
+    "name": "announceLeverageClose",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "uint256",
+        "name": "margin",
+        "type": "uint256"
+      },
+      {
+        "internalType": "uint256",
+        "name": "additionalSize",
+        "type": "uint256"
+      },
+      {
+        "internalType": "uint256",
+        "name": "maxFillPrice",
+        "type": "uint256"
+      },
+      {
+        "internalType": "uint256",
+        "name": "keeperFee",
+        "type": "uint256"
+      }
+    ],
+    "name": "announceLeverageOpen",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "uint256",
+        "name": "depositAmount",
+        "type": "uint256"
+      },
+      {
+        "internalType": "uint256",
+        "name": "minAmountOut",
+        "type": "uint256"
+      },
+      {
+        "internalType": "uint256",
+        "name": "keeperFee",
+        "type": "uint256"
+      }
+    ],
+    "name": "announceStableDeposit",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "uint256",
+        "name": "withdrawAmount",
+        "type": "uint256"
+      },
+      {
+        "internalType": "uint256",
+        "name": "minAmountOut",
+        "type": "uint256"
+      },
+      {
+        "internalType": "uint256",
+        "name": "keeperFee",
+        "type": "uint256"
+      }
+    ],
+    "name": "announceStableWithdraw",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "address",
+        "name": "account",
+        "type": "address"
+      }
+    ],
+    "name": "getAnnouncedOrder",
+    "outputs": [
+      {
+        "components": [
+          {
+            "internalType": "enum IDelayedOrder.OrderType",
+            "name": "orderType",
+            "type": "uint8"
+          },
+          {
+            "internalType": "uint256",
+            "name": "keeperFee",
+            "type": "uint256"
+          },
+          {
+            "internalType": "uint64",
+            "name": "executableAtTime",
+            "type": "uint64"
+          },
+          {
+            "internalType": "bytes",
+            "name": "orderData",
+            "type": "bytes"
+          }
+        ],
+        "internalType": "struct FlatcoinStructs.Order",
+        "name": "order",
+        "type": "tuple"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [],
+    "name": "keeperFeeContract",
+    "outputs": [
+      {
+        "internalType": "contract IKeeperFee",
+        "name": "keeperFeeContract",
+        "type": "address"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "contract IKeeperFee",
+        "name": "_keeperFeeContract",
+        "type": "address"
+      }
+    ],
+    "name": "setKeeperFeeContract",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "uint32",
+        "name": "_maxExecutabilityAge",
+        "type": "uint32"
+      }
+    ],
+    "name": "setMaxExecutabilityAge",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "uint32",
+        "name": "_minExecutabilityAge",
+        "type": "uint32"
+      }
+    ],
+    "name": "setMinExecutabilityAge",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "contract IFlatcoinVault",
+        "name": "_vault",
+        "type": "address"
+      }
+    ],
+    "name": "setVault",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  }
+]

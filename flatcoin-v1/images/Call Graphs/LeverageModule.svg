@@ -1,0 +1,1625 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1340pt" height="2829pt" viewBox="0.00 0.00 1340.09 2829.08">
+<g id="graph0" class="graph" transform="translate(4,2825.080078125) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-2825.08 1336.09,-2825.08 1336.09,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="clusterOrderHelpers">
+
+<path fill="#445773" stroke="#445773" d="M20,-1171.08C20,-1171.08 1288.5,-1171.08 1288.5,-1171.08 1294.5,-1171.08 1300.5,-1177.08 1300.5,-1183.08 1300.5,-1183.08 1300.5,-1922.08 1300.5,-1922.08 1300.5,-1928.08 1294.5,-1934.08 1288.5,-1934.08 1288.5,-1934.08 20,-1934.08 20,-1934.08 14,-1934.08 8,-1928.08 8,-1922.08 8,-1922.08 8,-1183.08 8,-1183.08 8,-1177.08 14,-1171.08 20,-1171.08" style=""/>
+<text text-anchor="middle" x="654.25" y="-1917.48" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">OrderHelpers</text>
+</g>
+<g id="clust2" class="cluster" data-name="clusterWETH">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M965.93,-893.08C965.93,-893.08 1126.92,-893.08 1126.92,-893.08 1132.92,-893.08 1138.92,-899.08 1138.92,-905.08 1138.92,-905.08 1138.92,-1012.08 1138.92,-1012.08 1138.92,-1018.08 1132.92,-1024.08 1126.92,-1024.08 1126.92,-1024.08 965.93,-1024.08 965.93,-1024.08 959.93,-1024.08 953.93,-1018.08 953.93,-1012.08 953.93,-1012.08 953.93,-905.08 953.93,-905.08 953.93,-899.08 959.93,-893.08 965.93,-893.08" style=""/>
+<text text-anchor="middle" x="1046.42" y="-1007.48" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">WETH</text>
+</g>
+<g id="clust3" class="cluster" data-name="clusterstableModProxy">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M943.92,-538.08C943.92,-538.08 1148.92,-538.08 1148.92,-538.08 1154.92,-538.08 1160.92,-544.08 1160.92,-550.08 1160.92,-550.08 1160.92,-873.08 1160.92,-873.08 1160.92,-879.08 1154.92,-885.08 1148.92,-885.08 1148.92,-885.08 943.92,-885.08 943.92,-885.08 937.92,-885.08 931.92,-879.08 931.92,-873.08 931.92,-873.08 931.92,-550.08 931.92,-550.08 931.92,-544.08 937.92,-538.08 943.92,-538.08" style=""/>
+<text text-anchor="middle" x="1046.42" y="-868.48" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">stableModProxy</text>
+</g>
+<g id="clust4" class="cluster" data-name="clustervaultProxy">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M1192.92,-2003.08C1192.92,-2003.08 1312.09,-2003.08 1312.09,-2003.08 1318.09,-2003.08 1324.09,-2009.08 1324.09,-2015.08 1324.09,-2015.08 1324.09,-2068.08 1324.09,-2068.08 1324.09,-2074.08 1318.09,-2080.08 1312.09,-2080.08 1312.09,-2080.08 1192.92,-2080.08 1192.92,-2080.08 1186.92,-2080.08 1180.92,-2074.08 1180.92,-2068.08 1180.92,-2068.08 1180.92,-2015.08 1180.92,-2015.08 1180.92,-2009.08 1186.92,-2003.08 1192.92,-2003.08" style=""/>
+<text text-anchor="middle" x="1252.5" y="-2063.48" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">vaultProxy</text>
+</g>
+<g id="clust5" class="cluster" data-name="clustervm">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M1000.23,-1032.08C1000.23,-1032.08 1092.61,-1032.08 1092.61,-1032.08 1098.61,-1032.08 1104.61,-1038.08 1104.61,-1044.08 1104.61,-1044.08 1104.61,-1151.08 1104.61,-1151.08 1104.61,-1157.08 1098.61,-1163.08 1092.61,-1163.08 1092.61,-1163.08 1000.23,-1163.08 1000.23,-1163.08 994.23,-1163.08 988.23,-1157.08 988.23,-1151.08 988.23,-1151.08 988.23,-1044.08 988.23,-1044.08 988.23,-1038.08 994.23,-1032.08 1000.23,-1032.08" style=""/>
+<text text-anchor="middle" x="1046.42" y="-1146.48" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">vm</text>
+</g>
+<g id="clust6" class="cluster" data-name="clusteroracleModProxy">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M991.65,-1942.08C991.65,-1942.08 1101.2,-1942.08 1101.2,-1942.08 1107.2,-1942.08 1113.2,-1948.08 1113.2,-1954.08 1113.2,-1954.08 1113.2,-2061.08 1113.2,-2061.08 1113.2,-2067.08 1107.2,-2073.08 1101.2,-2073.08 1101.2,-2073.08 991.65,-2073.08 991.65,-2073.08 985.65,-2073.08 979.65,-2067.08 979.65,-2061.08 979.65,-2061.08 979.65,-1954.08 979.65,-1954.08 979.65,-1948.08 985.65,-1942.08 991.65,-1942.08" style=""/>
+<text text-anchor="middle" x="1046.42" y="-2056.48" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">oracleModProxy</text>
+</g>
+<g id="clust7" class="cluster" data-name="clusterleverageModProxy">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M950.36,-2111.08C950.36,-2111.08 1142.49,-2111.08 1142.49,-2111.08 1148.49,-2111.08 1154.49,-2117.08 1154.49,-2123.08 1154.49,-2123.08 1154.49,-2500.08 1154.49,-2500.08 1154.49,-2506.08 1148.49,-2512.08 1142.49,-2512.08 1142.49,-2512.08 950.36,-2512.08 950.36,-2512.08 944.36,-2512.08 938.36,-2506.08 938.36,-2500.08 938.36,-2500.08 938.36,-2123.08 938.36,-2123.08 938.36,-2117.08 944.36,-2111.08 950.36,-2111.08" style=""/>
+<text text-anchor="middle" x="1046.42" y="-2495.48" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">leverageModProxy</text>
+</g>
+<g id="clust8" class="cluster" data-name="clusterdelayedOrderProxy">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M944.47,-2520.08C944.47,-2520.08 1148.37,-2520.08 1148.37,-2520.08 1154.37,-2520.08 1160.37,-2526.08 1160.37,-2532.08 1160.37,-2532.08 1160.37,-2801.08 1160.37,-2801.08 1160.37,-2807.08 1154.37,-2813.08 1148.37,-2813.08 1148.37,-2813.08 944.47,-2813.08 944.47,-2813.08 938.47,-2813.08 932.47,-2807.08 932.47,-2801.08 932.47,-2801.08 932.47,-2532.08 932.47,-2532.08 932.47,-2526.08 938.47,-2520.08 944.47,-2520.08" style=""/>
+<text text-anchor="middle" x="1046.42" y="-2796.48" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">delayedOrderProxy</text>
+</g>
+<g id="clust9" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="77.38,-2683.08 77.38,-2812.08 509.44,-2812.08 509.44,-2683.08 77.38,-2683.08" style=""/>
+<text text-anchor="middle" x="293.41" y="-2795.48" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- OrderHelpers.depositStable -->
+<g id="node1" class="node" pointer-events="visible" data-name="OrderHelpers.depositStable">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="1046.42" cy="-1783.08" rx="63.14" ry="18" style=""/>
+<text text-anchor="middle" x="1046.42" y="-1778.88" font-family="Times,serif" font-size="14.00" style="">depositStable</text>
+</g>
+<!-- OrderHelpers.address -->
+<g id="node18" class="node" pointer-events="visible" data-name="OrderHelpers.address">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1252.5" cy="-1305.08" rx="40" ry="18" style=""/>
+<text text-anchor="middle" x="1252.5" y="-1300.88" font-family="Times,serif" font-size="14.00" style="">address</text>
+</g>
+<!-- OrderHelpers.depositStable&#45;&gt;OrderHelpers.address -->
+<g id="edge2" class="edge" data-name="OrderHelpers.depositStable-&gt;OrderHelpers.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1108.75,-1778.23C1127.84,-1773.76 1147.41,-1765.64 1160.92,-1751.08 1217.35,-1690.29 1242.15,-1429.18 1249.24,-1337.26" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1252.72,-1337.74 1249.97,-1327.51 1245.74,-1337.22 1252.72,-1337.74" style=""/>
+</g>
+<!-- WETH.increaseAllowance -->
+<g id="node23" class="node" pointer-events="visible" data-name="WETH.increaseAllowance">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1046.42" cy="-973.08" rx="84.49" ry="18" style=""/>
+<text text-anchor="middle" x="1046.42" y="-968.88" font-family="Times,serif" font-size="14.00" style="">increaseAllowance</text>
+</g>
+<!-- OrderHelpers.depositStable&#45;&gt;WETH.increaseAllowance -->
+<g id="edge1" class="edge" data-name="OrderHelpers.depositStable-&gt;WETH.increaseAllowance">
+
+<path fill="none" stroke="white" stroke-width="2" d="M982.46,-1780.67C956.89,-1775.92 930.55,-1765.21 917.92,-1742.08 908.54,-1724.89 908.54,-1054.27 917.92,-1037.08 929.67,-1015.57 951.35,-1001.15 973.6,-991.53" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="974.76,-994.84 982.78,-987.91 972.19,-988.33 974.76,-994.84" style=""/>
+</g>
+<!-- stableModProxy.deposit -->
+<g id="node25" class="node" pointer-events="visible" data-name="stableModProxy.deposit">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1046.42" cy="-834.08" rx="38.86" ry="18" style=""/>
+<text text-anchor="middle" x="1046.42" y="-829.88" font-family="Times,serif" font-size="14.00" style="">deposit</text>
+</g>
+<!-- OrderHelpers.depositStable&#45;&gt;stableModProxy.deposit -->
+<g id="edge3" class="edge" data-name="OrderHelpers.depositStable-&gt;stableModProxy.deposit">
+
+<path fill="none" stroke="white" stroke-width="2" d="M982.46,-1780.67C956.89,-1775.92 930.55,-1765.21 917.92,-1742.08 906.69,-1721.51 906.69,-918.66 917.92,-898.08 933.68,-869.21 967.34,-853.1 996.26,-844.27" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="997.1,-847.67 1005.8,-841.61 995.22,-840.92 997.1,-847.67" style=""/>
+</g>
+<!-- OrderHelpers.announceDepositStable -->
+<g id="node2" class="node" pointer-events="visible" data-name="OrderHelpers.announceDepositStable">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="1046.42" cy="-1305.08" rx="102.43" ry="18" style=""/>
+<text text-anchor="middle" x="1046.42" y="-1300.88" font-family="Times,serif" font-size="14.00" style="">announceDepositStable</text>
+</g>
+<!-- OrderHelpers.announceDepositStable&#45;&gt;OrderHelpers.address -->
+<g id="edge5" class="edge" data-name="OrderHelpers.announceDepositStable-&gt;OrderHelpers.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1150.06,-1305.08C1166.95,-1305.08 1183.82,-1305.08 1198.81,-1305.08" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1198.43,-1308.58 1208.43,-1305.08 1198.43,-1301.58 1198.43,-1308.58" style=""/>
+</g>
+<!-- OrderHelpers.announceDepositStable&#45;&gt;WETH.increaseAllowance -->
+<g id="edge4" class="edge" data-name="OrderHelpers.announceDepositStable-&gt;WETH.increaseAllowance">
+
+<path fill="none" stroke="white" stroke-width="2" d="M965.37,-1293.05C945.91,-1285.81 927.88,-1274.31 917.92,-1256.08 906.26,-1234.73 906.26,-1058.44 917.92,-1037.08 929.67,-1015.57 951.35,-1001.15 973.6,-991.53" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="974.76,-994.84 982.78,-987.91 972.19,-988.33 974.76,-994.84" style=""/>
+</g>
+<!-- vaultProxy.delayedOrder -->
+<g id="node31" class="node" pointer-events="visible" data-name="vaultProxy.delayedOrder">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1252.5" cy="-2029.08" rx="63.67" ry="18" style=""/>
+<text text-anchor="middle" x="1252.5" y="-2024.88" font-family="Times,serif" font-size="14.00" style="">delayedOrder</text>
+</g>
+<!-- OrderHelpers.announceDepositStable&#45;&gt;vaultProxy.delayedOrder -->
+<g id="edge6" class="edge" data-name="OrderHelpers.announceDepositStable-&gt;vaultProxy.delayedOrder">
+
+<path fill="none" stroke="white" stroke-width="2" d="M1080.45,-1323.4C1107.48,-1340.41 1143.91,-1368.45 1160.92,-1404.08 1212.09,-1511.24 1140.36,-1826.47 1180.92,-1938.08 1189.65,-1962.12 1207.28,-1984.85 1222.73,-2001.58" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1219.95,-2003.74 1229.4,-2008.52 1224.99,-1998.89 1219.95,-2003.74" style=""/>
+</g>
+<!-- OrderHelpers.announceWithdrawStable -->
+<g id="node3" class="node" pointer-events="visible" data-name="OrderHelpers.announceWithdrawStable">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="784.02" cy="-1251.08" rx="110.58" ry="18" style=""/>
+<text text-anchor="middle" x="784.02" y="-1246.88" font-family="Times,serif" font-size="14.00" style="">announceWithdrawStable</text>
+</g>
+<!-- OrderHelpers.announceWithdrawStable&#45;&gt;OrderHelpers.address -->
+<g id="edge8" class="edge" data-name="OrderHelpers.announceWithdrawStable-&gt;OrderHelpers.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M812.17,-1232.31C874.39,-1215.3 1031.87,-1218.51 1160.92,-1242.08 1189.24,-1247.26 1221.28,-1258.02 1238.65,-1275.86" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1235.59,-1277.63 1244.45,-1283.45 1241.15,-1273.38 1235.59,-1277.63" style=""/>
+</g>
+<!-- OrderHelpers.announceWithdrawStable&#45;&gt;OrderHelpers.address -->
+<g id="edge10" class="edge" data-name="OrderHelpers.announceWithdrawStable-&gt;OrderHelpers.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M866.32,-1237.9C942.89,-1235.73 1060.51,-1241.74 1160.92,-1260.08 1183.35,-1264.18 1208.11,-1271.78 1226.07,-1280.76" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1224.26,-1283.75 1234.68,-1285.66 1227.72,-1277.67 1224.26,-1283.75" style=""/>
+</g>
+<!-- OrderHelpers.announceWithdrawStable&#45;&gt;OrderHelpers.address -->
+<g id="edge13" class="edge" data-name="OrderHelpers.announceWithdrawStable-&gt;OrderHelpers.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M895.61,-1252.7C970.92,-1255.35 1072.58,-1261.95 1160.92,-1278.08 1176.15,-1280.87 1192.46,-1285.27 1206.99,-1289.71" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1205.74,-1292.99 1216.33,-1292.68 1207.86,-1286.32 1205.74,-1292.99" style=""/>
+</g>
+<!-- OrderHelpers.announceWithdrawStable&#45;&gt;OrderHelpers.address -->
+<g id="edge17" class="edge" data-name="OrderHelpers.announceWithdrawStable-&gt;OrderHelpers.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M860.51,-1265.29C936.85,-1271.43 1057.94,-1277.27 1160.92,-1296.08 1173.5,-1298.38 1186.82,-1301.78 1199.25,-1304.89" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1198.34,-1308.27 1208.89,-1307.25 1200.01,-1301.48 1198.34,-1308.27" style=""/>
+</g>
+<!-- OrderHelpers.announceWithdrawStable&#45;&gt;OrderHelpers.address -->
+<g id="edge22" class="edge" data-name="OrderHelpers.announceWithdrawStable-&gt;OrderHelpers.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M812.63,-1269.85C875.17,-1287.32 1032.19,-1290.57 1160.92,-1314.08 1184.36,-1318.36 1210.35,-1326.47 1228.45,-1326.13" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1228.91,-1329.6 1238.11,-1324.35 1227.64,-1322.72 1228.91,-1329.6" style=""/>
+</g>
+<!-- OrderHelpers.assertEq -->
+<g id="node19" class="node" pointer-events="visible" data-name="OrderHelpers.assertEq">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1046.42" cy="-1593.08" rx="43.5" ry="18" style=""/>
+<text text-anchor="middle" x="1046.42" y="-1588.88" font-family="Times,serif" font-size="14.00" style="">assertEq</text>
+</g>
+<!-- OrderHelpers.announceWithdrawStable&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge15" class="edge" data-name="OrderHelpers.announceWithdrawStable-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M895.5,-1252.48C898.5,-1254.77 901.32,-1257.3 903.92,-1260.08 959.17,-1319.27 898.42,-1366.38 931.92,-1440.08 954.48,-1489.7 1000.55,-1535.59 1026.52,-1565" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1023.68,-1567.06 1032.83,-1572.39 1029,-1562.51 1023.68,-1567.06" style=""/>
+</g>
+<!-- OrderHelpers.announceWithdrawStable&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge18" class="edge" data-name="OrderHelpers.announceWithdrawStable-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M879.8,-1261.14C888.83,-1265.3 897.14,-1270.81 903.92,-1278.08 959.17,-1337.27 898.42,-1384.38 931.92,-1458.08 951.7,-1501.58 989.55,-1542.22 1016.08,-1567.31" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1013.69,-1569.87 1023.41,-1574.09 1018.44,-1564.73 1013.69,-1569.87" style=""/>
+</g>
+<!-- OrderHelpers.announceWithdrawStable&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge20" class="edge" data-name="OrderHelpers.announceWithdrawStable-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M842.65,-1267.61C864.73,-1271.95 888.33,-1279.37 903.92,-1296.08 959.17,-1355.27 898.42,-1402.38 931.92,-1476.08 948.99,-1513.61 979.49,-1549 1004.58,-1571.51" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1002.07,-1573.96 1011.94,-1577.8 1006.61,-1568.64 1002.07,-1573.96" style=""/>
+</g>
+<!-- WETH.balanceOf -->
+<g id="node24" class="node" pointer-events="visible" data-name="WETH.balanceOf">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1046.42" cy="-919.08" rx="50.92" ry="18" style=""/>
+<text text-anchor="middle" x="1046.42" y="-914.88" font-family="Times,serif" font-size="14.00" style="">balanceOf</text>
+</g>
+<!-- OrderHelpers.announceWithdrawStable&#45;&gt;WETH.balanceOf -->
+<g id="edge9" class="edge" data-name="OrderHelpers.announceWithdrawStable-&gt;WETH.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M866.27,-1237.9C880.58,-1233.33 894.04,-1226.26 903.92,-1215.08 986.17,-1122.05 850.15,-1030.54 931.92,-937.08 945.72,-921.32 966.9,-913.88 987.24,-911.22" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="987.38,-914.72 997.04,-910.38 986.78,-907.74 987.38,-914.72" style=""/>
+</g>
+<!-- OrderHelpers.announceWithdrawStable&#45;&gt;WETH.balanceOf -->
+<g id="edge21" class="edge" data-name="OrderHelpers.announceWithdrawStable-&gt;WETH.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M890.1,-1244.88C895.19,-1241.59 899.86,-1237.68 903.92,-1233.08 986.17,-1140.05 850.15,-1048.54 931.92,-955.08 945.22,-939.89 965.36,-932.44 985.01,-928.46" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="985.51,-931.93 994.79,-926.82 984.35,-925.03 985.51,-931.93" style=""/>
+</g>
+<!-- stableModProxy.balanceOf -->
+<g id="node26" class="node" pointer-events="visible" data-name="stableModProxy.balanceOf">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1046.42" cy="-672.08" rx="50.92" ry="18" style=""/>
+<text text-anchor="middle" x="1046.42" y="-667.88" font-family="Times,serif" font-size="14.00" style="">balanceOf</text>
+</g>
+<!-- OrderHelpers.announceWithdrawStable&#45;&gt;stableModProxy.balanceOf -->
+<g id="edge7" class="edge" data-name="OrderHelpers.announceWithdrawStable-&gt;stableModProxy.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M816.33,-1232.44C843.9,-1226.75 882.85,-1222.09 903.92,-1197.08 979.23,-1107.75 857.08,-761.8 931.92,-672.08 952.46,-647.47 990.98,-642.97 1017.4,-649.5" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1016.16,-652.77 1026.75,-652.72 1018.44,-646.16 1016.16,-652.77" style=""/>
+</g>
+<!-- OrderHelpers.announceWithdrawStable&#45;&gt;stableModProxy.balanceOf -->
+<g id="edge11" class="edge" data-name="OrderHelpers.announceWithdrawStable-&gt;stableModProxy.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M867.29,-1238.06C881.34,-1233.46 894.44,-1226.33 903.92,-1215.08 979.23,-1125.75 857.08,-779.8 931.92,-690.08 945.57,-673.73 967.16,-666.25 987.86,-663.75" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="987.83,-667.26 997.54,-663.02 987.31,-660.28 987.83,-667.26" style=""/>
+</g>
+<!-- OrderHelpers.announceWithdrawStable&#45;&gt;stableModProxy.balanceOf -->
+<g id="edge16" class="edge" data-name="OrderHelpers.announceWithdrawStable-&gt;stableModProxy.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M890.36,-1245.1C895.38,-1241.75 899.97,-1237.78 903.92,-1233.08 979.23,-1143.75 857.08,-797.8 931.92,-708.08 944.86,-692.58 964.92,-685.06 984.61,-681.12" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="985.13,-684.58 994.42,-679.49 983.98,-677.67 985.13,-684.58" style=""/>
+</g>
+<!-- OrderHelpers.announceWithdrawStable&#45;&gt;stableModProxy.balanceOf -->
+<g id="edge19" class="edge" data-name="OrderHelpers.announceWithdrawStable-&gt;stableModProxy.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M802.86,-1270.3C829.47,-1281.76 879.09,-1280.54 903.92,-1251.08 979.23,-1161.75 857.08,-815.8 931.92,-726.08 950.6,-703.7 984.14,-697.95 1009.94,-692.41" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1010.72,-695.82 1019.66,-690.13 1009.12,-689.01 1010.72,-695.82" style=""/>
+</g>
+<!-- stableModProxy.increaseAllowance -->
+<g id="node27" class="node" pointer-events="visible" data-name="stableModProxy.increaseAllowance">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1046.42" cy="-780.08" rx="84.49" ry="18" style=""/>
+<text text-anchor="middle" x="1046.42" y="-775.88" font-family="Times,serif" font-size="14.00" style="">increaseAllowance</text>
+</g>
+<!-- OrderHelpers.announceWithdrawStable&#45;&gt;stableModProxy.increaseAllowance -->
+<g id="edge12" class="edge" data-name="OrderHelpers.announceWithdrawStable-&gt;stableModProxy.increaseAllowance">
+
+<path fill="none" stroke="white" stroke-width="2" d="M881.01,-1241.33C889.7,-1237.1 897.6,-1231.49 903.92,-1224.08 964.27,-1153.49 871.94,-877.99 931.92,-807.08 937.68,-800.28 944.81,-795.01 952.68,-790.96" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="954.04,-794.19 961.86,-787.05 951.29,-787.75 954.04,-794.19" style=""/>
+</g>
+<!-- OrderHelpers.announceWithdrawStable&#45;&gt;vaultProxy.delayedOrder -->
+<g id="edge14" class="edge" data-name="OrderHelpers.announceWithdrawStable-&gt;vaultProxy.delayedOrder">
+
+<path fill="none" stroke="white" stroke-width="2" d="M881.25,-1260.64C889.9,-1264.9 897.72,-1270.58 903.92,-1278.08 960.56,-1346.52 868.02,-2015.38 931.92,-2077.08 968.53,-2112.43 1111.53,-2089.36 1160.92,-2077.08 1179.96,-2072.35 1199.4,-2062.79 1215.37,-2053.44" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1217.03,-2056.53 1223.74,-2048.32 1213.38,-2050.55 1217.03,-2056.53" style=""/>
+</g>
+<!-- OrderHelpers.executeDepositStable -->
+<g id="node4" class="node" pointer-events="visible" data-name="OrderHelpers.executeDepositStable">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="784.02" cy="-1197.08" rx="94.9" ry="18" style=""/>
+<text text-anchor="middle" x="784.02" y="-1192.88" font-family="Times,serif" font-size="14.00" style="">executeDepositStable</text>
+</g>
+<!-- vm.prank -->
+<g id="node32" class="node" pointer-events="visible" data-name="vm.prank">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1046.42" cy="-1112.08" rx="33.05" ry="18" style=""/>
+<text text-anchor="middle" x="1046.42" y="-1107.88" font-family="Times,serif" font-size="14.00" style="">prank</text>
+</g>
+<!-- OrderHelpers.executeDepositStable&#45;&gt;vm.prank -->
+<g id="edge23" class="edge" data-name="OrderHelpers.executeDepositStable-&gt;vm.prank">
+
+<path fill="none" stroke="white" stroke-width="2" d="M845.23,-1182.08C864.13,-1177.05 884.99,-1171.16 903.92,-1165.08 939.06,-1153.8 978.31,-1138.91 1006.54,-1127.79" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1007.49,-1131.18 1015.49,-1124.24 1004.9,-1124.68 1007.49,-1131.18" style=""/>
+</g>
+<!-- vm.startPrank -->
+<g id="node33" class="node" pointer-events="visible" data-name="vm.startPrank">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1046.42" cy="-1058.08" rx="50.39" ry="18" style=""/>
+<text text-anchor="middle" x="1046.42" y="-1053.88" font-family="Times,serif" font-size="14.00" style="">startPrank</text>
+</g>
+<!-- OrderHelpers.executeDepositStable&#45;&gt;vm.startPrank -->
+<g id="edge24" class="edge" data-name="OrderHelpers.executeDepositStable-&gt;vm.startPrank">
+
+<path fill="none" stroke="white" stroke-width="2" d="M865.67,-1186.77C879.69,-1181.97 893.19,-1175.05 903.92,-1165.08 931.53,-1139.45 903.95,-1110.31 931.92,-1085.08 945.73,-1072.63 964.22,-1065.64 982.27,-1061.79" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="982.72,-1065.27 991.96,-1060.08 981.5,-1058.37 982.72,-1065.27" style=""/>
+</g>
+<!-- OrderHelpers.executeWithdrawStable -->
+<g id="node5" class="node" pointer-events="visible" data-name="OrderHelpers.executeWithdrawStable">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="474.44" cy="-1305.08" rx="103.05" ry="18" style=""/>
+<text text-anchor="middle" x="474.44" y="-1300.88" font-family="Times,serif" font-size="14.00" style="">executeWithdrawStable</text>
+</g>
+<!-- OrderHelpers.executeWithdrawStable&#45;&gt;vm.prank -->
+<g id="edge25" class="edge" data-name="OrderHelpers.executeWithdrawStable-&gt;vm.prank">
+
+<path fill="none" stroke="white" stroke-width="2" d="M577.92,-1302.44C596.23,-1297.88 613.95,-1290.31 628.12,-1278.08 666.42,-1245.02 625.42,-1202.68 664.12,-1170.08 760.94,-1088.53 922.72,-1095.8 1000.71,-1105.18" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1000,-1108.62 1010.37,-1106.42 1000.9,-1101.67 1000,-1108.62" style=""/>
+</g>
+<!-- OrderHelpers.executeWithdrawStable&#45;&gt;vm.startPrank -->
+<g id="edge26" class="edge" data-name="OrderHelpers.executeWithdrawStable-&gt;vm.startPrank">
+
+<path fill="none" stroke="white" stroke-width="2" d="M578.42,-1304.03C596.91,-1299.39 614.57,-1291.37 628.12,-1278.08 687.29,-1220.04 602.72,-1150.77 664.12,-1095.08 753.67,-1013.86 908.3,-1029.33 990.43,-1045.13" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="989.51,-1048.51 1000,-1047.05 990.89,-1041.65 989.51,-1048.51" style=""/>
+</g>
+<!-- OrderHelpers.depositStableOpenLeverage -->
+<g id="node6" class="node" pointer-events="visible" data-name="OrderHelpers.depositStableOpenLeverage">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="784.02" cy="-1863.08" rx="119.81" ry="18" style=""/>
+<text text-anchor="middle" x="784.02" y="-1858.88" font-family="Times,serif" font-size="14.00" style="">depositStableOpenLeverage</text>
+</g>
+<!-- OrderHelpers.depositStableOpenLeverage&#45;&gt;OrderHelpers.depositStable -->
+<g id="edge27" class="edge" data-name="OrderHelpers.depositStableOpenLeverage-&gt;OrderHelpers.depositStable">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M849.1,-1846.64C866.92,-1841.86 886.23,-1836.46 903.92,-1831.08 933.39,-1822.13 965.95,-1811.16 992.4,-1801.97" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="993.33,-1805.35 1001.61,-1798.75 991.02,-1798.74 993.33,-1805.35" style=""/>
+</g>
+<!-- OrderHelpers.depositStableOpenLeverage&#45;&gt;OrderHelpers.address -->
+<g id="edge29" class="edge" data-name="OrderHelpers.depositStableOpenLeverage-&gt;OrderHelpers.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M869.14,-1876.89C954.32,-1885.7 1084.14,-1884.04 1160.92,-1810.08 1229.31,-1744.2 1246.62,-1437.74 1250.49,-1337.16" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1253.98,-1337.52 1250.84,-1327.4 1246.98,-1337.27 1253.98,-1337.52" style=""/>
+</g>
+<!-- OrderHelpers.depositStableOpenLeverage&#45;&gt;WETH.increaseAllowance -->
+<g id="edge28" class="edge" data-name="OrderHelpers.depositStableOpenLeverage-&gt;WETH.increaseAllowance">
+
+<path fill="none" stroke="white" stroke-width="2" d="M860.59,-1848.07C877.45,-1841.12 893.42,-1830.95 903.92,-1816.08 954.47,-1744.52 884.09,-1101.48 931.92,-1028.08 942.32,-1012.13 958.74,-1000.68 975.9,-992.5" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="977.26,-995.72 985.05,-988.54 974.49,-989.29 977.26,-995.72" style=""/>
+</g>
+<!-- oracleModProxy.getBuyPrice -->
+<g id="node34" class="node" pointer-events="visible" data-name="oracleModProxy.getBuyPrice">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1046.42" cy="-2022.08" rx="58.55" ry="18" style=""/>
+<text text-anchor="middle" x="1046.42" y="-2017.88" font-family="Times,serif" font-size="14.00" style="">getBuyPrice</text>
+</g>
+<!-- OrderHelpers.depositStableOpenLeverage&#45;&gt;oracleModProxy.getBuyPrice -->
+<g id="edge30" class="edge" data-name="OrderHelpers.depositStableOpenLeverage-&gt;oracleModProxy.getBuyPrice">
+
+<path fill="none" stroke="white" stroke-width="2" d="M847.84,-1879.55C867.97,-1887.48 888.91,-1898.89 903.92,-1915.08 929.54,-1942.71 903.95,-1969.85 931.92,-1995.08 943.79,-2005.79 959.13,-2012.46 974.66,-2016.56" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="973.63,-2019.92 984.15,-2018.68 975.15,-2013.09 973.63,-2019.92" style=""/>
+</g>
+<!-- leverageModProxy.openPosition -->
+<g id="node36" class="node" pointer-events="visible" data-name="leverageModProxy.openPosition">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1046.42" cy="-2299.08" rx="61.44" ry="18" style=""/>
+<text text-anchor="middle" x="1046.42" y="-2294.88" font-family="Times,serif" font-size="14.00" style="">openPosition</text>
+</g>
+<!-- OrderHelpers.depositStableOpenLeverage&#45;&gt;leverageModProxy.openPosition -->
+<g id="edge31" class="edge" data-name="OrderHelpers.depositStableOpenLeverage-&gt;leverageModProxy.openPosition">
+
+<path fill="none" stroke="white" stroke-width="2" d="M854.1,-1878.97C873.17,-1886.73 891.91,-1898.19 903.92,-1915.08 950.06,-1979.92 880.19,-2211.62 931.92,-2272.08 942.01,-2283.87 956.21,-2291.02 971.17,-2295.25" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="970.35,-2298.65 980.88,-2297.48 971.92,-2291.83 970.35,-2298.65" style=""/>
+</g>
+<!-- OrderHelpers.closeLeverage -->
+<g id="node7" class="node" pointer-events="visible" data-name="OrderHelpers.closeLeverage">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="784.02" cy="-1507.08" rx="66.59" ry="18" style=""/>
+<text text-anchor="middle" x="784.02" y="-1502.88" font-family="Times,serif" font-size="14.00" style="">closeLeverage</text>
+</g>
+<!-- OrderHelpers.closeLeverage&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge38" class="edge" data-name="OrderHelpers.closeLeverage-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M847.39,-1513.98C865.72,-1518.49 885.73,-1524.18 903.92,-1530.08 940.74,-1542.03 982.01,-1558.09 1010.43,-1571.3" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1008.89,-1574.45 1019.42,-1575.64 1011.94,-1568.14 1008.89,-1574.45" style=""/>
+</g>
+<!-- OrderHelpers.closeLeverage&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge40" class="edge" data-name="OrderHelpers.closeLeverage-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M820.94,-1523.4C844.67,-1530.7 876.37,-1539.14 903.92,-1548.08 934.15,-1557.89 967.38,-1570.47 994.03,-1580.08" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="992.71,-1583.33 1003.31,-1583.38 995.06,-1576.73 992.71,-1583.33" style=""/>
+</g>
+<!-- OrderHelpers.assertGt -->
+<g id="node20" class="node" pointer-events="visible" data-name="OrderHelpers.assertGt">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1046.42" cy="-1709.08" rx="42.86" ry="18" style=""/>
+<text text-anchor="middle" x="1046.42" y="-1704.88" font-family="Times,serif" font-size="14.00" style="">assertGt</text>
+</g>
+<!-- OrderHelpers.closeLeverage&#45;&gt;OrderHelpers.assertGt -->
+<g id="edge39" class="edge" data-name="OrderHelpers.closeLeverage-&gt;OrderHelpers.assertGt">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M811.19,-1524.91C835.73,-1541.93 873.15,-1568.68 903.92,-1594.08 917.02,-1604.89 919.01,-1609.06 931.92,-1620.08 958.56,-1642.82 989.96,-1667.28 1012.98,-1684.79" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1010.73,-1687.48 1020.82,-1690.72 1014.96,-1681.9 1010.73,-1687.48" style=""/>
+</g>
+<!-- OrderHelpers.closeLeverage&#45;&gt;WETH.balanceOf -->
+<g id="edge34" class="edge" data-name="OrderHelpers.closeLeverage-&gt;WETH.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M819.35,-1490.58C847.29,-1479.19 885.07,-1461.35 903.92,-1431.08 962.06,-1337.76 861.35,-1021.4 931.92,-937.08 945.48,-920.89 966.82,-913.41 987.36,-910.84" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="987.59,-914.33 997.28,-910.06 987.04,-907.35 987.59,-914.33" style=""/>
+</g>
+<!-- OrderHelpers.closeLeverage&#45;&gt;WETH.balanceOf -->
+<g id="edge36" class="edge" data-name="OrderHelpers.closeLeverage-&gt;WETH.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M841.93,-1497.09C865.16,-1487.39 889.83,-1471.71 903.92,-1449.08 962.06,-1355.76 861.35,-1039.4 931.92,-955.08 944.88,-939.6 964.95,-932.08 984.64,-928.14" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="985.16,-931.6 994.45,-926.52 984.01,-924.7 985.16,-931.6" style=""/>
+</g>
+<!-- stableModProxy.stableCollateralPerShare -->
+<g id="node28" class="node" pointer-events="visible" data-name="stableModProxy.stableCollateralPerShare">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1046.42" cy="-726.08" rx="106.5" ry="18" style=""/>
+<text text-anchor="middle" x="1046.42" y="-721.88" font-family="Times,serif" font-size="14.00" style="">stableCollateralPerShare</text>
+</g>
+<!-- OrderHelpers.closeLeverage&#45;&gt;stableModProxy.stableCollateralPerShare -->
+<g id="edge32" class="edge" data-name="OrderHelpers.closeLeverage-&gt;stableModProxy.stableCollateralPerShare">
+
+<path fill="none" stroke="white" stroke-width="2" d="M819.75,-1490.54C847.74,-1479.19 885.37,-1461.4 903.92,-1431.08 943.8,-1365.92 883.35,-803.05 931.92,-744.08 932.86,-742.95 933.83,-741.86 934.84,-740.81" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="937.06,-743.51 942.46,-734.39 932.55,-738.16 937.06,-743.51" style=""/>
+</g>
+<!-- OrderHelpers.closeLeverage&#45;&gt;stableModProxy.stableCollateralPerShare -->
+<g id="edge37" class="edge" data-name="OrderHelpers.closeLeverage-&gt;stableModProxy.stableCollateralPerShare">
+
+<path fill="none" stroke="white" stroke-width="2" d="M842.41,-1497.07C865.58,-1487.37 890.07,-1471.72 903.92,-1449.08 943.8,-1383.92 883.35,-821.05 931.92,-762.08 938.4,-754.22 946.71,-748.41 955.88,-744.07" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="957.06,-747.37 965.07,-740.44 954.48,-740.86 957.06,-747.37" style=""/>
+</g>
+<!-- leverageModProxy.marginAfterSettlement -->
+<g id="node37" class="node" pointer-events="visible" data-name="leverageModProxy.marginAfterSettlement">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1046.42" cy="-2353.08" rx="100.13" ry="18" style=""/>
+<text text-anchor="middle" x="1046.42" y="-2348.88" font-family="Times,serif" font-size="14.00" style="">marginAfterSettlement</text>
+</g>
+<!-- OrderHelpers.closeLeverage&#45;&gt;leverageModProxy.marginAfterSettlement -->
+<g id="edge33" class="edge" data-name="OrderHelpers.closeLeverage-&gt;leverageModProxy.marginAfterSettlement">
+
+<path fill="none" stroke="white" stroke-width="2" d="M822.3,-1523.2C850.18,-1537.45 886.39,-1561.11 903.92,-1594.08 942.13,-1665.95 880.26,-2263.19 931.92,-2326.08 935.72,-2330.7 940.14,-2334.61 945,-2337.91" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="943.18,-2340.91 953.62,-2342.75 946.61,-2334.8 943.18,-2340.91" style=""/>
+</g>
+<!-- leverageModProxy.closePosition -->
+<g id="node38" class="node" pointer-events="visible" data-name="leverageModProxy.closePosition">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1046.42" cy="-2137.08" rx="62.58" ry="18" style=""/>
+<text text-anchor="middle" x="1046.42" y="-2132.88" font-family="Times,serif" font-size="14.00" style="">closePosition</text>
+</g>
+<!-- OrderHelpers.closeLeverage&#45;&gt;leverageModProxy.closePosition -->
+<g id="edge35" class="edge" data-name="OrderHelpers.closeLeverage-&gt;leverageModProxy.closePosition">
+
+<path fill="none" stroke="white" stroke-width="2" d="M821.87,-1523.14C849.7,-1537.41 886.06,-1561.14 903.92,-1594.08 958.14,-1694.05 860.83,-2016.32 931.92,-2105.08 941.87,-2117.5 956.24,-2125.33 971.43,-2130.21" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="970.23,-2133.51 980.8,-2132.73 972.05,-2126.75 970.23,-2133.51" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteDeposit -->
+<g id="node8" class="node" pointer-events="visible" data-name="OrderHelpers.announceAndExecuteDeposit">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="474.44" cy="-1197.08" rx="125.61" ry="18" style=""/>
+<text text-anchor="middle" x="474.44" y="-1192.88" font-family="Times,serif" font-size="14.00" style="">announceAndExecuteDeposit</text>
+</g>
+<!-- OrderHelpers.announceAndExecuteDeposit&#45;&gt;OrderHelpers.executeDepositStable -->
+<g id="edge51" class="edge" data-name="OrderHelpers.announceAndExecuteDeposit-&gt;OrderHelpers.executeDepositStable">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M601.43,-1197.08C625.79,-1197.08 651.11,-1197.08 674.83,-1197.08" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="674.81,-1200.58 684.81,-1197.08 674.81,-1193.58 674.81,-1200.58" style=""/>
+</g>
+<!-- OrderHelpers.announceDeposit -->
+<g id="node10" class="node" pointer-events="visible" data-name="OrderHelpers.announceDeposit">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="784.02" cy="-1305.08" rx="78.16" ry="18" style=""/>
+<text text-anchor="middle" x="784.02" y="-1300.88" font-family="Times,serif" font-size="14.00" style="">announceDeposit</text>
+</g>
+<!-- OrderHelpers.announceAndExecuteDeposit&#45;&gt;OrderHelpers.announceDeposit -->
+<g id="edge47" class="edge" data-name="OrderHelpers.announceAndExecuteDeposit-&gt;OrderHelpers.announceDeposit">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M587.08,-1205.9C601.61,-1210.12 615.72,-1215.98 628.12,-1224.08 652.26,-1239.86 640.36,-1261.72 664.12,-1278.08 674.38,-1285.15 686.21,-1290.4 698.35,-1294.28" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="697.05,-1297.55 707.63,-1296.91 698.96,-1290.82 697.05,-1297.55" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteDeposit&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge52" class="edge" data-name="OrderHelpers.announceAndExecuteDeposit-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M494.17,-1177.92C526.64,-1162.99 593.23,-1160.06 628.12,-1197.08 723.24,-1298.03 563.47,-1411.65 664.12,-1507.08 683.49,-1525.45 877.67,-1517.25 903.92,-1522.08 948.18,-1530.23 998.01,-1547.78 1025.14,-1566.7" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1022.63,-1569.17 1032.63,-1572.68 1027,-1563.7 1022.63,-1569.17" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteDeposit&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge54" class="edge" data-name="OrderHelpers.announceAndExecuteDeposit-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M601.25,-1196.1C611.27,-1200.75 620.46,-1206.95 628.12,-1215.08 723.24,-1316.03 563.47,-1429.65 664.12,-1525.08 683.49,-1543.45 877.67,-1535.25 903.92,-1540.08 940.62,-1546.84 981.15,-1560.06 1009.4,-1571.89" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1007.74,-1574.99 1018.31,-1575.81 1010.56,-1568.58 1007.74,-1574.99" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteDeposit&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge57" class="edge" data-name="OrderHelpers.announceAndExecuteDeposit-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M582.77,-1207.1C599.88,-1212.1 615.93,-1220.15 628.12,-1233.08 723.24,-1334.03 563.47,-1447.65 664.12,-1543.08 683.49,-1561.45 877.67,-1553.25 903.92,-1558.08 933.93,-1563.6 966.5,-1573.45 992.82,-1581.54" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="991.72,-1584.86 1002.31,-1584.45 993.78,-1578.17 991.72,-1584.86" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteDeposit&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge59" class="edge" data-name="OrderHelpers.announceAndExecuteDeposit-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M528.08,-1214.71C561.49,-1218.48 603.01,-1224.44 628.12,-1251.08 723.24,-1352.03 563.47,-1465.65 664.12,-1561.08 683.49,-1579.45 877.67,-1571.25 903.92,-1576.08 933.82,-1581.58 966.27,-1591.38 992.54,-1597.68" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="991.42,-1601.02 1001.94,-1599.8 992.95,-1594.19 991.42,-1601.02" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteDeposit&#45;&gt;OrderHelpers.assertGt -->
+<g id="edge61" class="edge" data-name="OrderHelpers.announceAndExecuteDeposit-&gt;OrderHelpers.assertGt">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M596.52,-1202.44C608.46,-1207.4 619.37,-1214.39 628.12,-1224.08 702.44,-1306.47 582.88,-1646.51 664.12,-1722.08 710.5,-1765.24 900.48,-1736.64 993.55,-1719.42" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="994.13,-1722.88 1003.31,-1717.59 992.83,-1716 994.13,-1722.88" style=""/>
+</g>
+<!-- OrderHelpers.skip -->
+<g id="node21" class="node" pointer-events="visible" data-name="OrderHelpers.skip">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="784.02" cy="-1621.08" rx="27.27" ry="18" style=""/>
+<text text-anchor="middle" x="784.02" y="-1616.88" font-family="Times,serif" font-size="14.00" style="">skip</text>
+</g>
+<!-- OrderHelpers.announceAndExecuteDeposit&#45;&gt;OrderHelpers.skip -->
+<g id="edge48" class="edge" data-name="OrderHelpers.announceAndExecuteDeposit-&gt;OrderHelpers.skip">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M595.79,-1202.62C607.94,-1207.53 619.1,-1214.46 628.12,-1224.08 677.81,-1277.1 625.01,-1487.84 664.12,-1549.08 682.93,-1578.54 718.51,-1597.71 745.86,-1608.81" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="744.35,-1611.97 754.94,-1612.26 746.84,-1605.43 744.35,-1611.97" style=""/>
+</g>
+<!-- OrderHelpers.getPriceUpdateData -->
+<g id="node22" class="node" pointer-events="visible" data-name="OrderHelpers.getPriceUpdateData">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1046.42" cy="-1431.08" rx="88.58" ry="18" style=""/>
+<text text-anchor="middle" x="1046.42" y="-1426.88" font-family="Times,serif" font-size="14.00" style="">getPriceUpdateData</text>
+</g>
+<!-- OrderHelpers.announceAndExecuteDeposit&#45;&gt;OrderHelpers.getPriceUpdateData -->
+<g id="edge50" class="edge" data-name="OrderHelpers.announceAndExecuteDeposit-&gt;OrderHelpers.getPriceUpdateData">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M595.27,-1203.11C607.52,-1207.94 618.84,-1214.71 628.12,-1224.08 696.6,-1293.24 589.86,-1377.18 664.12,-1440.08 707.62,-1476.94 865.13,-1460.14 963.58,-1445.19" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="963.84,-1448.69 973.18,-1443.7 962.77,-1441.78 963.84,-1448.69" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteDeposit&#45;&gt;WETH.balanceOf -->
+<g id="edge45" class="edge" data-name="OrderHelpers.announceAndExecuteDeposit-&gt;WETH.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M475.21,-1177.64C475.2,-1096.76 486.19,-787.29 664.12,-662.08 751.28,-600.75 823.9,-591.68 903.92,-662.08 977.27,-726.61 867.51,-806.65 931.92,-880.08 945.66,-895.74 966.52,-903.68 986.62,-908.14" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="985.85,-911.55 996.33,-909.99 987.17,-904.68 985.85,-911.55" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteDeposit&#45;&gt;WETH.balanceOf -->
+<g id="edge58" class="edge" data-name="OrderHelpers.announceAndExecuteDeposit-&gt;WETH.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M475.24,-1177.79C475.88,-1099.01 490.76,-802.07 664.12,-680.08 751.28,-618.75 823.9,-609.68 903.92,-680.08 977.27,-744.61 867.51,-824.65 931.92,-898.08 945.32,-913.35 965.49,-921.28 985.13,-924.74" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="984.51,-928.19 994.88,-926.01 985.41,-921.25 984.51,-928.19" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteDeposit&#45;&gt;stableModProxy.balanceOf -->
+<g id="edge44" class="edge" data-name="OrderHelpers.announceAndExecuteDeposit-&gt;stableModProxy.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M477.74,-1177.88C490.84,-1079.46 559,-635.37 664.12,-557.08 749.6,-493.42 816.88,-495.58 903.92,-557.08 934.35,-578.58 904.21,-611.19 931.92,-636.08 947,-649.63 967.64,-656.71 987.18,-660.85" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="986.35,-664.25 996.82,-662.63 987.62,-657.37 986.35,-664.25" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteDeposit&#45;&gt;stableModProxy.balanceOf -->
+<g id="edge55" class="edge" data-name="OrderHelpers.announceAndExecuteDeposit-&gt;stableModProxy.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M478.53,-1177.84C493.38,-1081.12 560.95,-651.92 664.12,-575.08 749.6,-511.42 816.88,-513.58 903.92,-575.08 934.35,-596.58 904.21,-629.19 931.92,-654.08 946.37,-667.06 965.92,-674.1 984.71,-677.37" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="984.16,-680.82 994.54,-678.65 985.07,-673.88 984.16,-680.82" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteDeposit&#45;&gt;stableModProxy.stableCollateralPerShare -->
+<g id="edge46" class="edge" data-name="OrderHelpers.announceAndExecuteDeposit-&gt;stableModProxy.stableCollateralPerShare">
+
+<path fill="none" stroke="white" stroke-width="2" d="M478.21,-1177.69C493.09,-1083.66 566.45,-679.02 664.12,-608.08 750.35,-545.45 817.23,-546.08 903.92,-608.08 935.25,-630.49 903.42,-664.18 931.92,-690.08 940.46,-697.84 950.8,-703.48 961.74,-707.66" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="960.31,-710.87 970.9,-710.7 962.52,-704.23 960.31,-710.87" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteDeposit&#45;&gt;stableModProxy.stableCollateralPerShare -->
+<g id="edge53" class="edge" data-name="OrderHelpers.announceAndExecuteDeposit-&gt;stableModProxy.stableCollateralPerShare">
+
+<path fill="none" stroke="white" stroke-width="2" d="M479.16,-1177.79C495.99,-1085.82 568.37,-695.62 664.12,-626.08 750.35,-563.45 817.23,-564.08 903.92,-626.08 935.25,-648.49 903.42,-682.18 931.92,-708.08 933.33,-709.36 934.78,-710.58 936.28,-711.74" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="933.95,-714.4 944.22,-716.98 937.8,-708.55 933.95,-714.4" style=""/>
+</g>
+<!-- stableModProxy.totalSupply -->
+<g id="node29" class="node" pointer-events="visible" data-name="stableModProxy.totalSupply">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1046.42" cy="-564.08" rx="55.64" ry="18" style=""/>
+<text text-anchor="middle" x="1046.42" y="-559.88" font-family="Times,serif" font-size="14.00" style="">totalSupply</text>
+</g>
+<!-- OrderHelpers.announceAndExecuteDeposit&#45;&gt;stableModProxy.totalSupply -->
+<g id="edge43" class="edge" data-name="OrderHelpers.announceAndExecuteDeposit-&gt;stableModProxy.totalSupply">
+
+<path fill="none" stroke="white" stroke-width="2" d="M477.05,-1177.73C487.03,-1069.91 544.03,-547.21 664.12,-454.08 748.34,-388.77 802.42,-421.57 903.92,-454.08 952.56,-469.66 998.73,-508.78 1024.43,-536.1" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1021.63,-538.22 1030.92,-543.32 1026.84,-533.54 1021.63,-538.22" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteDeposit&#45;&gt;stableModProxy.totalSupply -->
+<g id="edge60" class="edge" data-name="OrderHelpers.announceAndExecuteDeposit-&gt;stableModProxy.totalSupply">
+
+<path fill="none" stroke="white" stroke-width="2" d="M477.54,-1177.91C488.78,-1072.17 545.85,-563.8 664.12,-472.08 748.34,-406.77 802.42,-439.57 903.92,-472.08 945.54,-485.41 985.34,-515.97 1012.07,-538.38" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1009.8,-541.04 1019.69,-544.85 1014.34,-535.71 1009.8,-541.04" style=""/>
+</g>
+<!-- stableModProxy.decimals -->
+<g id="node30" class="node" pointer-events="visible" data-name="stableModProxy.decimals">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1046.42" cy="-618.08" rx="45.22" ry="18" style=""/>
+<text text-anchor="middle" x="1046.42" y="-613.88" font-family="Times,serif" font-size="14.00" style="">decimals</text>
+</g>
+<!-- OrderHelpers.announceAndExecuteDeposit&#45;&gt;stableModProxy.decimals -->
+<g id="edge56" class="edge" data-name="OrderHelpers.announceAndExecuteDeposit-&gt;stableModProxy.decimals">
+
+<path fill="none" stroke="white" stroke-width="2" d="M477.68,-1177.77C489.94,-1075.65 552.54,-599.98 664.12,-515.08 748.94,-450.54 816.5,-454.12 903.92,-515.08 933.45,-535.67 905,-567.19 931.92,-591.08 947.09,-604.54 967.74,-611.6 987.27,-615.21" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="986.48,-618.63 996.89,-616.66 987.52,-611.7 986.48,-618.63" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteDeposit&#45;&gt;vm.startPrank -->
+<g id="edge41" class="edge" data-name="OrderHelpers.announceAndExecuteDeposit-&gt;vm.startPrank">
+
+<path fill="none" stroke="white" stroke-width="2" d="M476.07,-1177.66C479.67,-1103.06 503.73,-833.7 664.12,-725.08 752.37,-665.32 825.17,-653.27 903.92,-725.08 953.89,-770.65 888.25,-976.46 931.92,-1028.08 944.45,-1042.88 963.33,-1050.82 982.12,-1054.96" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="981.27,-1058.37 991.73,-1056.68 982.5,-1051.48 981.27,-1058.37" style=""/>
+</g>
+<!-- delayedOrderProxy.keeperFeeContract -->
+<g id="node43" class="node" pointer-events="visible" data-name="delayedOrderProxy.keeperFeeContract">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1046.42" cy="-2708.08" rx="83.93" ry="18" style=""/>
+<text text-anchor="middle" x="1046.42" y="-2703.88" font-family="Times,serif" font-size="14.00" style="">keeperFeeContract</text>
+</g>
+<!-- OrderHelpers.announceAndExecuteDeposit&#45;&gt;delayedOrderProxy.keeperFeeContract -->
+<g id="edge42" class="edge" data-name="OrderHelpers.announceAndExecuteDeposit-&gt;delayedOrderProxy.keeperFeeContract">
+
+<path fill="none" stroke="white" stroke-width="2" d="M596.69,-1202.28C608.6,-1207.27 619.46,-1214.31 628.12,-1224.08 726.39,-1335.03 578.83,-1768.86 664.12,-1890.08 730.66,-1984.67 838.02,-1896.05 903.92,-1991.08 947.65,-2054.13 883.15,-2621.85 931.92,-2681.08 937.7,-2688.1 944.94,-2693.48 952.95,-2697.59" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="951.35,-2700.72 961.92,-2701.41 954.09,-2694.28 951.35,-2700.72" style=""/>
+</g>
+<!-- delayedOrderProxy.minExecutabilityAge -->
+<g id="node44" class="node" pointer-events="visible" data-name="delayedOrderProxy.minExecutabilityAge">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1046.42" cy="-2762.08" rx="93.77" ry="18" style=""/>
+<text text-anchor="middle" x="1046.42" y="-2757.88" font-family="Times,serif" font-size="14.00" style="">minExecutabilityAge</text>
+</g>
+<!-- OrderHelpers.announceAndExecuteDeposit&#45;&gt;delayedOrderProxy.minExecutabilityAge -->
+<g id="edge49" class="edge" data-name="OrderHelpers.announceAndExecuteDeposit-&gt;delayedOrderProxy.minExecutabilityAge">
+
+<path fill="none" stroke="white" stroke-width="2" d="M596.74,-1202.24C608.64,-1207.24 619.48,-1214.29 628.12,-1224.08 681.82,-1285 632.56,-1879.25 664.12,-1954.08 724.95,-2098.33 842.79,-2067.96 903.92,-2212.08 926.65,-2265.66 894.64,-2690.4 931.92,-2735.08 936.47,-2740.53 941.89,-2744.99 947.86,-2748.63" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="945.94,-2751.58 956.45,-2752.97 949.1,-2745.33 945.94,-2751.58" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteWithdraw -->
+<g id="node9" class="node" pointer-events="visible" data-name="OrderHelpers.announceAndExecuteWithdraw">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="150.38" cy="-1197.08" rx="134.26" ry="18" style=""/>
+<text text-anchor="middle" x="150.38" y="-1192.88" font-family="Times,serif" font-size="14.00" style="">announceAndExecuteWithdraw</text>
+</g>
+<!-- OrderHelpers.announceAndExecuteWithdraw&#45;&gt;OrderHelpers.executeWithdrawStable -->
+<g id="edge72" class="edge" data-name="OrderHelpers.announceAndExecuteWithdraw-&gt;OrderHelpers.executeWithdrawStable">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M183.71,-1215.82C217.02,-1234.32 270.95,-1262.1 320.76,-1278.08 338.15,-1283.66 357.04,-1288.18 375.42,-1291.81" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="374.59,-1295.22 385.07,-1293.62 375.89,-1288.34 374.59,-1295.22" style=""/>
+</g>
+<!-- OrderHelpers.announceWithdraw -->
+<g id="node11" class="node" pointer-events="visible" data-name="OrderHelpers.announceWithdraw">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="474.44" cy="-1251.08" rx="86.8" ry="18" style=""/>
+<text text-anchor="middle" x="474.44" y="-1246.88" font-family="Times,serif" font-size="14.00" style="">announceWithdraw</text>
+</g>
+<!-- OrderHelpers.announceAndExecuteWithdraw&#45;&gt;OrderHelpers.announceWithdraw -->
+<g id="edge68" class="edge" data-name="OrderHelpers.announceAndExecuteWithdraw-&gt;OrderHelpers.announceWithdraw">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M238.96,-1211.77C286.37,-1219.72 344.61,-1229.48 391.18,-1237.29" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="390.56,-1240.74 401,-1238.94 391.71,-1233.83 390.56,-1240.74" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteWithdraw&#45;&gt;OrderHelpers.address -->
+<g id="edge82" class="edge" data-name="OrderHelpers.announceAndExecuteWithdraw-&gt;OrderHelpers.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M154.32,-1216.49C168.74,-1309.34 234.84,-1707.29 320.76,-1793.08 432.98,-1905.13 507.04,-1868.32 664.12,-1890.08 773.83,-1905.28 1082.2,-1928 1160.92,-1850.08 1234.15,-1777.6 1248.27,-1442.9 1250.91,-1337.18" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1254.41,-1337.47 1251.13,-1327.39 1247.41,-1337.31 1254.41,-1337.47" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteWithdraw&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge73" class="edge" data-name="OrderHelpers.announceAndExecuteWithdraw-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M183,-1215.99C214.15,-1251.13 265.05,-1315.4 320.76,-1359.08 455.23,-1464.52 499.25,-1487.15 664.12,-1532.08 728.3,-1549.58 925.94,-1555 1008.54,-1573.84" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1007.51,-1577.19 1018.07,-1576.3 1009.26,-1570.41 1007.51,-1577.19" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteWithdraw&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge75" class="edge" data-name="OrderHelpers.announceAndExecuteWithdraw-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M172.06,-1216.15C201.22,-1252.37 257.93,-1327.82 320.76,-1377.08 455.23,-1482.52 499.25,-1505.15 664.12,-1550.08 725,-1566.68 905.95,-1572.41 994.91,-1581.65" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="994.52,-1585.13 1004.85,-1582.77 995.3,-1578.17 994.52,-1585.13" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteWithdraw&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge78" class="edge" data-name="OrderHelpers.announceAndExecuteWithdraw-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M164.02,-1216.47C189.72,-1254.71 251.52,-1340.8 320.76,-1395.08 455.23,-1500.52 499.25,-1523.15 664.12,-1568.08 723.67,-1584.32 898.14,-1590.16 988.98,-1592.14" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="988.65,-1595.63 998.73,-1592.34 988.8,-1588.64 988.65,-1595.63" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteWithdraw&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge80" class="edge" data-name="OrderHelpers.announceAndExecuteWithdraw-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M158.58,-1216.35C179.91,-1258.78 246,-1354.47 320.76,-1413.08 455.23,-1518.52 499.25,-1541.15 664.12,-1586.08 724.76,-1602.61 904.52,-1608.37 993.85,-1602.95" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="993.85,-1606.45 1003.58,-1602.26 993.36,-1599.47 993.85,-1606.45" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteWithdraw&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge83" class="edge" data-name="OrderHelpers.announceAndExecuteWithdraw-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M155.6,-1216.55C173.02,-1266.66 242.08,-1369.4 320.76,-1431.08 455.23,-1536.52 499.25,-1559.15 664.12,-1604.08 728,-1621.49 924.07,-1626.95 1007.36,-1611.45" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1007.96,-1614.9 1016.99,-1609.36 1006.48,-1608.06 1007.96,-1614.9" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteWithdraw&#45;&gt;OrderHelpers.assertGt -->
+<g id="edge85" class="edge" data-name="OrderHelpers.announceAndExecuteWithdraw-&gt;OrderHelpers.assertGt">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M154.44,-1216.48C169.07,-1306.62 234.67,-1683.38 320.76,-1759.08 369.65,-1802.08 849.01,-1851.06 903.92,-1816.08 928.75,-1800.28 910.66,-1776.43 931.92,-1756.08 949.12,-1739.63 972.89,-1728.59 994.24,-1721.37" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="995.07,-1724.78 1003.57,-1718.45 992.98,-1718.09 995.07,-1724.78" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteWithdraw&#45;&gt;OrderHelpers.skip -->
+<g id="edge69" class="edge" data-name="OrderHelpers.announceAndExecuteWithdraw-&gt;OrderHelpers.skip">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M152.97,-1216.48C159.47,-1282.1 190.36,-1496.77 320.76,-1589.08 387.93,-1636.63 642.99,-1628.62 742.72,-1623.48" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="742.63,-1626.99 752.43,-1622.96 742.25,-1620 742.63,-1626.99" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteWithdraw&#45;&gt;OrderHelpers.getPriceUpdateData -->
+<g id="edge71" class="edge" data-name="OrderHelpers.announceAndExecuteWithdraw-&gt;OrderHelpers.getPriceUpdateData">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M170.68,-1216.03C200.61,-1244.54 261.02,-1298.69 320.76,-1332.08 462.38,-1411.25 504.3,-1428.11 664.12,-1456.08 768.73,-1474.39 891.62,-1460.03 969.01,-1446.69" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="969.29,-1450.2 978.52,-1445.01 968.07,-1443.31 969.29,-1450.2" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteWithdraw&#45;&gt;WETH.balanceOf -->
+<g id="edge65" class="edge" data-name="OrderHelpers.announceAndExecuteWithdraw-&gt;WETH.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M151.22,-1177.65C151.01,-1095.94 158.77,-797.41 320.76,-657.08 517.73,-486.46 710.25,-421.72 903.92,-596.08 948.1,-635.85 893.24,-816.95 931.92,-862.08 951.55,-884.98 986.42,-891.43 1012.34,-898.02" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1011.11,-901.31 1021.69,-900.63 1013,-894.56 1011.11,-901.31" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteWithdraw&#45;&gt;WETH.balanceOf -->
+<g id="edge66" class="edge" data-name="OrderHelpers.announceAndExecuteWithdraw-&gt;WETH.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M151.22,-1177.74C151.45,-1100.3 162.49,-812.18 320.76,-675.08 517.73,-504.46 710.25,-439.72 903.92,-614.08 948.1,-653.85 893.24,-834.95 931.92,-880.08 945.48,-895.9 966.3,-903.87 986.43,-908.31" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="985.68,-911.73 996.16,-910.15 986.98,-904.85 985.68,-911.73" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteWithdraw&#45;&gt;WETH.balanceOf -->
+<g id="edge76" class="edge" data-name="OrderHelpers.announceAndExecuteWithdraw-&gt;WETH.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M151.26,-1177.79C152.18,-1102.29 166.92,-826.34 320.76,-693.08 517.73,-522.46 710.25,-457.72 903.92,-632.08 948.1,-671.85 893.24,-852.95 931.92,-898.08 945.25,-913.63 965.61,-921.6 985.41,-924.99" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="984.91,-928.46 995.27,-926.22 985.78,-921.51 984.91,-928.46" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteWithdraw&#45;&gt;WETH.balanceOf -->
+<g id="edge79" class="edge" data-name="OrderHelpers.announceAndExecuteWithdraw-&gt;WETH.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M151.41,-1177.66C153.32,-1102.01 172.06,-839.89 320.76,-711.08 517.73,-540.46 710.25,-475.72 903.92,-650.08 948.1,-689.85 893.24,-870.95 931.92,-916.08 952.58,-940.18 990.09,-946.06 1016.32,-940.9" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1016.96,-944.35 1025.6,-938.21 1015.02,-937.63 1016.96,-944.35" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteWithdraw&#45;&gt;stableModProxy.balanceOf -->
+<g id="edge81" class="edge" data-name="OrderHelpers.announceAndExecuteWithdraw-&gt;stableModProxy.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M152.27,-1177.73C157.9,-1064.88 192.53,-493.22 320.76,-389.08 521.96,-225.69 711.78,-218.14 903.92,-392.08 945.86,-430.05 894.47,-602.7 931.92,-645.08 944.46,-659.26 962.96,-666.69 981.41,-670.4" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="980.68,-673.83 991.11,-671.94 981.78,-666.92 980.68,-673.83" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteWithdraw&#45;&gt;stableModProxy.stableCollateralPerShare -->
+<g id="edge67" class="edge" data-name="OrderHelpers.announceAndExecuteWithdraw-&gt;stableModProxy.stableCollateralPerShare">
+
+<path fill="none" stroke="white" stroke-width="2" d="M152.87,-1177.69C161.72,-1074.7 210.91,-595.42 320.76,-509.08 524.54,-348.93 707.28,-338.24 903.92,-507.08 966.35,-560.68 876.17,-629.57 931.92,-690.08 939.1,-697.87 948.07,-703.6 957.81,-707.87" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="956.57,-711.14 967.16,-711.33 959,-704.58 956.57,-711.14" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteWithdraw&#45;&gt;stableModProxy.stableCollateralPerShare -->
+<g id="edge74" class="edge" data-name="OrderHelpers.announceAndExecuteWithdraw-&gt;stableModProxy.stableCollateralPerShare">
+
+<path fill="none" stroke="white" stroke-width="2" d="M153.37,-1177.6C163.45,-1076.15 212.82,-611.91 320.76,-527.08 524.54,-366.93 707.28,-356.24 903.92,-525.08 966.35,-578.68 876.17,-647.57 931.92,-708.08 933.04,-709.3 934.21,-710.46 935.41,-711.58" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="932.89,-714.06 942.95,-717.38 937.16,-708.51 932.89,-714.06" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteWithdraw&#45;&gt;stableModProxy.totalSupply -->
+<g id="edge64" class="edge" data-name="OrderHelpers.announceAndExecuteWithdraw-&gt;stableModProxy.totalSupply">
+
+<path fill="none" stroke="white" stroke-width="2" d="M151.22,-1177.97C150.48,-1045.08 152.69,-262.62 320.76,-119.08 517.85,49.24 695.16,30.53 903.92,-123.08 1036.86,-220.9 1047.03,-447.2 1046.3,-531.69" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1042.8,-531.57 1046.14,-541.63 1049.8,-531.68 1042.8,-531.57" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteWithdraw&#45;&gt;stableModProxy.totalSupply -->
+<g id="edge84" class="edge" data-name="OrderHelpers.announceAndExecuteWithdraw-&gt;stableModProxy.totalSupply">
+
+<path fill="none" stroke="white" stroke-width="2" d="M151.2,-1177.98C150.54,-1046.52 154.47,-279.1 320.76,-137.08 517.85,31.24 695.16,12.53 903.92,-141.08 1032.38,-235.61 1046.21,-450.1 1046.33,-531.82" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1042.83,-531.79 1046.25,-541.81 1049.83,-531.84 1042.83,-531.79" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteWithdraw&#45;&gt;stableModProxy.decimals -->
+<g id="edge77" class="edge" data-name="OrderHelpers.announceAndExecuteWithdraw-&gt;stableModProxy.decimals">
+
+<path fill="none" stroke="white" stroke-width="2" d="M151.67,-1177.94C153.95,-1055.42 173.14,-382.43 320.76,-259.08 519.65,-92.89 714.29,-86.4 903.92,-263.08 957.45,-312.95 884.17,-535.66 931.92,-591.08 945.6,-606.96 966.75,-614.41 987.11,-617.66" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="986.59,-621.12 996.94,-618.84 987.43,-614.17 986.59,-621.12" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteWithdraw&#45;&gt;vm.startPrank -->
+<g id="edge62" class="edge" data-name="OrderHelpers.announceAndExecuteWithdraw-&gt;vm.startPrank">
+
+<path fill="none" stroke="white" stroke-width="2" d="M162.15,-1177.81C208.8,-1096.57 402.96,-781.22 664.12,-671.08 762.32,-629.67 825.67,-598.73 903.92,-671.08 962.35,-725.11 880.94,-966.98 931.92,-1028.08 944.34,-1042.97 963.2,-1050.93 982,-1055.07" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="981.16,-1058.47 991.62,-1056.78 982.38,-1051.58 981.16,-1058.47" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteWithdraw&#45;&gt;delayedOrderProxy.keeperFeeContract -->
+<g id="edge63" class="edge" data-name="OrderHelpers.announceAndExecuteWithdraw-&gt;delayedOrderProxy.keeperFeeContract">
+
+<path fill="none" stroke="white" stroke-width="2" d="M153.01,-1216.2C165.17,-1347.06 253,-2117.39 664.12,-2521.08 750.32,-2605.73 809.31,-2573.95 903.92,-2649.08 918.72,-2660.84 915.74,-2671.32 931.92,-2681.08 940.96,-2686.53 951.02,-2690.89 961.32,-2694.36" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="959.98,-2697.61 970.56,-2697.16 962.01,-2690.91 959.98,-2697.61" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteWithdraw&#45;&gt;delayedOrderProxy.minExecutabilityAge -->
+<g id="edge70" class="edge" data-name="OrderHelpers.announceAndExecuteWithdraw-&gt;delayedOrderProxy.minExecutabilityAge">
+
+<path fill="none" stroke="white" stroke-width="2" d="M152.98,-1216.54C163.57,-1342.77 226.21,-2046.34 320.76,-2237.08 419.25,-2435.76 486.37,-2466.5 664.12,-2599.08 771.12,-2678.9 806.6,-2689.09 931.92,-2735.08 942.42,-2738.94 953.67,-2742.38 964.86,-2745.42" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="963.94,-2748.8 974.5,-2747.92 965.69,-2742.02 963.94,-2748.8" style=""/>
+</g>
+<!-- OrderHelpers.announceDeposit&#45;&gt;OrderHelpers.announceDepositStable -->
+<g id="edge91" class="edge" data-name="OrderHelpers.announceDeposit-&gt;OrderHelpers.announceDepositStable">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M863.5,-1305.08C884.38,-1305.08 907.38,-1305.08 929.79,-1305.08" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="929.5,-1308.58 939.5,-1305.08 929.5,-1301.58 929.5,-1308.58" style=""/>
+</g>
+<!-- OrderHelpers.announceDeposit&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge92" class="edge" data-name="OrderHelpers.announceDeposit-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M802.7,-1286.23C828.65,-1275.67 876.89,-1277.93 903.92,-1305.08 944.39,-1345.74 906.51,-1379.65 931.92,-1431.08 957.27,-1482.38 1006.09,-1530.73 1030.61,-1563.59" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1027.62,-1565.42 1036.2,-1571.64 1033.37,-1561.43 1027.62,-1565.42" style=""/>
+</g>
+<!-- OrderHelpers.announceDeposit&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge94" class="edge" data-name="OrderHelpers.announceDeposit-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M861.26,-1300.53C877.09,-1304.49 892.43,-1311.53 903.92,-1323.08 944.39,-1363.74 906.51,-1397.65 931.92,-1449.08 954.63,-1495.05 996.19,-1538.64 1022.22,-1565.81" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1019.52,-1568.05 1028.96,-1572.87 1024.58,-1563.22 1019.52,-1568.05" style=""/>
+</g>
+<!-- OrderHelpers.announceDeposit&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge96" class="edge" data-name="OrderHelpers.announceDeposit-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M851.05,-1315.51C870.34,-1319.67 889.96,-1327.06 903.92,-1341.08 944.39,-1381.74 906.51,-1415.65 931.92,-1467.08 951.65,-1507.01 985.59,-1545.13 1011.23,-1568.97" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1008.57,-1571.29 1018.35,-1575.36 1013.24,-1566.08 1008.57,-1571.29" style=""/>
+</g>
+<!-- OrderHelpers.announceDeposit&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge98" class="edge" data-name="OrderHelpers.announceDeposit-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M810.56,-1323.41C837.52,-1330.32 879.43,-1334.48 903.92,-1359.08 944.39,-1399.74 906.51,-1433.65 931.92,-1485.08 948.85,-1519.35 976.25,-1552.29 999.89,-1573.92" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="997.28,-1576.29 1007.12,-1580.21 1001.87,-1571.01 997.28,-1576.29" style=""/>
+</g>
+<!-- OrderHelpers.announceDeposit&#45;&gt;WETH.balanceOf -->
+<g id="edge88" class="edge" data-name="OrderHelpers.announceDeposit-&gt;WETH.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M853.16,-1295.55C872.19,-1291.4 891.14,-1283.78 903.92,-1269.08 952.51,-1213.22 883.62,-993.2 931.92,-937.08 945.65,-921.14 966.91,-913.69 987.35,-911.07" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="987.53,-914.56 997.21,-910.26 986.95,-907.59 987.53,-914.56" style=""/>
+</g>
+<!-- OrderHelpers.announceDeposit&#45;&gt;WETH.balanceOf -->
+<g id="edge93" class="edge" data-name="OrderHelpers.announceDeposit-&gt;WETH.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M859.04,-1311.55C876.04,-1307.75 892.46,-1300.26 903.92,-1287.08 952.51,-1231.22 883.62,-1011.2 931.92,-955.08 945.09,-939.78 965.21,-932.3 984.87,-928.34" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="985.38,-931.81 994.66,-926.7 984.22,-924.9 985.38,-931.81" style=""/>
+</g>
+<!-- OrderHelpers.announceDeposit&#45;&gt;stableModProxy.balanceOf -->
+<g id="edge89" class="edge" data-name="OrderHelpers.announceDeposit-&gt;stableModProxy.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M853.79,-1295.76C872.74,-1291.6 891.48,-1283.92 903.92,-1269.08 986.7,-1170.39 849.65,-789.2 931.92,-690.08 945.53,-673.69 967.11,-666.21 987.82,-663.71" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="987.79,-667.22 997.5,-662.99 987.27,-660.24 987.79,-667.22" style=""/>
+</g>
+<!-- OrderHelpers.announceDeposit&#45;&gt;stableModProxy.balanceOf -->
+<g id="edge95" class="edge" data-name="OrderHelpers.announceDeposit-&gt;stableModProxy.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M858.45,-1312.03C875.77,-1308.3 892.5,-1300.71 903.92,-1287.08 986.7,-1188.39 849.65,-807.2 931.92,-708.08 944.82,-692.55 964.87,-685.02 984.56,-681.08" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="985.09,-684.54 994.38,-679.46 983.95,-677.64 985.09,-684.54" style=""/>
+</g>
+<!-- OrderHelpers.announceDeposit&#45;&gt;stableModProxy.stableCollateralPerShare -->
+<g id="edge90" class="edge" data-name="OrderHelpers.announceDeposit-&gt;stableModProxy.stableCollateralPerShare">
+
+<path fill="none" stroke="white" stroke-width="2" d="M853.75,-1295.72C872.69,-1291.56 891.44,-1283.89 903.92,-1269.08 979.23,-1179.75 857.08,-833.8 931.92,-744.08 932.86,-742.96 933.84,-741.87 934.86,-740.83" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="937.08,-743.53 942.51,-734.44 932.59,-738.16 937.08,-743.53" style=""/>
+</g>
+<!-- OrderHelpers.announceDeposit&#45;&gt;stableModProxy.stableCollateralPerShare -->
+<g id="edge97" class="edge" data-name="OrderHelpers.announceDeposit-&gt;stableModProxy.stableCollateralPerShare">
+
+<path fill="none" stroke="white" stroke-width="2" d="M858.4,-1311.99C875.72,-1308.26 892.46,-1300.68 903.92,-1287.08 979.23,-1197.75 857.08,-851.8 931.92,-762.08 938.45,-754.26 946.79,-748.47 955.97,-744.15" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="957.16,-747.45 965.18,-740.53 954.59,-740.93 957.16,-747.45" style=""/>
+</g>
+<!-- OrderHelpers.announceDeposit&#45;&gt;vm.startPrank -->
+<g id="edge86" class="edge" data-name="OrderHelpers.announceDeposit-&gt;vm.startPrank">
+
+<path fill="none" stroke="white" stroke-width="2" d="M862.21,-1301.42C877.9,-1297.18 892.94,-1289.98 903.92,-1278.08 962.74,-1214.42 873.44,-1149.05 931.92,-1085.08 944.75,-1071.06 963.42,-1063.68 981.94,-1059.97" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="982.33,-1063.45 991.66,-1058.43 981.24,-1056.54 982.33,-1063.45" style=""/>
+</g>
+<!-- OrderHelpers.announceDeposit&#45;&gt;delayedOrderProxy.keeperFeeContract -->
+<g id="edge87" class="edge" data-name="OrderHelpers.announceDeposit-&gt;delayedOrderProxy.keeperFeeContract">
+
+<path fill="none" stroke="white" stroke-width="2" d="M862.71,-1307.61C878.57,-1311.88 893.56,-1319.37 903.92,-1332.08 951.3,-1390.18 884.85,-2622.75 931.92,-2681.08 937.63,-2688.15 944.82,-2693.58 952.8,-2697.71" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="951.19,-2700.82 961.76,-2701.54 953.94,-2694.39 951.19,-2700.82" style=""/>
+</g>
+<!-- delayedOrderProxy.announcedOrder -->
+<g id="node45" class="node" pointer-events="visible" data-name="delayedOrderProxy.announcedOrder">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1046.42" cy="-2600.08" rx="75.27" ry="18" style=""/>
+<text text-anchor="middle" x="1046.42" y="-2595.88" font-family="Times,serif" font-size="14.00" style="">announcedOrder</text>
+</g>
+<!-- OrderHelpers.announceDeposit&#45;&gt;delayedOrderProxy.announcedOrder -->
+<g id="edge99" class="edge" data-name="OrderHelpers.announceDeposit-&gt;delayedOrderProxy.announcedOrder">
+
+<path fill="none" stroke="white" stroke-width="2" d="M862.69,-1307.63C878.55,-1311.89 893.54,-1319.38 903.92,-1332.08 947.56,-1385.49 888.57,-2519.46 931.92,-2573.08 939.05,-2581.89 948.48,-2588.14 958.87,-2592.53" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="957.48,-2595.75 968.07,-2595.74 959.78,-2589.14 957.48,-2595.75" style=""/>
+</g>
+<!-- OrderHelpers.announceWithdraw&#45;&gt;OrderHelpers.announceWithdrawStable -->
+<g id="edge105" class="edge" data-name="OrderHelpers.announceWithdraw-&gt;OrderHelpers.announceWithdrawStable">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M562.35,-1251.08C592.46,-1251.08 626.82,-1251.08 659.31,-1251.08" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="659.11,-1254.58 669.11,-1251.08 659.11,-1247.58 659.11,-1254.58" style=""/>
+</g>
+<!-- OrderHelpers.announceWithdraw&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge106" class="edge" data-name="OrderHelpers.announceWithdraw-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M493.85,-1232.1C526.12,-1217.15 592.83,-1214.25 628.12,-1251.08 712.17,-1338.82 577.47,-1436.91 664.12,-1522.08 670.14,-1528.01 906.2,-1552.19 1003.82,-1575.4" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1002.88,-1578.78 1013.44,-1577.85 1004.61,-1571.99 1002.88,-1578.78" style=""/>
+</g>
+<!-- OrderHelpers.announceWithdraw&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge108" class="edge" data-name="OrderHelpers.announceWithdraw-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M540.01,-1238.02C570.83,-1238.37 605.77,-1245.76 628.12,-1269.08 712.17,-1356.82 577.47,-1454.91 664.12,-1540.08 669.94,-1545.8 890.16,-1568.54 993.22,-1582.93" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="992.68,-1586.39 1003.08,-1584.34 993.68,-1579.46 992.68,-1586.39" style=""/>
+</g>
+<!-- OrderHelpers.announceWithdraw&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge110" class="edge" data-name="OrderHelpers.announceWithdraw-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M559.26,-1256.26C584.57,-1260.05 610.33,-1268.52 628.12,-1287.08 712.17,-1374.82 577.47,-1472.91 664.12,-1558.08 669.86,-1563.72 884.18,-1585.92 988.93,-1592.59" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="988.54,-1596.07 998.73,-1593.18 988.95,-1589.09 988.54,-1596.07" style=""/>
+</g>
+<!-- OrderHelpers.announceWithdraw&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge112" class="edge" data-name="OrderHelpers.announceWithdraw-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M519.32,-1267.87C553.83,-1271.79 600.56,-1276.31 628.12,-1305.08 712.17,-1392.82 577.47,-1490.91 664.12,-1576.08 669.96,-1581.82 891.78,-1604.7 994.35,-1602.77" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="994.22,-1606.28 1004.1,-1602.47 994,-1599.28 994.22,-1606.28" style=""/>
+</g>
+<!-- OrderHelpers.announceWithdraw&#45;&gt;WETH.balanceOf -->
+<g id="edge102" class="edge" data-name="OrderHelpers.announceWithdraw-&gt;WETH.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M559.91,-1246.52C585.27,-1242.77 610.89,-1234.16 628.12,-1215.08 701.58,-1133.72 583.82,-797.72 664.12,-723.08 742.18,-650.52 822.21,-654.65 903.92,-723.08 958.27,-768.59 883.9,-827.95 931.92,-880.08 946.09,-895.47 967.14,-903.34 987.27,-907.83" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="986.5,-911.24 996.98,-909.7 987.83,-904.37 986.5,-911.24" style=""/>
+</g>
+<!-- OrderHelpers.announceWithdraw&#45;&gt;WETH.balanceOf -->
+<g id="edge109" class="edge" data-name="OrderHelpers.announceWithdraw-&gt;WETH.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M537.51,-1264.69C569.23,-1264.97 605.75,-1257.86 628.12,-1233.08 701.58,-1151.72 583.82,-815.72 664.12,-741.08 742.18,-668.52 822.21,-672.65 903.92,-741.08 958.27,-786.59 883.9,-845.95 931.92,-898.08 945.45,-912.77 965.25,-920.61 984.53,-924.19" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="984,-927.65 994.39,-925.56 984.97,-920.71 984,-927.65" style=""/>
+</g>
+<!-- OrderHelpers.announceWithdraw&#45;&gt;stableModProxy.balanceOf -->
+<g id="edge103" class="edge" data-name="OrderHelpers.announceWithdraw-&gt;stableModProxy.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M560.06,-1246.65C585.42,-1242.9 611.01,-1234.27 628.12,-1215.08 716.41,-1116.04 567.51,-710.03 664.12,-619.08 741.72,-546.03 801.29,-590.36 903.92,-619.08 917.94,-623.01 918.46,-630.55 931.92,-636.08 952.31,-644.45 975.87,-650.59 996.22,-655.56" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="995.26,-658.93 1005.8,-657.88 996.9,-652.13 995.26,-658.93" style=""/>
+</g>
+<!-- OrderHelpers.announceWithdraw&#45;&gt;stableModProxy.balanceOf -->
+<g id="edge107" class="edge" data-name="OrderHelpers.announceWithdraw-&gt;stableModProxy.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M536.87,-1264.79C568.8,-1265.23 605.73,-1258.2 628.12,-1233.08 716.41,-1134.04 567.51,-728.03 664.12,-637.08 741.72,-564.03 801.29,-608.36 903.92,-637.08 917.94,-641.01 918.46,-648.55 931.92,-654.08 947.6,-660.52 965.16,-665.63 981.68,-669.29" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="980.61,-672.64 991.11,-671.19 982,-665.78 980.61,-672.64" style=""/>
+</g>
+<!-- OrderHelpers.announceWithdraw&#45;&gt;stableModProxy.stableCollateralPerShare -->
+<g id="edge104" class="edge" data-name="OrderHelpers.announceWithdraw-&gt;stableModProxy.stableCollateralPerShare">
+
+<path fill="none" stroke="white" stroke-width="2" d="M560,-1246.6C585.36,-1242.85 610.96,-1234.23 628.12,-1215.08 709.71,-1124.03 574.88,-749.66 664.12,-666.08 741.91,-593.23 803.96,-629.11 903.92,-666.08 919.3,-671.77 917.32,-682.64 931.92,-690.08 945.67,-697.09 961.29,-702.31 976.44,-706.43" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="975.52,-709.81 986.08,-708.9 977.26,-703.03 975.52,-709.81" style=""/>
+</g>
+<!-- OrderHelpers.announceWithdraw&#45;&gt;stableModProxy.stableCollateralPerShare -->
+<g id="edge111" class="edge" data-name="OrderHelpers.announceWithdraw-&gt;stableModProxy.stableCollateralPerShare">
+
+<path fill="none" stroke="white" stroke-width="2" d="M537.2,-1264.75C569.03,-1265.11 605.75,-1258.04 628.12,-1233.08 709.71,-1142.03 574.88,-767.66 664.12,-684.08 741.91,-611.23 803.96,-647.11 903.92,-684.08 919.3,-689.77 917.32,-700.64 931.92,-708.08 934.63,-709.46 937.4,-710.77 940.23,-712.01" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="938.73,-715.18 949.31,-715.62 941.31,-708.67 938.73,-715.18" style=""/>
+</g>
+<!-- OrderHelpers.announceWithdraw&#45;&gt;vm.startPrank -->
+<g id="edge100" class="edge" data-name="OrderHelpers.announceWithdraw-&gt;vm.startPrank">
+
+<path fill="none" stroke="white" stroke-width="2" d="M561.05,-1254.84C586.01,-1251.44 611.11,-1242.82 628.12,-1224.08 697.17,-1147.98 588.68,-832.86 664.12,-763.08 703.24,-726.9 864.31,-727.44 903.92,-763.08 947.94,-802.69 893.38,-983.13 931.92,-1028.08 944.54,-1042.8 963.45,-1050.72 982.23,-1054.87" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="981.37,-1058.27 991.84,-1056.59 982.61,-1051.38 981.37,-1058.27" style=""/>
+</g>
+<!-- OrderHelpers.announceWithdraw&#45;&gt;delayedOrderProxy.keeperFeeContract -->
+<g id="edge101" class="edge" data-name="OrderHelpers.announceWithdraw-&gt;delayedOrderProxy.keeperFeeContract">
+
+<path fill="none" stroke="white" stroke-width="2" d="M560.55,-1246.95C585.79,-1250.26 611.18,-1258.92 628.12,-1278.08 679.32,-1336.03 628.75,-1904.32 664.12,-1973.08 726.43,-2094.26 841.47,-2042.98 903.92,-2164.08 930.29,-2215.21 895.05,-2636.92 931.92,-2681.08 937.75,-2688.06 945.02,-2693.42 953.04,-2697.51" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="951.46,-2700.65 962.04,-2701.32 954.19,-2694.2 951.46,-2700.65" style=""/>
+</g>
+<!-- OrderHelpers.announceWithdraw&#45;&gt;delayedOrderProxy.announcedOrder -->
+<g id="edge113" class="edge" data-name="OrderHelpers.announceWithdraw-&gt;delayedOrderProxy.announcedOrder">
+
+<path fill="none" stroke="white" stroke-width="2" d="M560.47,-1247.02C585.71,-1250.34 611.12,-1258.98 628.12,-1278.08 718.69,-1379.85 592.66,-1774.09 664.12,-1890.08 728.73,-1994.97 839.7,-1923.96 903.92,-2029.08 935.48,-2080.73 893.2,-2526.57 931.92,-2573.08 939.17,-2581.79 948.68,-2587.98 959.1,-2592.34" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="957.73,-2595.57 968.33,-2595.53 960.02,-2588.96 957.73,-2595.57" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageOpen -->
+<g id="node12" class="node" pointer-events="visible" data-name="OrderHelpers.announceAndExecuteLeverageOpen">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="474.44" cy="-1658.08" rx="152.7" ry="18" style=""/>
+<text text-anchor="middle" x="474.44" y="-1653.88" font-family="Times,serif" font-size="14.00" style="">announceAndExecuteLeverageOpen</text>
+</g>
+<!-- OrderHelpers.announceOpenLeverage -->
+<g id="node14" class="node" pointer-events="visible" data-name="OrderHelpers.announceOpenLeverage">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="784.02" cy="-1695.08" rx="104.74" ry="18" style=""/>
+<text text-anchor="middle" x="784.02" y="-1690.88" font-family="Times,serif" font-size="14.00" style="">announceOpenLeverage</text>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageOpen&#45;&gt;OrderHelpers.announceOpenLeverage -->
+<g id="edge119" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageOpen-&gt;OrderHelpers.announceOpenLeverage">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M586.48,-1671.44C617.8,-1675.21 651.69,-1679.28 682.36,-1682.97" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="681.94,-1686.45 692.29,-1684.17 682.78,-1679.5 681.94,-1686.45" style=""/>
+</g>
+<!-- OrderHelpers.executeOpenLeverage -->
+<g id="node16" class="node" pointer-events="visible" data-name="OrderHelpers.executeOpenLeverage">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="784.02" cy="-1359.08" rx="97.21" ry="18" style=""/>
+<text text-anchor="middle" x="784.02" y="-1354.88" font-family="Times,serif" font-size="14.00" style="">executeOpenLeverage</text>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageOpen&#45;&gt;OrderHelpers.executeOpenLeverage -->
+<g id="edge122" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageOpen-&gt;OrderHelpers.executeOpenLeverage">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M482.84,-1638.96C503.31,-1588.74 565.75,-1452.49 664.12,-1386.08 671.57,-1381.05 679.82,-1376.95 688.41,-1373.6" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="689.54,-1376.91 697.85,-1370.34 687.26,-1370.29 689.54,-1376.91" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageOpen&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge123" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageOpen-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M490.83,-1638.74C546.89,-1610.83 745.21,-1625.77 903.92,-1594.08 951.24,-1584.64 1003.25,-1560.57 1029.04,-1567.38" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1027.02,-1570.25 1037.38,-1572.43 1030.64,-1564.26 1027.02,-1570.25" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageOpen&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge125" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageOpen-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M527.19,-1639.79C608.37,-1632.38 770.21,-1638.78 903.92,-1612.08 936.46,-1605.59 971.22,-1592.18 998.14,-1584.51" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="998.95,-1587.92 1007.76,-1582.02 997.2,-1581.14 998.95,-1587.92" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageOpen&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge128" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageOpen-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M618.65,-1651.32C702.56,-1651.25 810.16,-1648.8 903.92,-1630.08 933.69,-1624.14 965.31,-1612.42 991.09,-1602.95" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="992.2,-1606.27 1000.4,-1599.56 989.8,-1599.69 992.2,-1606.27" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageOpen&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge130" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageOpen-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M611.85,-1666.85C696.69,-1669.37 807.6,-1667.31 903.92,-1648.08 939.38,-1641 977.48,-1625.72 1005.2,-1613.05" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1006.46,-1616.32 1014.04,-1608.92 1003.49,-1609.98 1006.46,-1616.32" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageOpen&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge131" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageOpen-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M539.35,-1675.72C623.76,-1686.91 776.59,-1691.5 903.92,-1666.08 946.86,-1657.51 993.65,-1636.91 1021.22,-1618.58" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1022.96,-1621.64 1029,-1612.94 1018.85,-1615.97 1022.96,-1621.64" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageOpen&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge132" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageOpen-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M499.45,-1677.23C565.04,-1702.11 752.51,-1714.31 903.92,-1684.08 952.73,-1674.34 1006.51,-1649.05 1031.38,-1622" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1033.94,-1624.42 1037.32,-1614.37 1028.41,-1620.12 1033.94,-1624.42" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageOpen&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge133" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageOpen-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M486.52,-1677.28C535.92,-1717.97 740.84,-1734.64 903.92,-1702.08 956.74,-1691.54 1015.39,-1662.79 1036.91,-1624.15" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1040.03,-1625.75 1040.92,-1615.19 1033.64,-1622.89 1040.03,-1625.75" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageOpen&#45;&gt;OrderHelpers.skip -->
+<g id="edge120" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageOpen-&gt;OrderHelpers.skip">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M586.48,-1644.73C641.09,-1638.16 703.51,-1630.65 743.08,-1625.89" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="743.31,-1629.39 752.82,-1624.72 742.47,-1622.44 743.31,-1629.39" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageOpen&#45;&gt;WETH.balanceOf -->
+<g id="edge117" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageOpen-&gt;WETH.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M484.73,-1638.83C511.88,-1588.42 591.53,-1449.45 628.12,-1323.08 645.87,-1261.77 624.58,-1088.2 664.12,-1038.08 741.35,-940.18 896.38,-916.58 983.09,-914.31" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="982.91,-917.82 992.85,-914.17 982.8,-910.82 982.91,-917.82" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageOpen&#45;&gt;WETH.balanceOf -->
+<g id="edge134" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageOpen-&gt;WETH.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M489.86,-1638.97C520.82,-1590.61 593.62,-1460.25 628.12,-1341.08 645.87,-1279.77 624.58,-1106.2 664.12,-1056.08 741.56,-957.92 897.21,-934.45 983.78,-926.14" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="983.89,-929.64 993.53,-925.24 983.25,-922.67 983.89,-929.64" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageOpen&#45;&gt;stableModProxy.stableCollateralPerShare -->
+<g id="edge118" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageOpen-&gt;stableModProxy.stableCollateralPerShare">
+
+<path fill="none" stroke="white" stroke-width="2" d="M484.95,-1638.89C512.72,-1588.65 593.89,-1450.11 628.12,-1323.08 651.68,-1235.63 617.33,-994.64 664.12,-917.08 724.88,-816.37 855,-763.9 946.26,-740.52" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="947.06,-743.92 955.93,-738.13 945.38,-737.13 947.06,-743.92" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageOpen&#45;&gt;stableModProxy.stableCollateralPerShare -->
+<g id="edge124" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageOpen-&gt;stableModProxy.stableCollateralPerShare">
+
+<path fill="none" stroke="white" stroke-width="2" d="M490.44,-1638.7C522.19,-1590.24 595.92,-1460.56 628.12,-1341.08 651.68,-1253.63 617.33,-1012.64 664.12,-935.08 731.82,-822.87 885.62,-770.55 975.84,-745.83" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="976.74,-749.21 985.48,-743.24 974.92,-742.46 976.74,-749.21" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageOpen&#45;&gt;vm.startPrank -->
+<g id="edge114" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageOpen-&gt;vm.startPrank">
+
+<path fill="none" stroke="white" stroke-width="2" d="M486.54,-1638.95C514.63,-1589.74 589,-1454.08 628.12,-1332.08 655.03,-1248.16 602.48,-1200.07 664.12,-1137.08 748.16,-1051.2 899.31,-1046.49 983.87,-1051.64" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="983.61,-1055.13 993.83,-1052.33 984.09,-1048.15 983.61,-1055.13" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageOpen&#45;&gt;leverageModProxy.marginAfterSettlement -->
+<g id="edge127" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageOpen-&gt;leverageModProxy.marginAfterSettlement">
+
+<path fill="none" stroke="white" stroke-width="2" d="M579.34,-1672.33C597.98,-1679.4 615.47,-1689.81 628.12,-1705.08 720.5,-1816.7 583.61,-1908.62 664.12,-2029.08 731.72,-2130.23 833.45,-2061.92 903.92,-2161.08 947.01,-2221.71 881.08,-2271.79 931.92,-2326.08 936.2,-2330.65 941.09,-2334.5 946.4,-2337.76" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="944.6,-2340.77 955.09,-2342.23 947.8,-2334.54 944.6,-2340.77" style=""/>
+</g>
+<!-- leverageModProxy.balanceOf -->
+<g id="node39" class="node" pointer-events="visible" data-name="leverageModProxy.balanceOf">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1046.42" cy="-2245.08" rx="50.92" ry="18" style=""/>
+<text text-anchor="middle" x="1046.42" y="-2240.88" font-family="Times,serif" font-size="14.00" style="">balanceOf</text>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageOpen&#45;&gt;leverageModProxy.balanceOf -->
+<g id="edge116" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageOpen-&gt;leverageModProxy.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M593.04,-1670.51C606.22,-1676.89 618.38,-1685.25 628.12,-1696.08 684.11,-1758.38 624.25,-1807.41 664.12,-1881.08 734.84,-2011.78 827.11,-1986.87 903.92,-2114.08 926.68,-2151.77 899.98,-2178.79 931.92,-2209.08 946.63,-2223.03 967.19,-2230.2 986.77,-2234.3" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="985.98,-2237.71 996.45,-2236.05 987.23,-2230.82 985.98,-2237.71" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageOpen&#45;&gt;leverageModProxy.balanceOf -->
+<g id="edge126" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageOpen-&gt;leverageModProxy.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M555.38,-1674.55C581.95,-1681.66 609.48,-1693.35 628.12,-1714.08 684.11,-1776.38 624.25,-1825.41 664.12,-1899.08 734.84,-2029.78 827.11,-2004.87 903.92,-2132.08 926.68,-2169.77 899.98,-2196.79 931.92,-2227.08 946.26,-2240.68 966.16,-2247.84 985.29,-2250.98" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="984.65,-2254.43 995,-2252.17 985.5,-2247.48 984.65,-2254.43" style=""/>
+</g>
+<!-- leverageModProxy.getPosition -->
+<g id="node40" class="node" pointer-events="visible" data-name="leverageModProxy.getPosition">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1046.42" cy="-2407.08" rx="54.49" ry="18" style=""/>
+<text text-anchor="middle" x="1046.42" y="-2402.88" font-family="Times,serif" font-size="14.00" style="">getPosition</text>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageOpen&#45;&gt;leverageModProxy.getPosition -->
+<g id="edge129" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageOpen-&gt;leverageModProxy.getPosition">
+
+<path fill="none" stroke="white" stroke-width="2" d="M579.99,-1672.26C598.47,-1679.35 615.73,-1689.78 628.12,-1705.08 684.83,-1775.14 609.55,-2037.35 664.12,-2109.08 733.04,-2199.69 832.11,-2110.75 903.92,-2199.08 955.27,-2262.24 876.71,-2320.27 931.92,-2380.08 943.86,-2393.01 960.77,-2400.28 977.9,-2404.23" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="977.2,-2407.66 987.67,-2406.05 978.48,-2400.78 977.2,-2407.66" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageOpen&#45;&gt;delayedOrderProxy.keeperFeeContract -->
+<g id="edge115" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageOpen-&gt;delayedOrderProxy.keeperFeeContract">
+
+<path fill="none" stroke="white" stroke-width="2" d="M580.12,-1672.16C598.59,-1679.25 615.81,-1689.71 628.12,-1705.08 692.6,-1785.66 598.9,-2088.11 664.12,-2168.08 734.21,-2254.03 834.46,-2150.62 903.92,-2237.08 965.84,-2314.15 868.23,-2605.48 931.92,-2681.08 937.78,-2688.03 945.07,-2693.37 953.1,-2697.46" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="951.54,-2700.6 962.11,-2701.26 954.26,-2694.15 951.54,-2700.6" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageOpen&#45;&gt;delayedOrderProxy.minExecutabilityAge -->
+<g id="edge121" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageOpen-&gt;delayedOrderProxy.minExecutabilityAge">
+
+<path fill="none" stroke="white" stroke-width="2" d="M580.21,-1672.09C598.67,-1679.18 615.87,-1689.66 628.12,-1705.08 698.92,-1794.22 622.79,-2110.01 664.12,-2216.08 726.21,-2375.46 837.28,-2359.56 903.92,-2517.08 941.99,-2607.05 866.6,-2662.45 931.92,-2735.08 936.71,-2740.4 942.33,-2744.77 948.47,-2748.34" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="946.77,-2751.4 957.29,-2752.63 949.83,-2745.11 946.77,-2751.4" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose -->
+<g id="node13" class="node" pointer-events="visible" data-name="OrderHelpers.announceAndExecuteLeverageClose">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="474.44" cy="-1732.08" rx="153.86" ry="18" style=""/>
+<text text-anchor="middle" x="474.44" y="-1727.88" font-family="Times,serif" font-size="14.00" style="">announceAndExecuteLeverageClose</text>
+</g>
+<!-- OrderHelpers.announceCloseLeverage -->
+<g id="node15" class="node" pointer-events="visible" data-name="OrderHelpers.announceCloseLeverage">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="784.02" cy="-1789.08" rx="105.9" ry="18" style=""/>
+<text text-anchor="middle" x="784.02" y="-1784.88" font-family="Times,serif" font-size="14.00" style="">announceCloseLeverage</text>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose&#45;&gt;OrderHelpers.announceCloseLeverage -->
+<g id="edge143" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageClose-&gt;OrderHelpers.announceCloseLeverage">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M561.94,-1748.11C603.72,-1755.86 653.77,-1765.13 695.66,-1772.89" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="694.94,-1776.32 705.41,-1774.7 696.22,-1769.44 694.94,-1776.32" style=""/>
+</g>
+<!-- OrderHelpers.executeCloseLeverage -->
+<g id="node17" class="node" pointer-events="visible" data-name="OrderHelpers.executeCloseLeverage">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="784.02" cy="-1413.08" rx="98.37" ry="18" style=""/>
+<text text-anchor="middle" x="784.02" y="-1408.88" font-family="Times,serif" font-size="14.00" style="">executeCloseLeverage</text>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose&#45;&gt;OrderHelpers.executeCloseLeverage -->
+<g id="edge146" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageClose-&gt;OrderHelpers.executeCloseLeverage">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M577.42,-1717.64C596.55,-1710.61 614.72,-1700.26 628.12,-1685.08 689.32,-1615.72 610.69,-1555.6 664.12,-1480.08 678.15,-1460.25 700.01,-1445.56 721.18,-1435.07" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="722.47,-1438.33 730.07,-1430.95 719.52,-1431.98 722.47,-1438.33" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge147" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageClose-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M497.82,-1712.82C575.55,-1686.97 832.92,-1706.11 903.92,-1668.08 923.05,-1657.84 917,-1643.84 931.92,-1628.08 962.58,-1595.71 1005.5,-1565.32 1028.79,-1567.98" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1027.05,-1571.02 1037.55,-1572.5 1030.27,-1564.8 1027.05,-1571.02" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge149" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageClose-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M548.5,-1714.94C654.42,-1709.69 844.48,-1717.92 903.92,-1686.08 923.05,-1675.84 917,-1661.84 931.92,-1646.08 949.57,-1627.46 971.27,-1609.48 990.95,-1596.93" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="992.55,-1600.05 999.35,-1591.93 988.97,-1594.04 992.55,-1600.05" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge152" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageClose-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M625.87,-1727.79C729.72,-1729.38 857.19,-1729.11 903.92,-1704.08 923.05,-1693.84 917,-1679.84 931.92,-1664.08 951.35,-1643.57 975.7,-1623.85 996.86,-1609.75" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="998.49,-1612.87 1005.04,-1604.54 994.73,-1606.96 998.49,-1612.87" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge153" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageClose-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M608.62,-1741.86C715.15,-1747.33 854.56,-1748.52 903.92,-1722.08 923.05,-1711.84 917,-1697.84 931.92,-1682.08 955.71,-1656.97 986.87,-1633.05 1010.52,-1616.34" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1012.43,-1619.28 1018.65,-1610.7 1008.44,-1613.53 1012.43,-1619.28" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge155" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageClose-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M545.45,-1749.37C650.74,-1763.53 843.9,-1772.23 903.92,-1740.08 923.05,-1729.84 917,-1715.84 931.92,-1700.08 960.55,-1669.86 999.86,-1641.36 1023.91,-1620.16" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1026.03,-1622.96 1030.98,-1613.59 1021.27,-1617.83 1026.03,-1622.96" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge161" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageClose-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M505.91,-1751.13C592,-1778.15 835.21,-1794.88 903.92,-1758.08 923.05,-1747.84 917,-1733.84 931.92,-1718.08 964.44,-1683.76 1010.73,-1651.65 1032.79,-1622.72" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1035.48,-1625 1038.08,-1614.73 1029.64,-1621.14 1035.48,-1625" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge162" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageClose-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M490.41,-1751.32C557.5,-1793.58 830.46,-1815.43 903.92,-1776.08 923.05,-1765.84 917,-1751.84 931.92,-1736.08 967.19,-1698.85 1018.66,-1664.24 1037.85,-1624.23" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1041.06,-1625.63 1041.44,-1615.04 1034.54,-1623.08 1041.06,-1625.63" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose&#45;&gt;OrderHelpers.skip -->
+<g id="edge144" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageClose-&gt;OrderHelpers.skip">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M540.02,-1714.42C567.48,-1706.34 599.67,-1696.11 628.12,-1685.08 644.61,-1678.69 647.88,-1675.12 664.12,-1668.08 691.57,-1656.19 723.07,-1643.79 746.75,-1634.72" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="747.77,-1638.08 755.86,-1631.25 745.27,-1631.54 747.77,-1638.08" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose&#45;&gt;WETH.balanceOf -->
+<g id="edge138" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageClose-&gt;WETH.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M506.29,-1713C541.84,-1703.57 599.07,-1694.87 628.12,-1658.08 705.11,-1560.56 590.47,-1200.16 664.12,-1100.08 731.78,-1008.14 825.73,-1091.25 903.92,-1008.08 932.33,-977.87 901.58,-947.34 931.92,-919.08 954.67,-897.91 990.92,-892.41 1016.31,-897.23" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1015.33,-900.58 1025.9,-899.96 1017.24,-893.85 1015.33,-900.58" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose&#45;&gt;WETH.balanceOf -->
+<g id="edge140" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageClose-&gt;WETH.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M560.47,-1715.92C586.02,-1708.81 611.62,-1696.98 628.12,-1676.08 705.11,-1578.56 590.47,-1218.16 664.12,-1118.08 731.78,-1026.14 825.73,-1109.25 903.92,-1026.08 932.33,-995.87 901.58,-965.34 931.92,-937.08 946.33,-923.67 966.14,-916.55 985.19,-913.37" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="985.36,-916.88 994.85,-912.17 984.49,-909.93 985.36,-916.88" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose&#45;&gt;WETH.balanceOf -->
+<g id="edge154" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageClose-&gt;WETH.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M595.86,-1720.03C608.24,-1713.56 619.44,-1705.08 628.12,-1694.08 705.11,-1596.56 590.47,-1236.16 664.12,-1136.08 731.78,-1044.14 825.73,-1127.25 903.92,-1044.08 932.33,-1013.87 901.58,-983.34 931.92,-955.08 946.76,-941.27 967.34,-934.13 986.91,-930.02" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="987.36,-933.49 996.57,-928.26 986.11,-926.61 987.36,-933.49" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose&#45;&gt;WETH.balanceOf -->
+<g id="edge156" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageClose-&gt;WETH.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M504.73,-1751.19C540.14,-1757.82 598.64,-1749.42 628.12,-1712.08 705.11,-1614.56 590.47,-1254.16 664.12,-1154.08 731.78,-1062.14 825.73,-1145.25 903.92,-1062.08 932.33,-1031.87 901.58,-1001.34 931.92,-973.08 953.76,-952.75 988.05,-946.88 1013.23,-940.41" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1013.9,-943.86 1022.54,-937.73 1011.97,-937.13 1013.9,-943.86" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose&#45;&gt;stableModProxy.stableCollateralPerShare -->
+<g id="edge141" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageClose-&gt;stableModProxy.stableCollateralPerShare">
+
+<path fill="none" stroke="white" stroke-width="2" d="M560.99,-1715.89C586.41,-1708.78 611.8,-1696.95 628.12,-1676.08 717.24,-1562.13 593.99,-1152.61 664.12,-1026.08 727.33,-912.04 830.31,-964.71 903.92,-857.08 933.14,-814.38 895.17,-780.5 931.92,-744.08 933.12,-742.9 934.35,-741.77 935.63,-740.68" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="937.5,-743.64 943.6,-734.99 933.43,-737.95 937.5,-743.64" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose&#45;&gt;stableModProxy.stableCollateralPerShare -->
+<g id="edge148" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageClose-&gt;stableModProxy.stableCollateralPerShare">
+
+<path fill="none" stroke="white" stroke-width="2" d="M595.96,-1720.11C608.32,-1713.62 619.49,-1705.12 628.12,-1694.08 717.24,-1580.13 593.99,-1170.61 664.12,-1044.08 727.33,-930.04 830.31,-982.71 903.92,-875.08 933.14,-832.38 895.17,-798.5 931.92,-762.08 939.82,-754.26 949.54,-748.56 959.94,-744.32" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="960.77,-747.74 969.06,-741.14 958.47,-741.13 960.77,-747.74" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose&#45;&gt;vm.startPrank -->
+<g id="edge135" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageClose-&gt;vm.startPrank">
+
+<path fill="none" stroke="white" stroke-width="2" d="M580.61,-1717.94C598.92,-1710.84 615.96,-1700.4 628.12,-1685.08 699.45,-1595.23 587.48,-1255.45 664.12,-1170.08 736.45,-1089.51 813.36,-1186.43 903.92,-1127.08 922.69,-1114.79 913.51,-1097.9 931.92,-1085.08 946.91,-1074.65 965.41,-1068.22 983.09,-1064.26" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="983.64,-1067.72 992.79,-1062.38 982.3,-1060.85 983.64,-1067.72" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose&#45;&gt;leverageModProxy.marginAfterSettlement -->
+<g id="edge142" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageClose-&gt;leverageModProxy.marginAfterSettlement">
+
+<path fill="none" stroke="white" stroke-width="2" d="M479.1,-1751.3C491.74,-1818.82 539.82,-2046.54 664.12,-2181.08 747.27,-2271.08 888.39,-2313.46 973.65,-2334.4" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="972.59,-2337.74 983.13,-2336.69 974.23,-2330.94 972.59,-2337.74" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose&#45;&gt;leverageModProxy.marginAfterSettlement -->
+<g id="edge151" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageClose-&gt;leverageModProxy.marginAfterSettlement">
+
+<path fill="none" stroke="white" stroke-width="2" d="M477.89,-1751.28C488.45,-1820.67 535.44,-2059.8 664.12,-2199.08 738.31,-2279.39 858.67,-2321.78 944.31,-2341.1" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="943.47,-2344.5 953.98,-2343.2 944.95,-2337.66 943.47,-2344.5" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose&#45;&gt;leverageModProxy.balanceOf -->
+<g id="edge139" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageClose-&gt;leverageModProxy.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M480.69,-1751.25C496.62,-1811.85 550.44,-1999.8 664.12,-2104.08 756.63,-2188.95 906.49,-2219.69 988.06,-2233.58" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="987.36,-2237.01 997.8,-2235.21 988.52,-2230.1 987.36,-2237.01" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose&#45;&gt;leverageModProxy.balanceOf -->
+<g id="edge150" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageClose-&gt;leverageModProxy.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M478.93,-1751.46C492.34,-1814.42 545.81,-2013.56 664.12,-2122.08 754.16,-2204.68 898.51,-2236 981.36,-2244.73" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="980.82,-2248.19 991.1,-2245.65 981.48,-2241.22 980.82,-2248.19" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose&#45;&gt;leverageModProxy.getPosition -->
+<g id="edge157" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageClose-&gt;leverageModProxy.getPosition">
+
+<path fill="none" stroke="white" stroke-width="2" d="M477.23,-1751.42C484.16,-1828.34 516.74,-2100.44 664.12,-2252.08 756.32,-2346.95 920.89,-2371.51 1000.21,-2388.81" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="999.16,-2392.16 1009.69,-2390.97 1000.72,-2385.33 999.16,-2392.16" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose&#45;&gt;leverageModProxy.getPosition -->
+<g id="edge158" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageClose-&gt;leverageModProxy.getPosition">
+
+<path fill="none" stroke="white" stroke-width="2" d="M476.62,-1751.37C482.12,-1828.11 511.84,-2113.4 664.12,-2270.08 750.13,-2358.58 899.12,-2385.89 983.13,-2397.28" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="982.42,-2400.72 992.79,-2398.55 983.33,-2393.78 982.42,-2400.72" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose&#45;&gt;leverageModProxy.getPosition -->
+<g id="edge159" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageClose-&gt;leverageModProxy.getPosition">
+
+<path fill="none" stroke="white" stroke-width="2" d="M476.22,-1751.52C480.57,-1830.27 507.64,-2127.08 664.12,-2288.08 748.51,-2374.92 893.53,-2402.84 978.32,-2409.03" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="977.92,-2412.51 988.12,-2409.64 978.36,-2405.52 977.92,-2412.51" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose&#45;&gt;leverageModProxy.getPosition -->
+<g id="edge160" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageClose-&gt;leverageModProxy.getPosition">
+
+<path fill="none" stroke="white" stroke-width="2" d="M475.95,-1751.49C479.37,-1834.26 503.96,-2141.3 664.12,-2306.08 753.67,-2398.22 911.48,-2424.04 993.16,-2421.24" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="993.26,-2424.74 1003.05,-2420.69 992.87,-2417.75 993.26,-2424.74" style=""/>
+</g>
+<!-- leverageModProxy.totalSupply -->
+<g id="node41" class="node" pointer-events="visible" data-name="leverageModProxy.totalSupply">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1046.42" cy="-2461.08" rx="55.64" ry="18" style=""/>
+<text text-anchor="middle" x="1046.42" y="-2456.88" font-family="Times,serif" font-size="14.00" style="">totalSupply</text>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose&#45;&gt;leverageModProxy.totalSupply -->
+<g id="edge137" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageClose-&gt;leverageModProxy.totalSupply">
+
+<path fill="none" stroke="white" stroke-width="2" d="M478.86,-1751.3C495.2,-1847.91 568.45,-2277.5 664.12,-2367.08 749.38,-2446.92 892.5,-2457.81 977.04,-2459.12" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="976.77,-2462.62 986.8,-2459.23 976.84,-2455.62 976.77,-2462.62" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose&#45;&gt;leverageModProxy.totalSupply -->
+<g id="edge163" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageClose-&gt;leverageModProxy.totalSupply">
+
+<path fill="none" stroke="white" stroke-width="2" d="M477.99,-1751.26C492.44,-1849.56 566.64,-2293.8 664.12,-2385.08 751.64,-2467.04 900.13,-2476.34 983.64,-2471.28" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="983.72,-2474.78 993.44,-2470.57 983.22,-2467.8 983.72,-2474.78" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose&#45;&gt;delayedOrderProxy.keeperFeeContract -->
+<g id="edge136" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageClose-&gt;delayedOrderProxy.keeperFeeContract">
+
+<path fill="none" stroke="white" stroke-width="2" d="M475.28,-1751.46C475.52,-1840.62 487.37,-2216.81 664.12,-2442.08 739.08,-2537.63 829.25,-2477.31 903.92,-2573.08 934.41,-2612.19 896.51,-2646.37 931.92,-2681.08 938.54,-2687.56 946.41,-2692.59 954.88,-2696.48" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="953.33,-2699.63 963.91,-2700 955.87,-2693.11 953.33,-2699.63" style=""/>
+</g>
+<!-- OrderHelpers.announceAndExecuteLeverageClose&#45;&gt;delayedOrderProxy.minExecutabilityAge -->
+<g id="edge145" class="edge" data-name="OrderHelpers.announceAndExecuteLeverageClose-&gt;delayedOrderProxy.minExecutabilityAge">
+
+<path fill="none" stroke="white" stroke-width="2" d="M477.86,-1751.23C491.87,-1859.33 565.23,-2393.03 664.12,-2521.08 737.96,-2616.7 826.31,-2556.5 903.92,-2649.08 929.75,-2679.89 902.37,-2707.84 931.92,-2735.08 937.51,-2740.23 943.88,-2744.45 950.71,-2747.9" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="949.2,-2751.06 959.77,-2751.81 951.98,-2744.63 949.2,-2751.06" style=""/>
+</g>
+<!-- OrderHelpers.announceOpenLeverage&#45;&gt;OrderHelpers.address -->
+<g id="edge170" class="edge" data-name="OrderHelpers.announceOpenLeverage-&gt;OrderHelpers.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M881.11,-1687.21C978.66,-1677.3 1120.89,-1656.92 1160.92,-1620.08 1242.65,-1544.88 1252.41,-1401.25 1252.43,-1337.24" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1255.94,-1337.49 1252.34,-1327.52 1248.94,-1337.56 1255.94,-1337.49" style=""/>
+</g>
+<!-- OrderHelpers.announceOpenLeverage&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge174" class="edge" data-name="OrderHelpers.announceOpenLeverage-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M798.13,-1675.98C820.34,-1660.82 866.56,-1650.29 903.92,-1636.08 916.93,-1631.14 919.46,-1628.27 931.92,-1622.08 950.8,-1612.71 971.47,-1602.49 989.93,-1594.81" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="991.18,-1598.08 999.19,-1591.16 988.61,-1591.57 991.18,-1598.08" style=""/>
+</g>
+<!-- OrderHelpers.announceOpenLeverage&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge176" class="edge" data-name="OrderHelpers.announceOpenLeverage-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M828.89,-1677.47C851.63,-1670.99 879.65,-1663.31 903.92,-1654.08 916.93,-1649.14 919.46,-1646.27 931.92,-1640.08 953.21,-1629.51 976.77,-1617.88 996.88,-1608.64" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="998.15,-1611.91 1005.83,-1604.61 995.28,-1605.53 998.15,-1611.91" style=""/>
+</g>
+<!-- OrderHelpers.announceOpenLeverage&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge178" class="edge" data-name="OrderHelpers.announceOpenLeverage-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M869.49,-1683.52C881.18,-1680.12 892.93,-1676.26 903.92,-1672.08 916.93,-1667.14 919.46,-1664.27 931.92,-1658.08 959.41,-1644.43 990.68,-1629.01 1013.43,-1616.35" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1014.93,-1619.53 1021.86,-1611.51 1011.45,-1613.45 1014.93,-1619.53" style=""/>
+</g>
+<!-- OrderHelpers.announceOpenLeverage&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge181" class="edge" data-name="OrderHelpers.announceOpenLeverage-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M890.11,-1695.03C894.8,-1693.45 899.43,-1691.79 903.92,-1690.08 916.93,-1685.14 919.46,-1682.27 931.92,-1676.08 965.56,-1659.38 1004.88,-1640.01 1027.3,-1620.95" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1029.68,-1623.52 1034.41,-1614.04 1024.8,-1618.5 1029.68,-1623.52" style=""/>
+</g>
+<!-- OrderHelpers.announceOpenLeverage&#45;&gt;OrderHelpers.assertGt -->
+<g id="edge180" class="edge" data-name="OrderHelpers.announceOpenLeverage-&gt;OrderHelpers.assertGt">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M885.7,-1700.5C920.98,-1702.39 959.32,-1704.45 989.58,-1706.08" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="989.26,-1709.57 999.43,-1706.61 989.63,-1702.58 989.26,-1709.57" style=""/>
+</g>
+<!-- OrderHelpers.announceOpenLeverage&#45;&gt;WETH.increaseAllowance -->
+<g id="edge169" class="edge" data-name="OrderHelpers.announceOpenLeverage-&gt;WETH.increaseAllowance">
+
+<path fill="none" stroke="white" stroke-width="2" d="M857.71,-1681.11C875.58,-1674.15 892.77,-1663.71 903.92,-1648.08 984.03,-1535.81 856.07,-1143.27 931.92,-1028.08 942.54,-1011.96 959.31,-1000.41 976.74,-992.21" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="977.63,-995.64 985.44,-988.48 974.87,-989.2 977.63,-995.64" style=""/>
+</g>
+<!-- OrderHelpers.announceOpenLeverage&#45;&gt;WETH.balanceOf -->
+<g id="edge165" class="edge" data-name="OrderHelpers.announceOpenLeverage-&gt;WETH.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M840.67,-1678.59C864.1,-1671.3 889.28,-1659.72 903.92,-1639.08 949.1,-1575.42 882.32,-997.36 931.92,-937.08 945.46,-920.63 967.03,-913.14 987.75,-910.65" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="987.73,-914.16 997.44,-909.93 987.21,-907.18 987.73,-914.16" style=""/>
+</g>
+<!-- OrderHelpers.announceOpenLeverage&#45;&gt;WETH.balanceOf -->
+<g id="edge175" class="edge" data-name="OrderHelpers.announceOpenLeverage-&gt;WETH.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M871.18,-1683.99C883.98,-1677.54 895.64,-1668.76 903.92,-1657.08 949.1,-1593.42 882.32,-1015.36 931.92,-955.08 944.87,-939.36 965.15,-931.82 985.02,-927.92" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="985.3,-931.42 994.6,-926.36 984.17,-924.51 985.3,-931.42" style=""/>
+</g>
+<!-- OrderHelpers.announceOpenLeverage&#45;&gt;stableModProxy.stableCollateralPerShare -->
+<g id="edge167" class="edge" data-name="OrderHelpers.announceOpenLeverage-&gt;stableModProxy.stableCollateralPerShare">
+
+<path fill="none" stroke="white" stroke-width="2" d="M840.75,-1678.64C864.2,-1671.37 889.37,-1659.78 903.92,-1639.08 961.15,-1557.7 869.03,-821.18 931.92,-744.08 932.85,-742.95 933.82,-741.85 934.82,-740.8" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="937.05,-743.5 942.41,-734.36 932.52,-738.16 937.05,-743.5" style=""/>
+</g>
+<!-- OrderHelpers.announceOpenLeverage&#45;&gt;stableModProxy.stableCollateralPerShare -->
+<g id="edge179" class="edge" data-name="OrderHelpers.announceOpenLeverage-&gt;stableModProxy.stableCollateralPerShare">
+
+<path fill="none" stroke="white" stroke-width="2" d="M871.26,-1684.05C884.06,-1677.59 895.69,-1668.8 903.92,-1657.08 961.15,-1575.7 869.03,-839.18 931.92,-762.08 938.32,-754.25 946.53,-748.44 955.61,-744.1" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="956.71,-747.44 964.7,-740.48 954.12,-740.93 956.71,-747.44" style=""/>
+</g>
+<!-- OrderHelpers.announceOpenLeverage&#45;&gt;vm.prank -->
+<g id="edge168" class="edge" data-name="OrderHelpers.announceOpenLeverage-&gt;vm.prank">
+
+<path fill="none" stroke="white" stroke-width="2" d="M840.19,-1678.56C863.67,-1671.25 889.03,-1659.68 903.92,-1639.08 966.68,-1552.33 872.46,-1247.12 931.92,-1158.08 947.28,-1135.09 975.11,-1121.39 999.37,-1114.5" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1000.18,-1117.91 1009.07,-1112.15 998.52,-1111.11 1000.18,-1117.91" style=""/>
+</g>
+<!-- OrderHelpers.announceOpenLeverage&#45;&gt;vm.prank -->
+<g id="edge172" class="edge" data-name="OrderHelpers.announceOpenLeverage-&gt;vm.prank">
+
+<path fill="none" stroke="white" stroke-width="2" d="M870.7,-1684.01C883.64,-1677.56 895.47,-1668.77 903.92,-1657.08 966.68,-1570.33 872.46,-1265.12 931.92,-1176.08 948.85,-1150.73 980.94,-1136.69 1006.68,-1127.7" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1007.48,-1131.13 1015.85,-1124.63 1005.26,-1124.49 1007.48,-1131.13" style=""/>
+</g>
+<!-- OrderHelpers.announceOpenLeverage&#45;&gt;oracleModProxy.getBuyPrice -->
+<g id="edge171" class="edge" data-name="OrderHelpers.announceOpenLeverage-&gt;oracleModProxy.getBuyPrice">
+
+<path fill="none" stroke="white" stroke-width="2" d="M836.98,-1711.83C861.25,-1722.37 888.2,-1738.53 903.92,-1762.08 961.83,-1848.83 862.49,-1917.25 931.92,-1995.08 942.78,-2007.25 958.02,-2014.43 973.83,-2018.57" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="973.08,-2021.99 983.59,-2020.64 974.53,-2015.14 973.08,-2021.99" style=""/>
+</g>
+<!-- OrderHelpers.announceOpenLeverage&#45;&gt;leverageModProxy.balanceOf -->
+<g id="edge166" class="edge" data-name="OrderHelpers.announceOpenLeverage-&gt;leverageModProxy.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M852.47,-1709.92C872.32,-1719.71 891.91,-1733.91 903.92,-1753.08 957.81,-1839.13 866.58,-2131.39 931.92,-2209.08 944.92,-2224.53 965,-2232.04 984.68,-2235.99" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="984.05,-2239.43 994.49,-2237.62 985.19,-2232.53 984.05,-2239.43" style=""/>
+</g>
+<!-- OrderHelpers.announceOpenLeverage&#45;&gt;leverageModProxy.balanceOf -->
+<g id="edge177" class="edge" data-name="OrderHelpers.announceOpenLeverage-&gt;leverageModProxy.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M822.98,-1713.13C850.46,-1724.58 885.81,-1742.17 903.92,-1771.08 957.81,-1857.13 866.58,-2149.39 931.92,-2227.08 945.52,-2243.24 966.86,-2250.72 987.4,-2253.3" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="987.08,-2256.78 997.32,-2254.08 987.62,-2249.8 987.08,-2256.78" style=""/>
+</g>
+<!-- OrderHelpers.announceOpenLeverage&#45;&gt;delayedOrderProxy.keeperFeeContract -->
+<g id="edge164" class="edge" data-name="OrderHelpers.announceOpenLeverage-&gt;delayedOrderProxy.keeperFeeContract">
+
+<path fill="none" stroke="white" stroke-width="2" d="M838.81,-1711.65C863.06,-1722.06 889.45,-1738.16 903.92,-1762.08 956.8,-1849.49 867.38,-2601.9 931.92,-2681.08 937.66,-2688.13 944.88,-2693.53 952.87,-2697.65" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="951.27,-2700.77 961.84,-2701.48 954.01,-2694.33 951.27,-2700.77" style=""/>
+</g>
+<!-- OrderHelpers.announceOpenLeverage&#45;&gt;delayedOrderProxy.announcedOrder -->
+<g id="edge182" class="edge" data-name="OrderHelpers.announceOpenLeverage-&gt;delayedOrderProxy.announcedOrder">
+
+<path fill="none" stroke="white" stroke-width="2" d="M838.77,-1711.67C863.01,-1722.09 889.4,-1738.19 903.92,-1762.08 950.75,-1839.13 874.82,-2503.31 931.92,-2573.08 939.1,-2581.85 948.56,-2588.08 958.96,-2592.45" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="957.58,-2595.68 968.18,-2595.65 959.88,-2589.07 957.58,-2595.68" style=""/>
+</g>
+<!-- delayedOrderProxy.announceLeverageOpen -->
+<g id="node46" class="node" pointer-events="visible" data-name="delayedOrderProxy.announceLeverageOpen">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1046.42" cy="-2546.08" rx="104.74" ry="18" style=""/>
+<text text-anchor="middle" x="1046.42" y="-2541.88" font-family="Times,serif" font-size="14.00" style="">announceLeverageOpen</text>
+</g>
+<!-- OrderHelpers.announceOpenLeverage&#45;&gt;delayedOrderProxy.announceLeverageOpen -->
+<g id="edge173" class="edge" data-name="OrderHelpers.announceOpenLeverage-&gt;delayedOrderProxy.announceLeverageOpen">
+
+<path fill="none" stroke="white" stroke-width="2" d="M838.74,-1711.69C862.97,-1722.11 889.37,-1738.21 903.92,-1762.08 947.56,-1833.67 879.55,-2450.62 931.92,-2516.08 936.08,-2521.27 941.01,-2525.63 946.46,-2529.27" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="944.43,-2532.15 954.87,-2533.97 947.85,-2526.04 944.43,-2532.15" style=""/>
+</g>
+<!-- OrderHelpers.announceCloseLeverage&#45;&gt;OrderHelpers.address -->
+<g id="edge190" class="edge" data-name="OrderHelpers.announceCloseLeverage-&gt;OrderHelpers.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M846.5,-1773.35C872.68,-1767.15 903.64,-1760.48 931.92,-1756.08 982.4,-1748.25 1122.7,-1769.97 1160.92,-1736.08 1220.85,-1682.94 1243.36,-1428.09 1249.56,-1337.29" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1253.04,-1337.65 1250.2,-1327.44 1246.06,-1337.19 1253.04,-1337.65" style=""/>
+</g>
+<!-- OrderHelpers.announceCloseLeverage&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge195" class="edge" data-name="OrderHelpers.announceCloseLeverage-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M799.21,-1769.87C823.43,-1753.57 873.11,-1739.14 903.92,-1710.08 923.88,-1691.26 914.5,-1676.27 931.92,-1655.08 948.7,-1634.69 970.92,-1615.99 991.25,-1602.94" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="992.94,-1606.01 999.7,-1597.86 989.33,-1600.01 992.94,-1606.01" style=""/>
+</g>
+<!-- OrderHelpers.announceCloseLeverage&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge197" class="edge" data-name="OrderHelpers.announceCloseLeverage-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M825.61,-1771.21C850.65,-1761.97 882.04,-1748.72 903.92,-1728.08 923.88,-1709.26 914.5,-1694.27 931.92,-1673.08 951.68,-1649.07 978.97,-1627.41 1001.85,-1612.5" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1003.47,-1615.61 1010.1,-1607.35 999.76,-1609.67 1003.47,-1615.61" style=""/>
+</g>
+<!-- OrderHelpers.announceCloseLeverage&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge199" class="edge" data-name="OrderHelpers.announceCloseLeverage-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M858.37,-1775.13C874.69,-1767.92 890.97,-1758.29 903.92,-1746.08 923.88,-1727.26 914.5,-1712.27 931.92,-1691.08 956.03,-1661.77 991.38,-1635.97 1016.21,-1617.93" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1018.01,-1620.95 1024.02,-1612.23 1013.88,-1615.3 1018.01,-1620.95" style=""/>
+</g>
+<!-- OrderHelpers.announceCloseLeverage&#45;&gt;OrderHelpers.assertEq -->
+<g id="edge203" class="edge" data-name="OrderHelpers.announceCloseLeverage-&gt;OrderHelpers.assertEq">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M881.53,-1780.96C889.59,-1776.06 897.2,-1770.42 903.92,-1764.08 923.88,-1745.26 914.5,-1730.27 931.92,-1709.08 960.17,-1674.75 1003.82,-1645.23 1027.93,-1621.36" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1030.46,-1623.78 1034.64,-1614.04 1025.3,-1619.04 1030.46,-1623.78" style=""/>
+</g>
+<!-- OrderHelpers.announceCloseLeverage&#45;&gt;OrderHelpers.assertGt -->
+<g id="edge201" class="edge" data-name="OrderHelpers.announceCloseLeverage-&gt;OrderHelpers.assertGt">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M830.81,-1771.55C853.29,-1765.31 880.5,-1757.74 903.92,-1748.08 917.18,-1742.62 918.71,-1737.62 931.92,-1732.08 950.26,-1724.4 971.01,-1717.94 989.71,-1713.37" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="990.34,-1716.82 999.32,-1711.19 988.79,-1709.99 990.34,-1716.82" style=""/>
+</g>
+<!-- OrderHelpers.announceCloseLeverage&#45;&gt;OrderHelpers.assertGt -->
+<g id="edge202" class="edge" data-name="OrderHelpers.announceCloseLeverage-&gt;OrderHelpers.assertGt">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M870.99,-1777.7C882.22,-1774.3 893.45,-1770.4 903.92,-1766.08 917.18,-1760.62 918.71,-1755.62 931.92,-1750.08 954.7,-1740.53 981.22,-1732.88 1002.89,-1726.51" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1003.86,-1729.87 1012.45,-1723.67 1001.87,-1723.16 1003.86,-1729.87" style=""/>
+</g>
+<!-- OrderHelpers.announceCloseLeverage&#45;&gt;WETH.balanceOf -->
+<g id="edge184" class="edge" data-name="OrderHelpers.announceCloseLeverage-&gt;WETH.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M823.48,-1771.05C851.02,-1759.66 886.24,-1742.13 903.92,-1713.08 948.79,-1639.39 877.23,-1003.81 931.92,-937.08 945.48,-920.54 967.16,-913.06 987.96,-910.6" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="987.97,-914.1 997.7,-909.9 987.47,-907.12 987.97,-914.1" style=""/>
+</g>
+<!-- OrderHelpers.announceCloseLeverage&#45;&gt;WETH.balanceOf -->
+<g id="edge196" class="edge" data-name="OrderHelpers.announceCloseLeverage-&gt;WETH.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M853.06,-1774.27C872.83,-1764.49 892.22,-1750.31 903.92,-1731.08 948.79,-1657.39 877.23,-1021.81 931.92,-955.08 944.84,-939.33 965.12,-931.79 984.98,-927.89" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="985.26,-931.39 994.57,-926.33 984.14,-924.48 985.26,-931.39" style=""/>
+</g>
+<!-- OrderHelpers.announceCloseLeverage&#45;&gt;stableModProxy.stableCollateralPerShare -->
+<g id="edge186" class="edge" data-name="OrderHelpers.announceCloseLeverage-&gt;stableModProxy.stableCollateralPerShare">
+
+<path fill="none" stroke="white" stroke-width="2" d="M823.54,-1771.09C851.11,-1759.72 886.35,-1742.19 903.92,-1713.08 959.6,-1620.88 863.94,-827.63 931.92,-744.08 932.85,-742.94 933.82,-741.85 934.82,-740.79" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="937.05,-743.49 942.4,-734.35 932.52,-738.16 937.05,-743.49" style=""/>
+</g>
+<!-- OrderHelpers.announceCloseLeverage&#45;&gt;stableModProxy.stableCollateralPerShare -->
+<g id="edge200" class="edge" data-name="OrderHelpers.announceCloseLeverage-&gt;stableModProxy.stableCollateralPerShare">
+
+<path fill="none" stroke="white" stroke-width="2" d="M853.15,-1774.32C872.91,-1764.55 892.29,-1750.35 903.92,-1731.08 959.6,-1638.88 863.94,-845.63 931.92,-762.08 938.31,-754.24 946.52,-748.43 955.6,-744.09" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="956.69,-747.42 964.68,-740.46 954.1,-740.92 956.69,-747.42" style=""/>
+</g>
+<!-- OrderHelpers.announceCloseLeverage&#45;&gt;vm.prank -->
+<g id="edge188" class="edge" data-name="OrderHelpers.announceCloseLeverage-&gt;vm.prank">
+
+<path fill="none" stroke="white" stroke-width="2" d="M823.36,-1770.98C850.84,-1759.55 886.04,-1742 903.92,-1713.08 968.9,-1608.07 863.74,-1261.04 931.92,-1158.08 947.19,-1135.03 975.02,-1121.33 999.3,-1114.46" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1000.12,-1117.86 1009.01,-1112.11 998.47,-1111.06 1000.12,-1117.86" style=""/>
+</g>
+<!-- OrderHelpers.announceCloseLeverage&#45;&gt;vm.prank -->
+<g id="edge193" class="edge" data-name="OrderHelpers.announceCloseLeverage-&gt;vm.prank">
+
+<path fill="none" stroke="white" stroke-width="2" d="M852.9,-1774.17C872.65,-1764.39 892.08,-1750.23 903.92,-1731.08 968.9,-1626.07 863.74,-1279.04 931.92,-1176.08 948.76,-1150.67 980.85,-1136.63 1006.62,-1127.66" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1007.43,-1131.09 1015.8,-1124.6 1005.21,-1124.45 1007.43,-1131.09" style=""/>
+</g>
+<!-- oracleModProxy.getSellPrice -->
+<g id="node35" class="node" pointer-events="visible" data-name="oracleModProxy.getSellPrice">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1046.42" cy="-1968.08" rx="57.9" ry="18" style=""/>
+<text text-anchor="middle" x="1046.42" y="-1963.88" font-family="Times,serif" font-size="14.00" style="">getSellPrice</text>
+</g>
+<!-- OrderHelpers.announceCloseLeverage&#45;&gt;oracleModProxy.getSellPrice -->
+<g id="edge191" class="edge" data-name="OrderHelpers.announceCloseLeverage-&gt;oracleModProxy.getSellPrice">
+
+<path fill="none" stroke="white" stroke-width="2" d="M853.03,-1803.87C871.72,-1810.87 890.51,-1821.13 903.92,-1836.08 935.31,-1871.08 898.53,-1905 931.92,-1938.08 943.81,-1949.86 959.74,-1957.16 975.9,-1961.66" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="974.76,-1964.98 985.29,-1963.88 976.37,-1958.17 974.76,-1964.98" style=""/>
+</g>
+<!-- OrderHelpers.announceCloseLeverage&#45;&gt;leverageModProxy.marginAfterSettlement -->
+<g id="edge187" class="edge" data-name="OrderHelpers.announceCloseLeverage-&gt;leverageModProxy.marginAfterSettlement">
+
+<path fill="none" stroke="white" stroke-width="2" d="M857.58,-1803.14C875.46,-1810.11 892.68,-1820.52 903.92,-1836.08 967.8,-1924.49 861.9,-2242.47 931.92,-2326.08 935.76,-2330.66 940.22,-2334.54 945.1,-2337.83" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="943.31,-2340.84 953.76,-2342.64 946.71,-2334.72 943.31,-2340.84" style=""/>
+</g>
+<!-- OrderHelpers.announceCloseLeverage&#45;&gt;leverageModProxy.balanceOf -->
+<g id="edge185" class="edge" data-name="OrderHelpers.announceCloseLeverage-&gt;leverageModProxy.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M870.85,-1800.41C883.69,-1806.84 895.45,-1815.55 903.92,-1827.08 954.33,-1895.67 876.75,-2144.27 931.92,-2209.08 945.01,-2224.46 965.11,-2231.95 984.78,-2235.9" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="984.14,-2239.34 994.58,-2237.54 985.29,-2232.44 984.14,-2239.34" style=""/>
+</g>
+<!-- OrderHelpers.announceCloseLeverage&#45;&gt;leverageModProxy.balanceOf -->
+<g id="edge198" class="edge" data-name="OrderHelpers.announceCloseLeverage-&gt;leverageModProxy.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M840.05,-1805.71C863.5,-1813.04 888.87,-1824.6 903.92,-1845.08 954.33,-1913.67 876.75,-2162.27 931.92,-2227.08 945.56,-2243.1 966.81,-2250.57 987.25,-2253.18" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="986.87,-2256.66 997.12,-2253.98 987.44,-2249.68 986.87,-2256.66" style=""/>
+</g>
+<!-- OrderHelpers.announceCloseLeverage&#45;&gt;leverageModProxy.getPosition -->
+<g id="edge192" class="edge" data-name="OrderHelpers.announceCloseLeverage-&gt;leverageModProxy.getPosition">
+
+<path fill="none" stroke="white" stroke-width="2" d="M857.95,-1803.22C875.71,-1810.19 892.79,-1820.58 903.92,-1836.08 974.54,-1934.4 854.47,-2287.06 931.92,-2380.08 943.4,-2393.86 960.5,-2401.34 977.98,-2405.23" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="977.26,-2408.65 987.71,-2406.94 978.47,-2401.76 977.26,-2408.65" style=""/>
+</g>
+<!-- leverageModProxy.approve -->
+<g id="node42" class="node" pointer-events="visible" data-name="leverageModProxy.approve">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1046.42" cy="-2191.08" rx="42.28" ry="18" style=""/>
+<text text-anchor="middle" x="1046.42" y="-2186.88" font-family="Times,serif" font-size="14.00" style="">approve</text>
+</g>
+<!-- OrderHelpers.announceCloseLeverage&#45;&gt;leverageModProxy.approve -->
+<g id="edge189" class="edge" data-name="OrderHelpers.announceCloseLeverage-&gt;leverageModProxy.approve">
+
+<path fill="none" stroke="white" stroke-width="2" d="M856.99,-1803.23C874.97,-1810.2 892.4,-1820.59 903.92,-1836.08 947.6,-1894.77 884.17,-2108.66 931.92,-2164.08 946.21,-2180.67 968.66,-2188.06 989.84,-2191.07" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="989.46,-2194.55 999.76,-2192.1 990.18,-2187.58 989.46,-2194.55" style=""/>
+</g>
+<!-- OrderHelpers.announceCloseLeverage&#45;&gt;delayedOrderProxy.keeperFeeContract -->
+<g id="edge183" class="edge" data-name="OrderHelpers.announceCloseLeverage-&gt;delayedOrderProxy.keeperFeeContract">
+
+<path fill="none" stroke="white" stroke-width="2" d="M858.14,-1803.09C875.9,-1810.05 892.93,-1820.48 903.92,-1836.08 958.03,-1912.88 872.48,-2608.35 931.92,-2681.08 937.67,-2688.12 944.89,-2693.52 952.89,-2697.64" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="951.29,-2700.76 961.86,-2701.46 954.03,-2694.32 951.29,-2700.76" style=""/>
+</g>
+<!-- OrderHelpers.announceCloseLeverage&#45;&gt;delayedOrderProxy.announcedOrder -->
+<g id="edge204" class="edge" data-name="OrderHelpers.announceCloseLeverage-&gt;delayedOrderProxy.announcedOrder">
+
+<path fill="none" stroke="white" stroke-width="2" d="M858.09,-1803.12C875.85,-1810.09 892.89,-1820.5 903.92,-1836.08 951.28,-1902.96 879.91,-2509.76 931.92,-2573.08 939.12,-2581.84 948.59,-2588.06 958.99,-2592.43" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="957.62,-2595.66 968.21,-2595.63 959.91,-2589.04 957.62,-2595.66" style=""/>
+</g>
+<!-- delayedOrderProxy.announceLeverageClose -->
+<g id="node47" class="node" pointer-events="visible" data-name="delayedOrderProxy.announceLeverageClose">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1046.42" cy="-2654.08" rx="105.9" ry="18" style=""/>
+<text text-anchor="middle" x="1046.42" y="-2649.88" font-family="Times,serif" font-size="14.00" style="">announceLeverageClose</text>
+</g>
+<!-- OrderHelpers.announceCloseLeverage&#45;&gt;delayedOrderProxy.announceLeverageClose -->
+<g id="edge194" class="edge" data-name="OrderHelpers.announceCloseLeverage-&gt;delayedOrderProxy.announceLeverageClose">
+
+<path fill="none" stroke="white" stroke-width="2" d="M858.12,-1803.11C875.88,-1810.07 892.91,-1820.49 903.92,-1836.08 954.66,-1907.92 876.19,-2559.05 931.92,-2627.08 935.22,-2631.11 939,-2634.6 943.14,-2637.62" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="941.09,-2640.48 951.47,-2642.64 944.71,-2634.48 941.09,-2640.48" style=""/>
+</g>
+<!-- OrderHelpers.executeOpenLeverage&#45;&gt;OrderHelpers.getPriceUpdateData -->
+<g id="edge206" class="edge" data-name="OrderHelpers.executeOpenLeverage-&gt;OrderHelpers.getPriceUpdateData">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M851.93,-1373.23C868.96,-1377.12 887.17,-1381.53 903.92,-1386.08 930.84,-1393.41 960.29,-1402.58 985.31,-1410.73" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="984.12,-1414.02 994.71,-1413.81 986.3,-1407.37 984.12,-1414.02" style=""/>
+</g>
+<!-- OrderHelpers.executeOpenLeverage&#45;&gt;vm.startPrank -->
+<g id="edge205" class="edge" data-name="OrderHelpers.executeOpenLeverage-&gt;vm.startPrank">
+
+<path fill="none" stroke="white" stroke-width="2" d="M861.56,-1347.17C877.57,-1342.7 892.91,-1335.39 903.92,-1323.08 977.62,-1240.77 858.66,-1158.77 931.92,-1076.08 945.87,-1060.34 967.18,-1052.93 987.59,-1050.28" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="987.75,-1053.77 997.42,-1049.45 987.16,-1046.8 987.75,-1053.77" style=""/>
+</g>
+<!-- OrderHelpers.executeOpenLeverage&#45;&gt;vm.startPrank -->
+<g id="edge207" class="edge" data-name="OrderHelpers.executeOpenLeverage-&gt;vm.startPrank">
+
+<path fill="none" stroke="white" stroke-width="2" d="M882.1,-1357.29C890.29,-1353.25 897.78,-1347.94 903.92,-1341.08 977.62,-1258.77 858.66,-1176.77 931.92,-1094.08 945.42,-1078.85 965.81,-1071.42 985.6,-1067.46" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="986.17,-1070.91 995.46,-1065.81 985.02,-1064.01 986.17,-1070.91" style=""/>
+</g>
+<!-- OrderHelpers.executeCloseLeverage&#45;&gt;OrderHelpers.getPriceUpdateData -->
+<g id="edge209" class="edge" data-name="OrderHelpers.executeCloseLeverage-&gt;OrderHelpers.getPriceUpdateData">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M877.93,-1419.51C900.62,-1421.07 924.97,-1422.76 947.87,-1424.34" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="947.56,-1427.83 957.78,-1425.02 948.04,-1420.84 947.56,-1427.83" style=""/>
+</g>
+<!-- OrderHelpers.executeCloseLeverage&#45;&gt;vm.startPrank -->
+<g id="edge208" class="edge" data-name="OrderHelpers.executeCloseLeverage-&gt;vm.startPrank">
+
+<path fill="none" stroke="white" stroke-width="2" d="M862.66,-1401.07C878.33,-1396.57 893.24,-1389.26 903.92,-1377.08 948.23,-1326.58 887.88,-1126.81 931.92,-1076.08 945.77,-1060.14 967.16,-1052.7 987.66,-1050.1" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="987.87,-1053.59 997.55,-1049.3 987.3,-1046.61 987.87,-1053.59" style=""/>
+</g>
+<!-- OrderHelpers.executeCloseLeverage&#45;&gt;vm.startPrank -->
+<g id="edge210" class="edge" data-name="OrderHelpers.executeCloseLeverage-&gt;vm.startPrank">
+
+<path fill="none" stroke="white" stroke-width="2" d="M883.08,-1411C890.92,-1406.98 898.06,-1401.77 903.92,-1395.08 948.23,-1344.58 887.88,-1144.81 931.92,-1094.08 945.33,-1078.64 965.82,-1071.18 985.71,-1067.25" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="986,-1070.75 995.3,-1065.67 984.87,-1063.85 986,-1070.75" style=""/>
+</g>
+<!-- key -->
+<g id="node48" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="215.38,-2779.08 85.38,-2779.08 85.38,-2691.08 215.38,-2691.08 215.38,-2779.08" style=""/>
+<text text-anchor="start" x="135.02" y="-2760.48" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="131.13" y="-2740.48" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="108.58" y="-2720.48" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="94.98" y="-2700.48" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node49" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="501.44,-2779.08 447.44,-2779.08 447.44,-2691.08 501.44,-2691.08 501.44,-2779.08" style=""/>
+<text text-anchor="start" x="464.44" y="-2760.48" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="464.44" y="-2740.48" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="none" points="462.44,-2715.08 462.44,-2735.08 487.44,-2735.08 487.44,-2715.08 462.44,-2715.08" style=""/>
+<text text-anchor="start" x="464.44" y="-2720.48" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="464.44,-2697.08 464.44,-2713.08 485.44,-2713.08 485.44,-2697.08 464.44,-2697.08" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge211" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M208.38,-2765.08C316.46,-2765.08 346.64,-2765.08 448.63,-2765.08" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="448.41,-2768.58 458.41,-2765.08 448.41,-2761.58 448.41,-2768.58" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge212" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M208.38,-2745.08C316.46,-2745.08 346.64,-2745.08 448.63,-2745.08" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="448.41,-2748.58 458.41,-2745.08 448.41,-2741.58 448.41,-2748.58" style=""/>
+</g>
+</g>
+</svg>
