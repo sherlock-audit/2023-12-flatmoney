@@ -1,0 +1,461 @@
+[
+  {
+      "anonymous": false,
+      "inputs": [
+      {
+          "indexed": false,
+          "internalType": "address",
+          "name": "depositor",
+          "type": "address"
+      },
+      {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "depositAmount",
+          "type": "uint256"
+      },
+      {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "mintedAmount",
+          "type": "uint256"
+      }
+      ],
+      "name": "Deposit",
+      "type": "event"
+  },
+  {
+      "anonymous": false,
+      "inputs": [
+      {
+          "indexed": false,
+          "internalType": "bytes",
+          "name": "reason",
+          "type": "bytes"
+      }
+      ],
+      "name": "GelatoTaskCancellationFailedLogBytes",
+      "type": "event"
+  },
+  {
+      "anonymous": false,
+      "inputs": [
+      {
+          "indexed": false,
+          "internalType": "string",
+          "name": "reason",
+          "type": "string"
+      }
+      ],
+      "name": "GelatoTaskCancellationFailedLogString",
+      "type": "event"
+  },
+  {
+      "anonymous": false,
+      "inputs": [
+      {
+          "indexed": false,
+          "internalType": "bytes",
+          "name": "reason",
+          "type": "bytes"
+      }
+      ],
+      "name": "GelatoTaskCreationFailedLogBytes",
+      "type": "event"
+  },
+  {
+      "anonymous": false,
+      "inputs": [
+      {
+          "indexed": false,
+          "internalType": "string",
+          "name": "reason",
+          "type": "string"
+      }
+      ],
+      "name": "GelatoTaskCreationFailedLogString",
+      "type": "event"
+  },
+  {
+      "anonymous": false,
+      "inputs": [
+      {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "tokenId",
+          "type": "uint256"
+      }
+      ],
+      "name": "LeverageClose",
+      "type": "event"
+  },
+  {
+      "anonymous": false,
+      "inputs": [
+      {
+          "indexed": false,
+          "internalType": "address",
+          "name": "account",
+          "type": "address"
+      },
+      {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "tokenId",
+          "type": "uint256"
+      }
+      ],
+      "name": "LeverageOpen",
+      "type": "event"
+  },
+  {
+      "anonymous": false,
+      "inputs": [
+      {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "oldRatio",
+          "type": "uint256"
+      },
+      {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "newRatio",
+          "type": "uint256"
+      }
+      ],
+      "name": "LiquidationBufferRatioModified",
+      "type": "event"
+  },
+  {
+      "anonymous": false,
+      "inputs": [
+      {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "oldMin",
+          "type": "uint256"
+      },
+      {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "oldMax",
+          "type": "uint256"
+      },
+      {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "newMin",
+          "type": "uint256"
+      },
+      {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "newMax",
+          "type": "uint256"
+      }
+      ],
+      "name": "LiquidationFeeBoundsModified",
+      "type": "event"
+  },
+  {
+      "anonymous": false,
+      "inputs": [
+      {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "oldRatio",
+          "type": "uint256"
+      },
+      {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "newRatio",
+          "type": "uint256"
+      }
+      ],
+      "name": "LiquidationFeeRatioModified",
+      "type": "event"
+  },
+  {
+      "anonymous": false,
+      "inputs": [
+      {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "amount",
+          "type": "uint256"
+      }
+      ],
+      "name": "LiquidationFeesWithdrawn",
+      "type": "event"
+  },
+  {
+      "anonymous": false,
+      "inputs": [
+      {
+          "indexed": false,
+          "internalType": "address",
+          "name": "depositor",
+          "type": "address"
+      },
+      {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "amount",
+          "type": "uint256"
+      }
+      ],
+      "name": "LiquidationFundsDeposited",
+      "type": "event"
+  },
+  {
+      "anonymous": false,
+      "inputs": [
+      {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "tokenId",
+          "type": "uint256"
+      },
+      {
+          "indexed": false,
+          "internalType": "bytes32",
+          "name": "taskId",
+          "type": "bytes32"
+      }
+      ],
+      "name": "LiquidationTaskCancelled",
+      "type": "event"
+  },
+  {
+      "anonymous": false,
+      "inputs": [
+      {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "tokenId",
+          "type": "uint256"
+      },
+      {
+          "indexed": false,
+          "internalType": "bytes32",
+          "name": "taskId",
+          "type": "bytes32"
+      }
+      ],
+      "name": "LiquidationTaskCreated",
+      "type": "event"
+  },
+  {
+      "anonymous": false,
+      "inputs": [
+      {
+          "indexed": false,
+          "internalType": "address",
+          "name": "account",
+          "type": "address"
+      },
+      {
+          "indexed": false,
+          "internalType": "enum IDelayedOrder.OrderType",
+          "name": "orderType",
+          "type": "uint8"
+      },
+      {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "keeperFee",
+          "type": "uint256"
+      }
+      ],
+      "name": "OrderAnnounced",
+      "type": "event"
+  },
+  {
+      "anonymous": false,
+      "inputs": [
+      {
+          "indexed": false,
+          "internalType": "address",
+          "name": "account",
+          "type": "address"
+      },
+      {
+          "indexed": false,
+          "internalType": "enum IDelayedOrder.OrderType",
+          "name": "orderType",
+          "type": "uint8"
+      }
+      ],
+      "name": "OrderCancelled",
+      "type": "event"
+  },
+  {
+      "anonymous": false,
+      "inputs": [
+      {
+          "indexed": false,
+          "internalType": "address",
+          "name": "account",
+          "type": "address"
+      },
+      {
+          "indexed": false,
+          "internalType": "enum IDelayedOrder.OrderType",
+          "name": "orderType",
+          "type": "uint8"
+      },
+      {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "keeperFee",
+          "type": "uint256"
+      }
+      ],
+      "name": "OrderExecuted",
+      "type": "event"
+  },
+  {
+      "anonymous": false,
+      "inputs": [
+      {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "tokenId",
+          "type": "uint256"
+      },
+      {
+          "indexed": false,
+          "internalType": "address",
+          "name": "liquidator",
+          "type": "address"
+      },
+      {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "liquidationFee",
+          "type": "uint256"
+      }
+      ],
+      "name": "PositionLiquidated",
+      "type": "event"
+  },
+  {
+      "anonymous": false,
+      "inputs": [
+      {
+          "indexed": false,
+          "internalType": "address",
+          "name": "asset",
+          "type": "address"
+      }
+      ],
+      "name": "SetAsset",
+      "type": "event"
+  },
+  {
+      "anonymous": false,
+      "inputs": [
+      {
+          "components": [
+          {
+              "internalType": "contract IPyth",
+              "name": "oracleContract",
+              "type": "address"
+          },
+          {
+              "internalType": "bytes32",
+              "name": "priceId",
+              "type": "bytes32"
+          },
+          {
+              "internalType": "uint32",
+              "name": "maxAge",
+              "type": "uint32"
+          },
+          {
+              "internalType": "uint32",
+              "name": "minConfidenceRatio",
+              "type": "uint32"
+          }
+          ],
+          "indexed": false,
+          "internalType": "struct FlatcoinStructs.OffchainOracle",
+          "name": "oracle",
+          "type": "tuple"
+      }
+      ],
+      "name": "SetOffChainOracle",
+      "type": "event"
+  },
+  {
+      "anonymous": false,
+      "inputs": [
+      {
+          "components": [
+          {
+              "internalType": "contract IChainlinkAggregatorV3",
+              "name": "oracleContract",
+              "type": "address"
+          },
+          {
+              "internalType": "uint32",
+              "name": "maxAge",
+              "type": "uint32"
+          }
+          ],
+          "indexed": false,
+          "internalType": "struct FlatcoinStructs.OnchainOracle",
+          "name": "oracle",
+          "type": "tuple"
+      }
+      ],
+      "name": "SetOnChainOracle",
+      "type": "event"
+  },
+  {
+      "anonymous": false,
+      "inputs": [
+      {
+          "indexed": false,
+          "internalType": "address",
+          "name": "oldAddress",
+          "type": "address"
+      },
+      {
+          "indexed": false,
+          "internalType": "address",
+          "name": "newAddress",
+          "type": "address"
+      }
+      ],
+      "name": "VaultAddressModified",
+      "type": "event"
+  },
+  {
+      "anonymous": false,
+      "inputs": [
+      {
+          "indexed": false,
+          "internalType": "address",
+          "name": "withdrawer",
+          "type": "address"
+      },
+      {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "withdrawAmount",
+          "type": "uint256"
+      },
+      {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "burnedAmount",
+          "type": "uint256"
+      }
+      ],
+      "name": "Withdraw",
+      "type": "event"
+  }
+]
